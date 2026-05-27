@@ -51,10 +51,7 @@ def greet(*args, **kwargs):
         print("Hello, " + name + ".")
     for key, value in kwargs.items():
         print(key + ": " + value)
-#Lambda Function
-add = lambda x, y: x + y
-result = add(5, 3)
-print("The sum is:", result)
+
 #if we dont give return then python will return None
 
 #local and global variable
@@ -71,7 +68,6 @@ def modify_global():
     x = 5  # Modify the global variable
     print("Inside the function, x =", x)
 modify_global()
-'''
 #Nested Functions
 def outer_function():
     print("This is the outer function.")
@@ -79,7 +75,61 @@ def outer_function():
         print("This is the inner function.")
     inner_function()  # Call the inner function
 outer_function()  # Call the outer function
+#Fuction are 1 first class citizens in python
+def square(x):
+    return x * x
+type(square)  # Output: <class 'function'>
+id(square)  # Output: Memory address of the function object
+#can be assigned to a variable
+sqr = square
+print(sqr(5))  # Output: 25
+#delete the function
+#del square
+#Now, trying to call square will result in a NameError
+try:
+    print(square(5))
+except NameError as e:
+    print(e)  # Output: name 'square' is not defined
+#restore the function
+l=[1,2,3,squre]
+#function is immutable
+#return a function from another function
+def outer():
+    def inner(a,b):
+        return a+b
+    return inner
+my_inner_function = outer()(2,3)
+print(my_inner_function())  # Output: 5
 
+# give a input as the function
+def greet(name):
+    return "Hello, " + name + ". Good morning!" 
+def process_greeting(func, name):
+    return func(name)
+greeting_message = process_greeting(greet, "Alice")
+print(greeting_message)  # Output: Hello, Alice. Good morning!
+'''
+#Lambda Function
+#Lambda functions are anonymous functions that can have any number of arguments but only one expression. They are often used for short, simple functions that are not reused elsewhere in the code.
+#they return the value of the expression they evaluate
+add = lambda x, y: x + y
+result = add(5, 3)
+print("The sum is:", result)
+a=lambda x: "even" if x%2==0 else "odd"
+print(a(4))  # Output: even
+#Map function
+numbers = [1, 2, 3, 4, 5]
+squared = list(map(lambda x: x**2, numbers))
+print(squared)  # Output: [1, 4, 9, 16, 25]
+#Filter function
+numbers = [1, 2, 3, 4, 5]
+even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
+print(even_numbers)  # Output: [2, 4]
+#Reduce function
+from functools import reduce
+numbers = [1, 2, 3, 4, 5]
+product = reduce(lambda x, y: x * y, numbers)
+print(product)  # Output: 120
 
  
 
