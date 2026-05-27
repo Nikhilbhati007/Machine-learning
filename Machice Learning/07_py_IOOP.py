@@ -116,6 +116,114 @@ f5=f1*f2
 print("Multiplication: ",f5)
 f6=f1/f2
 print("Division: ",f6)
-'''
+#Creating 2d coordinate class to perform basic arithmetic operations
+class Point:
+    def __init__(self,x=0,y=0):
+        self.x=x
+        self.y=y
+    def __str__(self):
+        return "("+str(self.x)+","+str(self.y)+")"
+    def distance_from_orign(self):
+        return (self.x**2 + self.y**2) ** 0.5
+    def distance_from_point(self,other):
+        return ((self.x-other.x)**2 + (self.y-other.y)**2) ** 0.5
+class Line:
+    def __init__(self,A,B,C):
+        self.A=A
+        self.B=B
+        self.C=C
+    def __str__(self):
+        return str(self.A)+"x + "+str(self.B)+"y + "+str(self.C)+" = 0"
+    def point_on_line(self,point):
+        if  self.A*point.x + self.B*point.y + self.C == 0:
+            return True
+        else:
+            return False
+    def distance_from_point(self,point):
+        return abs(self.A*point.x + self.B*point.y + self.C) / (self.A**2 + self.B**2) ** 0.5
 
-    
+        
+
+p1=Point(3,4)
+print("Point 1: ",p1)
+print("Distance from origin: ",p1.distance_from_orign())
+p2=Point(6,8)
+print("Point 2: ",p2)
+print("Distance from point 1: ",p1.distance_from_point(p2))
+l=Line(1,2,3)
+print("Line: ",l)
+print("Is point 1 on line? ",l.point_on_line(p1))
+print("Distance from point 1 to line: ",l.distance_from_point(p1))
+
+#Refernce variable is a variable that refers to the same object in memory
+class A:
+    def __init__(self,x):
+        self.x=x
+a1=A(10)
+a2=a1#a2 is reference variable that refers to the same object in memory as a1
+print(a1.x)
+print(a2.x)
+#change the value of x using a2
+a2.x=20
+print(a1.x)
+#Pass by reference
+class B:
+    def __init__(self,x):
+        self.x=x#instance variable
+def change_value(b):
+    b.x=30
+    print("Value changed to: ",b.x)
+b1=B(10)
+print(b1.x)
+change_value(b1)
+#Abstraction is the process of hiding the implementation details and showing only the functionality to the user
+#Encapsulation is the process of wrapping the data and the code that manipulates the data into a single unit
+#Inheritance is the process of creating a new class from an existing class
+#Polymorphism is the process of using a single interface to represent different types of data
+#----------------Encapsulation----------------
+class Car:
+    #private variable
+    def __init__(self,make,model):
+        self.make=make
+        self.model=model
+        self.__speed=0#private variable name=>_Car__speed
+car1=Car("Toyota","Camry")
+car1.__speed=100#it will not change the value of speed because it is private variable
+#Getter and setter method to access the private variable
+class Car:
+    def __init__(self,make,model):
+        self.make=make
+        self.model=model
+        self.__speed=0
+    def get_speed(self):
+        return self.__speed
+    def set_speed(self,speed):
+        if speed>=0:
+            self.__speed=speed
+        else:
+            print("Speed cannot be negative")
+#collection of objects is called data structure
+class Student:
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age    
+s1=Student("John",20)
+s2=Student("Jane",21)
+students=[s1,s2]#list of objects
+print(students)
+for student in students:
+    print("Name: ",student.name)
+    print("Age: ",student.age)  
+'''
+#static variable is a variable that is shared among all the objects of a class
+class Employee:
+    Emp_id=0 #static variable
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+        Employee.Emp_id+=1#incrementing the value of static variable
+e1=Employee("John",30)
+print(e1.Emp_id)
+e2=Employee("Jane",25)
+print(e2.Emp_id)
+Employee.Emp_id=100#changing the value of static variable
