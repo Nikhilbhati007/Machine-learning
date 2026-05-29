@@ -214,7 +214,6 @@ print(students)
 for student in students:
     print("Name: ",student.name)
     print("Age: ",student.age)  
-'''
 #static variable is a variable that is shared among all the objects of a class
 class Employee:
     Emp_id=0 #static variable
@@ -227,3 +226,191 @@ print(e1.Emp_id)
 e2=Employee("Jane",25)
 print(e2.Emp_id)
 Employee.Emp_id=100#changing the value of static variable
+#-----------------Inheritance----------------
+#Aggregation is a special form of association where the objects have a has-a relationship
+class Engine:
+    def __init__(self,horsepower):
+        #self.horsepower=horsepower
+        self.__horsepower=horsepower#private variable
+    def get_horsepower(self):
+        return self.__horsepower
+    
+class Car:
+    def __init__(self,make,model,engine):
+        self.make=make
+        self.model=model
+        self.engine=engine#has-a relationship
+engine1=Engine(200)
+car1=Car("Toyota","Camry",engine1)
+print("Car: ",car1.make,car1.model)
+print("Engine horsepower: ",car1.engine.get_horsepower())
+#inheritance is a process of creating a new class from an existing class
+#udemy course
+#parent class
+class User:
+    def __init__(self,name,email):
+        self.name=name
+        self.email=email
+    def display(self):
+        print("Name: ",self.name)
+        print("Email: ",self.email)
+    def login(self):
+        print(self.name,"logged in")
+#child class
+class Admin(User):  
+    def __init__(self,name,email,admin_level):
+        super().__init__(name,email)#calling the constructor of parent class
+        self.admin_level=admin_level
+    def display(self):
+        super().display()#calling the display method of parent class
+        print("Admin Level: ",self.admin_level)
+#child class
+class Student(User):
+    def __init__(self,name,email,visit_count):
+        super().__init__(name,email)
+        self.visit_count=visit_count
+    def display(self):
+        super().display()
+        print("Visit Count: ",self.visit_count)
+admin1=Admin("John","jon123@gmail.com",1)
+student1=Student("Jane","jane123@gmail.com",5)
+admin1.display()
+student1.display()
+# pirvate methods and variables are not inherited by child class but we can access them using getter and setter method
+#method overriding
+class User:
+    def __init__(self,name,id):
+        self.name=name
+        self.id=id
+    def display(self):
+        print("Name: ",self.name)
+        print("ID: ",self.id)
+class Admin(User):
+    def display(self):
+        print("Admin Level: ",self.admin_level)
+        super().display()#calling the display method of parent class
+admin1=Admin("John",123)
+admin1.admin_level=1
+admin1.display()
+#Super Keyword
+class A:
+    def __init__(self,x):
+        self.x=x
+    def display(self):
+        print("Value of x: ",self.x)
+class B(A):
+    def __init__(self,x,y):
+        super().__init__(x)#calling the constructor of parent class
+        self.y=y
+    def display(self):
+        print("Value of y: ",self.y)
+        super().display()#calling the display method of parent class
+b1=B(10,20)
+b1.display()
+#type of inheritance
+#Single Inheritance is a type of inheritance where a child class inherits from a single parent class
+#Multilevel Inheritance
+class A:
+    def __init__(self,x):
+        self.x=x
+    def display(self):
+        print("Value of x: ",self.x)
+class B(A):
+    def __init__(self,x,y):
+        super().__init__(x)
+        self.y=y
+    def display(self):
+        print("Value of y: ",self.y)
+        super().display()
+class C(B):
+    def __init__(self,x,y,z):
+        super().__init__(x,y)
+        self.z=z
+    def display(self):
+        print("Value of z: ",self.z)
+        super().display()
+c1=C(10,20,30)
+c1.display()
+#Heirarchical Inheritance
+class A:
+    def __init__(self,x):
+        self.x=x
+    def display(self):
+        print("Value of x: ",self.x)
+class B(A): 
+    def __init__(self,x,y):
+        super().__init__(x)
+        self.y=y
+    def display(self):
+        print("Value of y: ",self.y)
+        super().display()
+class C(A):
+    def __init__(self,x,z):
+        super().__init__(x)
+        self.z=z
+    def display(self):
+        print("Value of z: ",self.z)
+        super().display()       
+b1=B(10,20)
+c1=C(10,30)
+b1.display()
+c1.display()
+#Multiple Inheritance
+class A:
+    def __init__(self,x):
+        self.x=x
+    def display(self):
+        print("Value of x: ",self.x)
+class B:
+    def __init__(self,y):
+        self.y=y
+    def display(self):
+        print("Value of y: ",self.y)
+class C(A,B):
+    def __init__(self,x,y,z):
+        A.__init__(self,x)
+        B.__init__(self,y)
+        self.z=z
+    def display(self):
+        print("Value of z: ",self.z)
+        A.display(self)
+        B.display(self)
+c1=C(10,20,30)
+c1.display()
+'''
+#daimond problem
+class A:
+    def __init__(self,x):
+        self.x=x
+    def display(self):
+        print("Value of x: ",self.x)
+
+class C:
+    def __init__(self,z):
+        self.z=z
+    def display(self):
+        print("Value of z: ",self.z)
+class B(A,C):
+    pass
+b1=B(10,20)
+b1.display()#it will give error because it is not clear which display method to call
+#------------------Polymorphism----------------
+#method overloading is a process of defining multiple methods with the same name but different parameters
+class A:
+    def display(self,x):
+        print("Value of x: ",x)
+    def display(self,x,y):
+        print("Value of x: ",x)
+        print("Value of y: ",y)
+#------------------Abstraction------------------
+from abc import ABC,abstractmethod
+class Shape(ABC):
+    @abstractmethod
+    def area(self):
+        pass
+class Circle(Shape):
+    def __init__(self,radius):
+        self.radius=radius
+    def area(self):
+        return 3.14*self.radius**2
+
