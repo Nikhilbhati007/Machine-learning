@@ -1,4 +1,3 @@
-'''
 #Funtion
 def greet(name):
 #This function takes a name as an argument and prints a greeting message
@@ -108,7 +107,7 @@ def process_greeting(func, name):
     return func(name)
 greeting_message = process_greeting(greet, "Alice")
 print(greeting_message)  # Output: Hello, Alice. Good morning!
-'''
+
 #Lambda Function
 #Lambda functions are anonymous functions that can have any number of arguments but only one expression. They are often used for short, simple functions that are not reused elsewhere in the code.
 #they return the value of the expression they evaluate

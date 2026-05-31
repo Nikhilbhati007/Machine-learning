@@ -1,4 +1,4 @@
-'''
+
 #Lists
 L=[1,1.45,[1,2,3],(1,2),{1: 'one', 2: 'two'},'Python']
 #creating a list
@@ -52,7 +52,7 @@ my_list.pop()
 print(my_list)
 my_list.clear()
 print(my_list)
-'''
+
 #List comprehension
 squares = [x**2 for x in range(1, 11)]
 print(squares)

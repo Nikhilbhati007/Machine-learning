@@ -1,4 +1,4 @@
-'''
+
 #Sum of series :1/1! + 1/2! + 1/3! + 1/4! + 1/5!
 def factorial(n):
     if n == 0 or n == 1:
@@ -42,7 +42,6 @@ for i in range(1, 11):
     if i == 5:
         pass
     print(i)
-'''
 #strings
 #creation
 str1 = "Hello, World!"

@@ -1,4 +1,3 @@
-'''
 #classes consit of attributes and methods or function
 #object is an instance of a class
 #object=classname()
@@ -377,7 +376,6 @@ class C(A,B):
         B.display(self)
 c1=C(10,20,30)
 c1.display()
-'''
 #daimond problem
 class A:
     def __init__(self,x):
