@@ -84,6 +84,8 @@ print(my_set) #Output: {1, 2, 3, 4, 5, 6}
 #removing an element from a set
 my_set.remove(3)
 print(my_set) #Output: {1, 2, 4, 5, 6}
+print(len(my_set)) #Output: 5
+#my_set[0] #This will raise an error since sets are unordered
 #set operations
 set1 = {1, 2, 3}
 set2 = {3, 4, 5}
