@@ -1,4 +1,3 @@
-'''
 #type of error
 # SyntaxError
 Print("Hello World") #SyntaxError: invalid syntax
@@ -77,7 +76,6 @@ try:
     print("New balance:", new_balance)
 except ValueError as e:
     print("An error occurred:", e)
-    '''
 #custom exception:To done my task that our apllication demands
 class SecurityError(Exception):
     def __init__(self, message="Invalid email or password!"):
