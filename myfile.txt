@@ -1,7 +1,0 @@
-Hello World
-Welcome to Python
-File Handling
-This is an appended line.
-This is an appended line using with statement.
-This is an appended line using with statement.
-This is an appended line using with statement.
