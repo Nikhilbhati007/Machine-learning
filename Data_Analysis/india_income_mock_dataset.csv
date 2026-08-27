@@ -1,0 +1,2001 @@
+ID,Name,Age,Gender,State,Area_Type,Education,Occupation,Years_of_Experience,Monthly_Income_INR,Annual_Income_INR
+1,Ekta Rajagopal,43,Female,Rajasthan,Urban,Graduate,Government Clerk,19,42400,508800
+2,Laksh Bail,18,Male,Telangana,Rural,Secondary,Farmer (Landowner),0,9100,109200
+3,Nachiket Sangha,38,Male,Maharashtra,Urban,Graduate,Lawyer,17,54100,649200
+4,Kavya Saini,20,Female,West Bengal,Urban,Graduate,Shop Owner / Retailer,0,25900,310800
+5,Falguni Ramachandran,30,Female,Tamil Nadu,Urban,Graduate,Government Clerk,8,54300,651600
+6,Aarnav Singh,33,Male,Punjab,Urban,Higher Secondary,Factory Worker,8,20400,244800
+7,Zinal Tella,18,Female,Kerala,Urban,Postgraduate,Accountant / CA,0,49100,589200
+8,Laksh Sachdeva,36,Male,Delhi,Urban,Postgraduate,Doctor,14,358200,4298400
+9,Advaith Karnik,29,Male,Bihar,Urban,Postgraduate,Government Officer (IAS/IPS etc.),5,265800,3189600
+10,Amaira Lall,46,Female,Haryana,Urban,Postgraduate,Nurse,23,53200,638400
+11,Xavier Guha,35,Male,Kerala,Urban,Postgraduate,School Teacher,11,58700,704400
+12,Ishita Yohannan,41,Female,Kerala,Urban,Graduate,Civil Engineer,17,93900,1126800
+13,Nakul Brar,33,Male,Maharashtra,Urban,Higher Secondary,Government Clerk,10,43300,519600
+14,Ekani Thaman,28,Female,Gujarat,Urban,No Formal Education,Domestic Help,9,11900,142800
+15,Irya Sibal,46,Female,Karnataka,Urban,Higher Secondary,Factory Worker,23,22300,267600
+16,Ekapad Sidhu,49,Male,Uttar Pradesh,Urban,Graduate,Government Clerk,23,50300,603600
+17,Farhan Ganguly,21,Male,Gujarat,Urban,Secondary,Shop Owner / Retailer,0,20100,241200
+18,Aarav Sarna,30,Male,Gujarat,Urban,Secondary,Small Business Owner,9,104900,1258800
+19,Vincent Sehgal,18,Male,Maharashtra,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,158300,1899600
+20,Zansi Ghosh,37,Female,Telangana,Urban,Postgraduate,Data Analyst,18,147600,1771200
+21,Ikbal Prabhakar,28,Male,Delhi,Urban,Higher Secondary,Factory Worker,6,23000,276000
+22,Zaid Nair,45,Male,Bihar,Urban,Higher Secondary,Factory Worker,23,39700,476400
+23,Aarna Sura,24,Female,Bihar,Urban,Graduate,Small Business Owner,1,105300,1263600
+24,Avni Venkatesh,43,Female,Telangana,Urban,Postgraduate,College Professor,23,217800,2613600
+25,Vaishnavi Date,47,Female,Gujarat,Urban,Postgraduate,Government Officer (IAS/IPS etc.),21,126200,1514400
+26,Liam Grewal,20,Male,Kerala,Urban,Primary,Construction Worker,1,17900,214800
+27,Irya Chandran,45,Female,Tamil Nadu,Urban,No Formal Education,Construction Worker,23,16300,195600
+28,Kevin Devi,36,Male,Assam,Urban,No Formal Education,Domestic Help,13,8200,98400
+29,Watika Mandal,51,Female,Bihar,Urban,Postgraduate,Government Officer (IAS/IPS etc.),25,257200,3086400
+30,Anay Pillay,65,Male,Gujarat,Urban,Secondary,Factory Worker,41,36300,435600
+31,Maanav De,52,Male,Gujarat,Rural,No Formal Education,Agriculture Laborer,29,17200,206400
+32,Yadavi Baria,25,Female,Odisha,Urban,Secondary,Factory Worker,2,12500,150000
+33,Rachana Iyengar,36,Female,Odisha,Rural,Secondary,Agriculture Laborer,14,13800,165600
+34,Bahadurjit Nagar,32,Male,Gujarat,Urban,Primary,Construction Worker,13,13800,165600
+35,Thomas Chacko,24,Male,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,118700,1424400
+36,Quincy Joshi,43,Male,Tamil Nadu,Urban,Postgraduate,College Professor,24,322600,3871200
+37,Vansha Sastry,44,Female,Telangana,Urban,Postgraduate,Civil Engineer,23,215000,2580000
+38,Samesh Mutti,24,Male,Gujarat,Urban,No Formal Education,Auto/Taxi Driver,0,13400,160800
+39,Sathvik Raja,46,Male,Maharashtra,Urban,Secondary,Factory Worker,25,23600,283200
+40,Om Mitra,49,Male,Odisha,Urban,Graduate,Government Clerk,28,44800,537600
+41,Aashi Yogi,66,Female,Kerala,Urban,Doctorate,Doctor,43,575100,6901200
+42,Ranbir Raghavan,36,Male,Kerala,Urban,Higher Secondary,Shop Owner / Retailer,14,21400,256800
+43,Aadi Chacko,59,Male,Haryana,Urban,Postgraduate,Accountant / CA,40,135200,1622400
+44,Aadi Oak,49,Male,Odisha,Urban,Graduate,Government Clerk,29,67500,810000
+45,Andrew Basu,23,Male,Karnataka,Urban,Graduate,Shop Owner / Retailer,0,28500,342000
+46,Chatura Mitra,31,Male,Telangana,Urban,Postgraduate,Bank Employee,9,113400,1360800
+47,Zarna Mitter,38,Female,Telangana,Urban,Postgraduate,Lawyer,19,208000,2496000
+48,Pooja Luthra,38,Female,Gujarat,Urban,Postgraduate,College Professor,15,106900,1282800
+49,Kamya Khurana,43,Female,Bihar,Urban,Postgraduate,School Teacher,19,50000,600000
+50,Aryan Chanda,32,Male,Bihar,Rural,Higher Secondary,Farmer (Landowner),6,19900,238800
+51,Xalak Gade,25,Female,Maharashtra,Urban,Primary,Domestic Help,3,13200,158400
+52,Nisha Jaggi,18,Female,Karnataka,Urban,Secondary,Shop Owner / Retailer,0,32200,386400
+53,Yadavi Balasubramanian,33,Female,West Bengal,Urban,Graduate,Lawyer,12,90600,1087200
+54,Amrita Sarin,42,Female,West Bengal,Urban,Postgraduate,Accountant / CA,20,59600,715200
+55,Pranit Swamy,51,Male,Odisha,Urban,Graduate,Lawyer,31,78500,942000
+56,Yoshita Solanki,29,Female,Tamil Nadu,Urban,Graduate,Software Engineer,4,218100,2617200
+57,Aradhana Rajagopal,48,Female,Bihar,Urban,Graduate,Civil Engineer,29,64900,778800
+58,Gautam Sandal,44,Male,Maharashtra,Urban,No Formal Education,Auto/Taxi Driver,18,27300,327600
+59,Ekantika Sahota,41,Female,Karnataka,Urban,No Formal Education,Auto/Taxi Driver,18,20600,247200
+60,Onkar Seshadri,48,Male,West Bengal,Urban,Doctorate,Doctor,25,399400,4792800
+61,Bishakha Prabhakar,48,Female,Kerala,Urban,No Formal Education,Construction Worker,25,25000,300000
+62,Krisha Dasgupta,20,Female,Delhi,Urban,Higher Secondary,Factory Worker,0,23000,276000
+63,Nachiket Choudhry,18,Male,Haryana,Urban,Graduate,Shop Owner / Retailer,0,53100,637200
+64,Jagvi Garde,65,Female,West Bengal,Urban,Secondary,Construction Worker,39,30100,361200
+65,Chandresh Choudhry,27,Male,Uttar Pradesh,Urban,Primary,Domestic Help,8,10100,121200
+66,Gayathri Magar,28,Female,Assam,Urban,Graduate,Government Officer (IAS/IPS etc.),2,142300,1707600
+67,Anmol Hayer,19,Male,Maharashtra,Urban,Higher Secondary,Factory Worker,0,22600,271200
+68,Yashica Merchant,22,Female,Madhya Pradesh,Urban,Postgraduate,Doctor,2,222400,2668800
+69,Chameli Goel,36,Female,Tamil Nadu,Urban,Graduate,Government Officer (IAS/IPS etc.),10,194500,2334000
+70,Chatresh Narang,18,Male,Madhya Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),0,180600,2167200
+71,Yashasvi Sawhney,39,Female,Punjab,Urban,No Formal Education,Auto/Taxi Driver,17,20400,244800
+72,Gauri Talwar,21,Female,Rajasthan,Urban,Graduate,School Teacher,0,41900,502800
+73,Faras Dhar,53,Male,Bihar,Urban,Graduate,Data Analyst,32,200000,2400000
+74,Jeremiah Choudhry,25,Male,Punjab,Urban,Postgraduate,Civil Engineer,1,57600,691200
+75,Imaran Ganguly,50,Male,Tamil Nadu,Rural,Primary,Farmer (Landowner),29,19300,231600
+76,Yasti Ratta,34,Female,Telangana,Urban,Primary,Domestic Help,15,16000,192000
+77,Gaurav Mammen,39,Male,Uttar Pradesh,Urban,Postgraduate,Software Engineer,15,93200,1118400
+78,Aarav Mallick,24,Male,Madhya Pradesh,Urban,Secondary,Construction Worker,2,20300,243600
+79,Jeevika Kala,21,Female,Karnataka,Urban,Graduate,Bank Employee,0,40100,481200
+80,Theodore Jha,36,Male,Karnataka,Urban,Postgraduate,Civil Engineer,14,78100,937200
+81,Keya Uppal,37,Female,West Bengal,Urban,Graduate,Software Engineer,18,77300,927600
+82,Edhitha Baria,48,Female,Uttar Pradesh,Urban,Graduate,Accountant / CA,28,160800,1929600
+83,Riya Deshmukh,47,Female,Kerala,Urban,Graduate,Civil Engineer,28,63900,766800
+84,Harini Wason,48,Female,Maharashtra,Urban,Doctorate,College Professor,27,264000,3168000
+85,Samar Lad,28,Male,Maharashtra,Urban,Graduate,Government Officer (IAS/IPS etc.),7,128700,1544400
+86,Suhani Sharma,58,Female,West Bengal,Urban,Postgraduate,Accountant / CA,38,185600,2227200
+87,Advika Jani,63,Female,Tamil Nadu,Urban,Higher Secondary,Shop Owner / Retailer,40,61100,733200
+88,Omya Deol,18,Female,Rajasthan,Rural,No Formal Education,Agriculture Laborer,0,8200,98400
+89,Yauvani Maharaj,35,Female,Maharashtra,Urban,Graduate,Nurse,11,35000,420000
+90,Onkar Thaker,41,Male,Tamil Nadu,Urban,Postgraduate,Software Engineer,21,296500,3558000
+91,Watika Shah,29,Female,Haryana,Urban,Graduate,Accountant / CA,10,80300,963600
+92,Sudiksha Borra,32,Female,Kerala,Urban,Secondary,Small Business Owner,9,41500,498000
+93,Balendra Dhawan,41,Male,Gujarat,Urban,Graduate,Software Engineer,18,128100,1537200
+94,Samar Thaker,18,Male,Gujarat,Urban,Postgraduate,Bank Employee,0,63700,764400
+95,Raagini Swaminathan,30,Female,Punjab,Urban,Graduate,Software Engineer,11,188800,2265600
+96,Indira Choudhry,35,Female,Kerala,Urban,Doctorate,College Professor,13,251300,3015600
+97,Suhani Sachdev,39,Female,Bihar,Urban,Graduate,School Teacher,13,60800,729600
+98,Wazir Narayanan,44,Male,Delhi,Urban,Postgraduate,Civil Engineer,23,105400,1264800
+99,Nitara Pau,34,Female,Tamil Nadu,Urban,Postgraduate,Civil Engineer,10,117500,1410000
+100,Siya Kar,18,Female,Karnataka,Urban,Graduate,Accountant / CA,0,84800,1017600
+101,Girindra Kakar,40,Male,Haryana,Urban,Higher Secondary,Government Clerk,21,58600,703200
+102,Bishakha Jhaveri,58,Female,Assam,Rural,No Formal Education,Agriculture Laborer,36,17200,206400
+103,Ishanvi Sampath,33,Female,West Bengal,Urban,Graduate,Bank Employee,12,86600,1039200
+104,Jyoti Deshmukh,34,Female,Uttar Pradesh,Urban,Postgraduate,Accountant / CA,11,125800,1509600
+105,Dayamai Yohannan,38,Female,Kerala,Urban,Graduate,Shop Owner / Retailer,17,64400,772800
+106,Falan Jani,18,Male,Odisha,Urban,Postgraduate,Data Analyst,0,70800,849600
+107,Anya Nagarajan,34,Female,Rajasthan,Urban,Postgraduate,Data Analyst,15,159500,1914000
+108,Tanveer Prabhu,40,Male,Gujarat,Urban,Postgraduate,Nurse,16,64100,769200
+109,Jasmit Sahni,26,Female,Bihar,Rural,Secondary,Agriculture Laborer,5,12000,144000
+110,Aayush Barman,18,Male,Karnataka,Urban,Secondary,Small Business Owner,0,70700,848400
+111,Adya Khosla,35,Female,Haryana,Urban,Graduate,Government Clerk,11,51500,618000
+112,Gunbir Halder,19,Male,Uttar Pradesh,Urban,Graduate,Government Clerk,0,28900,346800
+113,Banjeet Solanki,50,Male,Delhi,Urban,Postgraduate,College Professor,24,127900,1534800
+114,Zashil Kata,28,Other,West Bengal,Rural,No Formal Education,Agriculture Laborer,7,11900,142800
+115,Hitesh Baria,40,Male,Uttar Pradesh,Urban,Postgraduate,Doctor,19,403200,4838400
+116,Yutika Agrawal,18,Female,Gujarat,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,197200,2366400
+117,Zilmil Bava,33,Female,Odisha,Urban,Postgraduate,Bank Employee,9,86200,1034400
+118,Udarsh Anand,33,Male,Kerala,Urban,Graduate,School Teacher,7,34800,417600
+119,Abeer Mani,46,Male,Maharashtra,Urban,Graduate,Accountant / CA,22,137900,1654800
+120,Vanya Ram,58,Female,Assam,Urban,Graduate,Civil Engineer,39,102500,1230000
+121,Wazir Dave,25,Male,Madhya Pradesh,Urban,Graduate,Government Clerk,5,52700,632400
+122,Vedika Devan,41,Female,Haryana,Urban,Graduate,Shop Owner / Retailer,16,64500,774000
+123,Amruta Banerjee,34,Female,Karnataka,Urban,Postgraduate,Nurse,12,43000,516000
+124,Aadhya Ram,49,Female,Tamil Nadu,Urban,No Formal Education,Auto/Taxi Driver,28,26900,322800
+125,Gaurav Misra,28,Male,Telangana,Urban,Postgraduate,Civil Engineer,3,99500,1194000
+126,Maanas Manda,31,Male,Haryana,Urban,Postgraduate,Bank Employee,5,57000,684000
+127,Gaurangi Jhaveri,62,Female,Uttar Pradesh,Urban,Postgraduate,Bank Employee,40,92600,1111200
+128,Bahadurjit Bala,48,Male,Rajasthan,Urban,Graduate,Government Clerk,26,67600,811200
+129,Jairaj Sankar,54,Male,Karnataka,Urban,Graduate,Software Engineer,30,101100,1213200
+130,Zarna Sidhu,35,Female,Kerala,Urban,Graduate,School Teacher,14,55300,663600
+131,Mugdha Gupta,43,Female,Uttar Pradesh,Urban,Secondary,Domestic Help,20,12300,147600
+132,Jasmit Pai,40,Female,Uttar Pradesh,Urban,Postgraduate,Nurse,15,39600,475200
+133,Fariq Lal,40,Male,Telangana,Urban,Graduate,Bank Employee,20,51800,621600
+134,Dayamai Bath,34,Female,Odisha,Urban,Postgraduate,Government Officer (IAS/IPS etc.),8,181600,2179200
+135,Hema Arora,40,Female,Kerala,Urban,Graduate,Government Officer (IAS/IPS etc.),18,219200,2630400
+136,Hredhaan Zachariah,32,Male,Delhi,Urban,Graduate,Nurse,7,28600,343200
+137,Rachit Raju,43,Male,Gujarat,Urban,Graduate,Government Clerk,23,66500,798000
+138,Yochana Rai,43,Female,Odisha,Urban,Postgraduate,College Professor,22,106000,1272000
+139,Warda Sodhi,54,Female,Telangana,Urban,No Formal Education,Construction Worker,29,18700,224400
+140,Krish Naidu,18,Male,Gujarat,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,227500,2730000
+141,Victor Bedi,39,Male,Madhya Pradesh,Rural,Higher Secondary,Farmer (Landowner),15,34100,409200
+142,Alka Maharaj,46,Female,Assam,Urban,Secondary,Small Business Owner,25,32200,386400
+143,Gayathri Bandi,37,Female,Delhi,Urban,Postgraduate,Bank Employee,11,68400,820800
+144,Owen Tara,58,Male,West Bengal,Urban,Doctorate,College Professor,33,190300,2283600
+145,Charan Ratta,37,Male,Telangana,Urban,Graduate,Data Analyst,12,149400,1792800
+146,Triya Sawhney,44,Female,Madhya Pradesh,Urban,Postgraduate,Software Engineer,22,304500,3654000
+147,Tejas Balay,36,Male,Bihar,Urban,No Formal Education,Auto/Taxi Driver,15,15700,188400
+148,Aryan Dhar,31,Male,Punjab,Urban,Secondary,Factory Worker,9,21500,258000
+149,Vrishti Datta,39,Female,Gujarat,Urban,Graduate,Bank Employee,14,64300,771600
+150,Sudiksha Memon,64,Female,Maharashtra,Urban,Primary,Domestic Help,42,11100,133200
+151,Zayyan Rajagopalan,33,Male,Madhya Pradesh,Rural,Secondary,Farmer (Landowner),7,16900,202800
+152,Fiyaz Mittal,39,Male,Delhi,Urban,Higher Secondary,Factory Worker,15,28300,339600
+153,Veer Garde,27,Male,Telangana,Urban,Secondary,Shop Owner / Retailer,1,16300,195600
+154,Eshana Minhas,38,Female,Gujarat,Urban,Postgraduate,School Teacher,19,74600,895200
+155,Brinda Din,45,Female,Telangana,Rural,Secondary,Agriculture Laborer,21,12000,144000
+156,Amruta Srinivasan,23,Female,Maharashtra,Urban,Higher Secondary,Factory Worker,3,23400,280800
+157,Eiravati Bhattacharyya,37,Female,Maharashtra,Urban,Graduate,Software Engineer,16,265900,3190800
+158,Alexander Bansal,28,Male,Maharashtra,Urban,Graduate,Government Officer (IAS/IPS etc.),2,97400,1168800
+159,Ayaan Rana,35,Male,Maharashtra,Urban,Postgraduate,Nurse,10,44100,529200
+160,Imaran Prakash,45,Male,Haryana,Urban,Primary,Domestic Help,22,12600,151200
+161,Yashasvi Palan,33,Female,Karnataka,Urban,Doctorate,College Professor,12,296400,3556800
+162,Dakshesh Sastry,42,Male,Maharashtra,Urban,Secondary,Factory Worker,22,29700,356400
+163,Zinal Kurian,36,Female,Maharashtra,Urban,Graduate,Nurse,16,49200,590400
+164,Samar Setty,25,Male,Telangana,Urban,Graduate,Software Engineer,1,214900,2578800
+165,Bhavya Chandra,35,Female,Tamil Nadu,Urban,Higher Secondary,Small Business Owner,11,42400,508800
+166,Vanya Wable,37,Female,Delhi,Urban,No Formal Education,Construction Worker,11,17100,205200
+167,Hema Bhatti,24,Female,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),2,117500,1410000
+168,Finn Vig,57,Male,Bihar,Urban,Graduate,Data Analyst,38,167000,2004000
+169,Rachit Wason,52,Male,Maharashtra,Urban,Postgraduate,Government Officer (IAS/IPS etc.),29,209800,2517600
+170,Samesh Johal,20,Male,Telangana,Rural,Higher Secondary,Farmer (Landowner),1,17600,211200
+171,Charita Menon,32,Female,Karnataka,Urban,Postgraduate,Doctor,6,293700,3524400
+172,Avni Borde,41,Female,Uttar Pradesh,Urban,Graduate,Data Analyst,20,78700,944400
+173,Neha Som,66,Female,Gujarat,Urban,Doctorate,College Professor,40,260100,3121200
+174,Yug Borah,35,Male,Maharashtra,Urban,Graduate,Government Clerk,14,50600,607200
+175,Hritik Sheth,49,Male,Uttar Pradesh,Urban,Postgraduate,Government Officer (IAS/IPS etc.),25,164500,1974000
+176,Chameli Mand,40,Female,Rajasthan,Urban,Postgraduate,Nurse,17,72500,870000
+177,Bakhshi Vohra,48,Male,Bihar,Urban,Higher Secondary,Government Clerk,25,56800,681600
+178,Abhimanyu Narain,54,Male,Maharashtra,Urban,Postgraduate,Bank Employee,30,132200,1586400
+179,Yatan Savant,58,Male,Rajasthan,Urban,Secondary,Auto/Taxi Driver,37,27000,324000
+180,Saanvi Ramakrishnan,44,Female,West Bengal,Urban,Doctorate,College Professor,19,243000,2916000
+181,Brijesh Cheema,44,Male,Maharashtra,Urban,Secondary,Auto/Taxi Driver,22,14900,178800
+182,Ubika Hari,51,Female,Kerala,Urban,Secondary,Small Business Owner,28,113800,1365600
+183,Anamika Jayaraman,38,Female,West Bengal,Urban,Postgraduate,Nurse,13,66100,793200
+184,Ria Kapur,50,Female,Tamil Nadu,Urban,Graduate,Bank Employee,26,72100,865200
+185,Noah Swamy,22,Male,Bihar,Rural,Secondary,Agriculture Laborer,0,10800,129600
+186,Ethan Khosla,41,Male,Delhi,Urban,Postgraduate,Accountant / CA,22,130000,1560000
+187,Lila Butala,29,Female,Karnataka,Rural,Higher Secondary,Farmer (Landowner),7,11800,141600
+188,Warjas Gala,58,Male,Delhi,Urban,Postgraduate,Software Engineer,34,253900,3046800
+189,Warda Dhar,30,Female,Uttar Pradesh,Urban,Graduate,Shop Owner / Retailer,7,40100,481200
+190,Ekavir Atwal,33,Male,Kerala,Urban,Secondary,Shop Owner / Retailer,7,42500,510000
+191,Reva Sama,42,Female,Uttar Pradesh,Urban,Higher Secondary,Small Business Owner,21,31100,373200
+192,Aarnav Krishna,46,Male,Uttar Pradesh,Urban,Secondary,Factory Worker,24,18600,223200
+193,Reva Agate,40,Female,Tamil Nadu,Urban,Doctorate,College Professor,16,99000,1188000
+194,Gautami Ahluwalia,39,Female,West Bengal,Urban,Graduate,Accountant / CA,14,77300,927600
+195,Rayaan Kuruvilla,25,Male,Uttar Pradesh,Urban,Doctorate,College Professor,2,196700,2360400
+196,Nimrat Khare,30,Female,Uttar Pradesh,Rural,Primary,Farmer (Landowner),10,29000,348000
+197,Balveer Cheema,36,Male,Bihar,Urban,Postgraduate,Accountant / CA,10,44100,529200
+198,Upma Karan,40,Female,Uttar Pradesh,Urban,Postgraduate,Lawyer,18,206100,2473200
+199,Veer Sandhu,18,Male,Rajasthan,Urban,Graduate,Nurse,0,49300,591600
+200,Faris Maharaj,33,Male,Maharashtra,Rural,Primary,Farmer (Landowner),12,16000,192000
+201,Ekta Das,50,Female,Bihar,Urban,No Formal Education,Auto/Taxi Driver,26,21500,258000
+202,Ansh Dora,49,Male,Rajasthan,Urban,Higher Secondary,Government Clerk,27,44900,538800
+203,Keya Bala,64,Female,Tamil Nadu,Urban,Higher Secondary,Factory Worker,40,34600,415200
+204,Udarsh Ravi,51,Male,Tamil Nadu,Urban,Postgraduate,School Teacher,26,79200,950400
+205,Idika Anne,21,Female,Gujarat,Urban,Graduate,Accountant / CA,2,68800,825600
+206,Dhriti Yohannan,48,Female,Bihar,Urban,Graduate,Software Engineer,29,259400,3112800
+207,Chaaya Sura,34,Female,Maharashtra,Urban,Doctorate,Doctor,10,157000,1884000
+208,Abdul Bahl,18,Male,Karnataka,Urban,Postgraduate,Accountant / CA,0,91800,1101600
+209,Warjas Loyal,41,Male,Assam,Urban,Graduate,Software Engineer,21,252900,3034800
+210,Frado Bansal,31,Male,Bihar,Urban,Postgraduate,Bank Employee,8,76600,919200
+211,Fiyaz Rana,43,Male,Maharashtra,Urban,Postgraduate,Nurse,17,48700,584400
+212,Meera Chhabra,32,Female,Punjab,Urban,Postgraduate,Government Officer (IAS/IPS etc.),8,242100,2905200
+213,Ishaan Sachar,47,Male,Telangana,Urban,Postgraduate,College Professor,24,124000,1488000
+214,Wyatt Gola,24,Male,Madhya Pradesh,Rural,Secondary,Agriculture Laborer,2,8400,100800
+215,Maya Golla,38,Female,Gujarat,Urban,Graduate,Bank Employee,17,84200,1010400
+216,Vansha Suri,46,Female,Tamil Nadu,Urban,Higher Secondary,Government Clerk,20,31000,372000
+217,Urvashi Chad,50,Female,Karnataka,Urban,Higher Secondary,Government Clerk,29,45900,550800
+218,Teerth Chhabra,51,Male,Karnataka,Urban,Secondary,Factory Worker,31,22300,267600
+219,Advika Yohannan,28,Female,Delhi,Urban,Postgraduate,School Teacher,9,63100,757200
+220,Balveer Acharya,18,Male,Telangana,Urban,Postgraduate,Data Analyst,0,114600,1375200
+221,Samaksh Rajan,34,Male,Gujarat,Urban,No Formal Education,Domestic Help,12,14100,169200
+222,Nachiket Chakrabarti,29,Male,Tamil Nadu,Urban,Postgraduate,Lawyer,3,93300,1119600
+223,Aarnav Kara,37,Male,Maharashtra,Urban,Primary,Auto/Taxi Driver,15,24600,295200
+224,Varsha Nath,28,Female,Maharashtra,Urban,Doctorate,College Professor,8,269300,3231600
+225,Zehaan Dutta,39,Male,Maharashtra,Urban,No Formal Education,Domestic Help,19,13000,156000
+226,Pooja Bhandari,29,Female,Gujarat,Urban,Graduate,Software Engineer,6,104600,1255200
+227,Anita Bora,43,Female,Gujarat,Urban,Higher Secondary,Small Business Owner,20,126100,1513200
+228,Vivaan Nath,38,Male,Madhya Pradesh,Urban,Postgraduate,Civil Engineer,14,132700,1592400
+229,Harrison Saxena,31,Male,Uttar Pradesh,Rural,Higher Secondary,Farmer (Landowner),6,26800,321600
+230,Raksha Naik,46,Female,West Bengal,Rural,Secondary,Agriculture Laborer,25,12900,154800
+231,Darika Dhawan,41,Female,Telangana,Rural,Primary,Farmer (Landowner),16,19600,235200
+232,Yashodhara Chhabra,36,Female,Uttar Pradesh,Urban,Postgraduate,Doctor,15,395300,4743600
+233,Peter Balakrishnan,46,Male,Maharashtra,Rural,Higher Secondary,Farmer (Landowner),22,21900,262800
+234,Guneet Nadig,22,Male,West Bengal,Urban,Postgraduate,College Professor,2,171500,2058000
+235,Triya Shukla,30,Female,Maharashtra,Urban,Secondary,Domestic Help,11,15500,186000
+236,Ucchal Sastry,19,Female,Gujarat,Urban,Graduate,Government Clerk,0,50400,604800
+237,Ayush Venkatesh,58,Male,Gujarat,Urban,Graduate,Civil Engineer,36,89600,1075200
+238,Nidhi Mangat,35,Female,Gujarat,Urban,Higher Secondary,Government Clerk,9,34000,408000
+239,Rachit Gupta,42,Male,Maharashtra,Urban,No Formal Education,Domestic Help,18,11700,140400
+240,Banjeet Singh,37,Male,Uttar Pradesh,Urban,Primary,Domestic Help,14,12400,148800
+241,Meghana Jayaraman,51,Female,Madhya Pradesh,Urban,Graduate,Bank Employee,26,119700,1436400
+242,Owen Madan,51,Male,Delhi,Urban,Postgraduate,Bank Employee,26,74900,898800
+243,Xavier Nagar,45,Male,Tamil Nadu,Urban,Graduate,School Teacher,25,83800,1005600
+244,Darsh Patel,50,Male,Assam,Urban,Secondary,Shop Owner / Retailer,31,26400,316800
+245,Darsh Tiwari,33,Male,Maharashtra,Urban,Secondary,Shop Owner / Retailer,14,31600,379200
+246,Prisha Yohannan,26,Female,Telangana,Urban,Secondary,Auto/Taxi Driver,1,11500,138000
+247,Ishaan Vala,52,Male,Maharashtra,Urban,Postgraduate,Lawyer,26,134400,1612800
+248,Ekalinga Murty,45,Male,Uttar Pradesh,Urban,Postgraduate,Government Officer (IAS/IPS etc.),24,213000,2556000
+249,Chanakya Bandi,49,Male,Uttar Pradesh,Urban,Postgraduate,School Teacher,28,72500,870000
+250,Libni Bhatti,38,Female,Uttar Pradesh,Urban,Graduate,Bank Employee,12,102100,1225200
+251,Akshay Merchant,30,Male,Tamil Nadu,Urban,Doctorate,College Professor,7,121300,1455600
+252,Avni Sundaram,35,Female,Telangana,Urban,Primary,Construction Worker,16,14400,172800
+253,Nidra Padmanabhan,33,Female,Rajasthan,Urban,Postgraduate,School Teacher,14,66300,795600
+254,Arjun Kala,51,Male,Gujarat,Urban,Doctorate,Doctor,26,193600,2323200
+255,Wahab Dugar,47,Male,West Bengal,Urban,Graduate,Data Analyst,26,148300,1779600
+256,Ranveer Agrawal,40,Male,Gujarat,Urban,Graduate,Government Clerk,20,82700,992400
+257,Megha Dhar,23,Female,Bihar,Urban,Graduate,Data Analyst,0,134600,1615200
+258,Hema Bhatt,35,Female,Uttar Pradesh,Urban,Graduate,Bank Employee,16,88600,1063200
+259,Arin Handa,56,Male,Gujarat,Urban,Primary,Domestic Help,31,19500,234000
+260,Imaran Gala,20,Male,Karnataka,Urban,No Formal Education,Auto/Taxi Driver,0,12200,146400
+261,Vansha Shanker,58,Female,Rajasthan,Urban,Higher Secondary,Shop Owner / Retailer,36,23300,279600
+262,Isaac Manda,33,Male,Tamil Nadu,Urban,Graduate,Government Clerk,11,51300,615600
+263,Eesha Karnik,39,Female,Gujarat,Rural,Secondary,Farmer (Landowner),14,21900,262800
+264,Warhi Vyas,26,Female,Kerala,Urban,Secondary,Factory Worker,6,24900,298800
+265,Chatura Bahri,18,Male,Kerala,Rural,Primary,Agriculture Laborer,0,8400,100800
+266,Gaurika Rajagopal,56,Other,Haryana,Urban,Postgraduate,Doctor,30,411000,4932000
+267,Priya Sastry,22,Female,Assam,Urban,Graduate,Software Engineer,0,199000,2388000
+268,Suhani Mody,41,Female,Uttar Pradesh,Urban,Graduate,Software Engineer,20,225300,2703600
+269,Dev Sood,39,Male,Odisha,Urban,Graduate,Bank Employee,18,52400,628800
+270,Siddharth Kalita,29,Male,Tamil Nadu,Urban,Higher Secondary,Shop Owner / Retailer,4,15500,186000
+271,Tarak Rao,37,Male,Kerala,Urban,Secondary,Factory Worker,16,21400,256800
+272,Darika Nayar,34,Female,West Bengal,Urban,Postgraduate,Data Analyst,13,59600,715200
+273,Ikshita Borra,26,Female,Assam,Urban,Postgraduate,Lawyer,6,113400,1360800
+274,Warjas Rajagopalan,31,Male,Haryana,Urban,Primary,Domestic Help,5,12500,150000
+275,Bhavini Yogi,36,Female,Gujarat,Urban,Postgraduate,Accountant / CA,16,95300,1143600
+276,Vritti Apte,43,Female,West Bengal,Urban,Postgraduate,College Professor,19,238400,2860800
+277,Gabriel Korpal,31,Male,Odisha,Urban,Graduate,Data Analyst,9,55500,666000
+278,Farhan Shah,32,Male,Madhya Pradesh,Rural,No Formal Education,Agriculture Laborer,13,8500,102000
+279,Devansh Badami,43,Male,Kerala,Urban,Postgraduate,Government Officer (IAS/IPS etc.),22,188100,2257200
+280,Wazir Shankar,35,Male,Telangana,Rural,Secondary,Farmer (Landowner),10,28500,342000
+281,Tanveer Shan,57,Male,Punjab,Urban,Higher Secondary,Factory Worker,33,28200,338400
+282,Benjamin Upadhyay,30,Male,Karnataka,Urban,Postgraduate,Civil Engineer,9,46300,555600
+283,Champak Mallick,42,Male,Delhi,Urban,Postgraduate,Nurse,17,59100,709200
+284,Jack Chakraborty,59,Male,Karnataka,Urban,Graduate,Data Analyst,34,165200,1982400
+285,Urishilla Chada,41,Female,Tamil Nadu,Urban,No Formal Education,Auto/Taxi Driver,17,14700,176400
+286,Akshay Puri,53,Male,Karnataka,Urban,Graduate,Nurse,33,66500,798000
+287,Divya Bansal,23,Female,Bihar,Urban,Graduate,Government Clerk,0,37500,450000
+288,Abeer Mahajan,68,Male,Karnataka,Urban,Graduate,Lawyer,46,149400,1792800
+289,Barkha Chacko,29,Female,Bihar,Urban,Graduate,Civil Engineer,10,125200,1502400
+290,Bhavani Ghosh,25,Female,Karnataka,Urban,Higher Secondary,Factory Worker,5,22500,270000
+291,Girik Bora,42,Male,Maharashtra,Urban,Higher Secondary,Small Business Owner,17,27300,327600
+292,Krisha Atwal,28,Female,Bihar,Urban,Doctorate,College Professor,4,228000,2736000
+293,Ekaraj Dube,22,Male,Bihar,Urban,Postgraduate,Data Analyst,1,74500,894000
+294,Abhiram Nori,48,Male,Delhi,Urban,Higher Secondary,Small Business Owner,22,117000,1404000
+295,Peter Vaidya,43,Male,Gujarat,Urban,Graduate,Government Officer (IAS/IPS etc.),20,183100,2197200
+296,Rehaan Saha,38,Male,Telangana,Rural,Higher Secondary,Farmer (Landowner),19,14000,168000
+297,Aachal Bail,26,Female,Assam,Urban,Primary,Construction Worker,0,10700,128400
+298,Chaaya Bala,30,Female,Tamil Nadu,Urban,Higher Secondary,Small Business Owner,7,100000,1200000
+299,Irya Nagarajan,46,Female,Delhi,Rural,Primary,Agriculture Laborer,22,10300,123600
+300,Ishaan Palan,33,Male,Delhi,Urban,Postgraduate,School Teacher,9,46900,562800
+301,Balvan Sachar,36,Male,Tamil Nadu,Urban,Postgraduate,Civil Engineer,15,91400,1096800
+302,Alka Singhal,32,Female,Punjab,Urban,Postgraduate,Nurse,9,66900,802800
+303,Yochana Lal,50,Female,Gujarat,Urban,Secondary,Auto/Taxi Driver,27,22900,274800
+304,Darsh Grewal,42,Male,Delhi,Rural,No Formal Education,Agriculture Laborer,21,15900,190800
+305,Ijaya Parmar,25,Female,Maharashtra,Urban,Primary,Domestic Help,0,8000,96000
+306,Aishani Shanker,44,Female,Karnataka,Urban,Graduate,Data Analyst,20,227300,2727600
+307,Christopher Pradhan,38,Male,Bihar,Urban,No Formal Education,Construction Worker,16,12600,151200
+308,Januja Kurian,41,Female,Madhya Pradesh,Rural,No Formal Education,Agriculture Laborer,21,13200,158400
+309,Anika Balan,30,Female,Rajasthan,Urban,Secondary,Small Business Owner,9,63700,764400
+310,Januja Rajagopal,52,Female,Delhi,Urban,Graduate,Government Clerk,29,61500,738000
+311,Balhaar Savant,27,Male,Assam,Urban,Graduate,School Teacher,6,26400,316800
+312,Aadi Kamdar,29,Male,Maharashtra,Urban,Graduate,School Teacher,6,39300,471600
+313,Siya Bhatt,21,Female,West Bengal,Urban,Graduate,Lawyer,0,46400,556800
+314,Ishwar Tella,35,Male,Uttar Pradesh,Urban,Postgraduate,Software Engineer,12,139800,1677600
+315,Gavin Parsa,18,Male,Tamil Nadu,Urban,Graduate,Nurse,0,22100,265200
+316,Tarak Nigam,27,Male,West Bengal,Urban,Graduate,Nurse,5,43300,519600
+317,Rajeshri Dhaliwal,37,Female,Uttar Pradesh,Urban,Postgraduate,School Teacher,13,52400,628800
+318,Netra Manne,41,Female,Karnataka,Urban,Doctorate,Doctor,21,570500,6846000
+319,Madhav Dugal,46,Male,Kerala,Urban,Graduate,Accountant / CA,20,117000,1404000
+320,George Jha,29,Male,West Bengal,Urban,Postgraduate,College Professor,5,167300,2007600
+321,Madhav Khalsa,49,Male,Karnataka,Urban,Graduate,Nurse,24,57300,687600
+322,Anamika Sundaram,24,Female,Maharashtra,Urban,Postgraduate,College Professor,3,98100,1177200
+323,Harita Bhatti,34,Female,Kerala,Urban,Secondary,Factory Worker,15,30000,360000
+324,Ojasvi Balan,44,Female,Tamil Nadu,Urban,Postgraduate,Doctor,19,465800,5589600
+325,Laksh Dass,31,Male,Bihar,Urban,Higher Secondary,Factory Worker,9,26000,312000
+326,Mitesh Badal,60,Male,Karnataka,Urban,Postgraduate,Data Analyst,41,213100,2557200
+327,Madhavi Patla,18,Female,Tamil Nadu,Urban,No Formal Education,Domestic Help,0,8000,96000
+328,Jeremiah Mani,34,Male,Madhya Pradesh,Rural,Secondary,Agriculture Laborer,11,10900,130800
+329,Lucky Sachdev,18,Male,Tamil Nadu,Urban,Graduate,Software Engineer,0,161100,1933200
+330,Indrajit Pandey,18,Male,Assam,Rural,Secondary,Agriculture Laborer,0,9600,115200
+331,Kalpit Mander,38,Male,Maharashtra,Urban,Postgraduate,Civil Engineer,14,95100,1141200
+332,Imaran Kata,34,Male,Haryana,Urban,Higher Secondary,Shop Owner / Retailer,11,33600,403200
+333,Vrinda Bhavsar,40,Female,Assam,Urban,Postgraduate,Doctor,20,180000,2160000
+334,Rachit Sahni,69,Male,Delhi,Urban,Secondary,Auto/Taxi Driver,44,29600,355200
+335,Baljiwan Lal,27,Male,Telangana,Urban,Graduate,Data Analyst,7,111300,1335600
+336,Tanmayi Saha,41,Other,Uttar Pradesh,Rural,Higher Secondary,Farmer (Landowner),18,19700,236400
+337,Neha Gaba,51,Female,Uttar Pradesh,Urban,Postgraduate,School Teacher,29,84500,1014000
+338,Gayathri Lala,19,Female,Haryana,Urban,Postgraduate,Software Engineer,0,147100,1765200
+339,Ira Deshmukh,29,Female,West Bengal,Urban,Postgraduate,Data Analyst,3,166500,1998000
+340,Vamakshi Mohan,27,Female,West Bengal,Urban,Primary,Domestic Help,3,8500,102000
+341,Warjas Sarkar,30,Male,West Bengal,Urban,Postgraduate,College Professor,6,234000,2808000
+342,Oviya Palla,18,Female,Rajasthan,Urban,Higher Secondary,Government Clerk,0,25000,300000
+343,Nitara Das,51,Female,Maharashtra,Urban,Secondary,Factory Worker,27,17800,213600
+344,Vedika Shan,48,Female,Maharashtra,Urban,Primary,Construction Worker,23,15000,180000
+345,Saanvi Prabhakar,26,Female,Delhi,Urban,Graduate,Accountant / CA,2,42600,511200
+346,Om Kurian,52,Male,Maharashtra,Urban,Graduate,School Teacher,29,63900,766800
+347,Urvashi Mukherjee,45,Female,Maharashtra,Urban,Postgraduate,Nurse,24,53000,636000
+348,Nilima Dewan,43,Female,Gujarat,Rural,Primary,Farmer (Landowner),21,11800,141600
+349,Raghav Chaudhari,42,Male,Bihar,Urban,Postgraduate,Lawyer,19,85500,1026000
+350,Kabir Muni,49,Male,Madhya Pradesh,Urban,Secondary,Construction Worker,28,18800,225600
+351,Yashoda Pau,51,Female,Uttar Pradesh,Urban,Postgraduate,Doctor,27,272000,3264000
+352,Ridhi Jaggi,27,Female,West Bengal,Urban,Postgraduate,Bank Employee,4,82300,987600
+353,Jonathan Wable,40,Male,Kerala,Urban,Secondary,Small Business Owner,21,51400,616800
+354,Yashoda Bhatti,25,Female,Kerala,Urban,Graduate,Data Analyst,5,75800,909600
+355,Chakradev Narasimhan,42,Male,Kerala,Urban,Graduate,Accountant / CA,22,60000,720000
+356,Kritika Bir,46,Female,Madhya Pradesh,Urban,Doctorate,College Professor,20,202300,2427600
+357,Vrinda Sha,40,Female,Gujarat,Urban,Postgraduate,College Professor,16,152400,1828800
+358,Harinakshi Gaba,35,Female,Maharashtra,Rural,Secondary,Agriculture Laborer,9,15400,184800
+359,Warhi Chander,49,Female,Punjab,Urban,Postgraduate,Government Officer (IAS/IPS etc.),29,450400,5404800
+360,Netra Vora,35,Female,Assam,Urban,Graduate,Government Officer (IAS/IPS etc.),14,245700,2948400
+361,Noah Jayaraman,18,Male,Uttar Pradesh,Urban,Graduate,Civil Engineer,0,34700,416400
+362,Diya Sathe,34,Female,Tamil Nadu,Rural,Primary,Farmer (Landowner),8,23300,279600
+363,Upadhriti Balakrishnan,48,Female,Punjab,Urban,Doctorate,Doctor,22,218700,2624400
+364,Tejas Chhabra,53,Male,Telangana,Urban,Postgraduate,School Teacher,32,86000,1032000
+365,Vasatika Mall,50,Female,Gujarat,Urban,Graduate,Accountant / CA,25,46900,562800
+366,Abeer Sarraf,19,Male,Uttar Pradesh,Urban,Graduate,Bank Employee,0,62200,746400
+367,Ryan Parmer,45,Male,Kerala,Urban,Primary,Domestic Help,22,12900,154800
+368,Aarnav Palla,34,Male,Uttar Pradesh,Urban,Graduate,Data Analyst,13,59400,712800
+369,Shaurya Wali,46,Male,Delhi,Rural,Secondary,Agriculture Laborer,21,13500,162000
+370,Kamala Sehgal,49,Female,Telangana,Urban,Postgraduate,Doctor,26,523000,6276000
+371,Aarnav Rastogi,46,Male,Tamil Nadu,Urban,Secondary,Domestic Help,24,14200,170400
+372,Raagini Zachariah,36,Female,West Bengal,Urban,Primary,Domestic Help,17,14400,172800
+373,Darpan Karnik,44,Male,Karnataka,Urban,Graduate,Data Analyst,19,177100,2125200
+374,Atharv Gour,32,Male,Assam,Urban,Postgraduate,School Teacher,9,53900,646800
+375,Praneel Pandya,23,Male,Haryana,Urban,Graduate,Accountant / CA,0,94300,1131600
+376,Nihal Grover,43,Male,Delhi,Rural,Primary,Agriculture Laborer,22,14600,175200
+377,Rajeshri Thaker,38,Female,Maharashtra,Urban,Higher Secondary,Factory Worker,17,25500,306000
+378,Azaan Banik,22,Male,Gujarat,Urban,Secondary,Factory Worker,3,15000,180000
+379,Gautami Sathe,32,Female,Uttar Pradesh,Urban,Secondary,Construction Worker,7,17300,207600
+380,Yashoda Patla,35,Female,Uttar Pradesh,Urban,Higher Secondary,Factory Worker,10,26200,314400
+381,Vasana Virk,44,Female,Odisha,Urban,Graduate,Software Engineer,22,274200,3290400
+382,Keya Palla,36,Female,Punjab,Urban,Secondary,Domestic Help,15,15900,190800
+383,Kritika Lal,26,Female,Punjab,Urban,Graduate,Data Analyst,4,46100,553200
+384,Samaksh Mistry,45,Male,Rajasthan,Urban,Postgraduate,Bank Employee,26,129000,1548000
+385,Yug Tata,32,Male,Maharashtra,Urban,No Formal Education,Construction Worker,10,11000,132000
+386,Ishani Kala,28,Female,Assam,Urban,Higher Secondary,Government Clerk,4,31000,372000
+387,Ekta Varkey,40,Female,Gujarat,Urban,Graduate,Civil Engineer,15,135500,1626000
+388,Samuel Sanghvi,52,Male,Bihar,Rural,Primary,Agriculture Laborer,27,16000,192000
+389,Ranveer Chahal,38,Male,Maharashtra,Rural,No Formal Education,Agriculture Laborer,17,13900,166800
+390,Triya Dube,19,Female,West Bengal,Urban,Secondary,Auto/Taxi Driver,0,18300,219600
+391,Suhani Wali,35,Female,West Bengal,Urban,Postgraduate,Accountant / CA,12,72500,870000
+392,Chameli Sangha,27,Female,Maharashtra,Urban,Graduate,Civil Engineer,3,38200,458400
+393,Girish Cheema,38,Male,Bihar,Urban,Graduate,School Teacher,16,67100,805200
+394,Vanya Madan,30,Female,West Bengal,Urban,Graduate,Government Officer (IAS/IPS etc.),8,145700,1748400
+395,Daksh Badal,31,Male,Punjab,Urban,Secondary,Factory Worker,5,25600,307200
+396,Hardik Borra,29,Male,Delhi,Urban,Primary,Auto/Taxi Driver,9,13300,159600
+397,Chanchal Dar,51,Female,Tamil Nadu,Urban,Postgraduate,Doctor,26,223700,2684400
+398,Libni Bumb,52,Female,Uttar Pradesh,Urban,Graduate,Lawyer,32,213400,2560800
+399,Vasudha Rastogi,55,Female,Maharashtra,Urban,Postgraduate,Bank Employee,36,68400,820800
+400,Yahvi Sampath,43,Female,Maharashtra,Urban,Postgraduate,Government Officer (IAS/IPS etc.),24,225600,2707200
+401,Dev Comar,49,Male,West Bengal,Urban,No Formal Education,Auto/Taxi Driver,23,22200,266400
+402,Gavin Kalla,33,Male,Bihar,Urban,Graduate,Accountant / CA,8,103100,1237200
+403,Indira Sankaran,32,Female,Uttar Pradesh,Urban,Doctorate,Doctor,11,383500,4602000
+404,Quincy Pandey,46,Male,Gujarat,Urban,Graduate,Government Officer (IAS/IPS etc.),21,147600,1771200
+405,Chaitanya Bhalla,46,Male,Maharashtra,Urban,Graduate,Small Business Owner,27,156600,1879200
+406,Zayyan Borra,50,Male,Gujarat,Urban,Primary,Auto/Taxi Driver,24,24500,294000
+407,Xavier Subramanian,18,Male,West Bengal,Urban,Graduate,School Teacher,0,56100,673200
+408,Teerth Suresh,18,Male,Madhya Pradesh,Urban,Graduate,Small Business Owner,0,85200,1022400
+409,Quincy Devi,49,Male,Maharashtra,Urban,Postgraduate,Civil Engineer,29,131000,1572000
+410,Girish Sabharwal,38,Male,Karnataka,Urban,Graduate,Data Analyst,17,92700,1112400
+411,Aayush Kunda,30,Male,Punjab,Urban,Doctorate,College Professor,4,230000,2760000
+412,Wriddhish Sengupta,32,Male,Odisha,Urban,Doctorate,Doctor,11,384100,4609200
+413,Gayathri Rout,41,Female,Rajasthan,Urban,Secondary,Small Business Owner,22,51100,613200
+414,Ayush Sant,42,Male,West Bengal,Urban,Postgraduate,Government Officer (IAS/IPS etc.),21,261000,3132000
+415,Gopal Tiwari,38,Male,Gujarat,Urban,Graduate,Government Officer (IAS/IPS etc.),12,169900,2038800
+416,Ishaan Narain,28,Male,Delhi,Urban,Postgraduate,Bank Employee,7,52100,625200
+417,Advika Gala,23,Female,Maharashtra,Urban,Postgraduate,Nurse,0,44400,532800
+418,Dakshesh Peri,55,Male,Maharashtra,Urban,Primary,Construction Worker,35,23400,280800
+419,Qushi Shankar,61,Female,Gujarat,Rural,Primary,Farmer (Landowner),38,31400,376800
+420,Raagini Choudhary,35,Female,Kerala,Urban,Doctorate,Doctor,9,121400,1456800
+421,Chandresh Lanka,19,Male,Odisha,Urban,No Formal Education,Domestic Help,0,10300,123600
+422,Bina Kapur,28,Female,West Bengal,Urban,Postgraduate,College Professor,5,195700,2348400
+423,Benjamin Bhatia,36,Male,Tamil Nadu,Urban,Graduate,Nurse,11,59700,716400
+424,Eesha Nath,41,Female,Kerala,Urban,Doctorate,Doctor,21,195200,2342400
+425,Yuvraj Ray,42,Male,Delhi,Urban,Graduate,Civil Engineer,18,73300,879600
+426,Raksha Varughese,37,Female,Rajasthan,Urban,Postgraduate,Software Engineer,12,150300,1803600
+427,Logan Prabhakar,47,Male,West Bengal,Urban,Doctorate,Doctor,26,320800,3849600
+428,Urvi Ray,18,Female,Karnataka,Urban,Postgraduate,Civil Engineer,0,115900,1390800
+429,Harshil Bhatti,50,Male,Karnataka,Urban,Secondary,Shop Owner / Retailer,25,65400,784800
+430,Baljiwan Balay,63,Male,Kerala,Urban,Postgraduate,School Teacher,38,80200,962400
+431,Vihaan Rege,31,Male,Maharashtra,Urban,Primary,Domestic Help,12,12200,146400
+432,Devansh Parmar,32,Male,Karnataka,Urban,Primary,Construction Worker,11,17100,205200
+433,Hritik Vaidya,29,Male,Maharashtra,Urban,Postgraduate,Bank Employee,7,88500,1062000
+434,Hritik Gour,47,Male,Bihar,Rural,Secondary,Agriculture Laborer,28,18400,220800
+435,Faris Andra,48,Male,Madhya Pradesh,Urban,Postgraduate,Doctor,27,452000,5424000
+436,Dominic Parmer,36,Male,West Bengal,Urban,Graduate,Government Clerk,10,44400,532800
+437,Xalak Sankaran,32,Female,Bihar,Urban,Postgraduate,Government Officer (IAS/IPS etc.),12,225900,2710800
+438,Qabil Rana,35,Male,West Bengal,Urban,Doctorate,Doctor,14,271800,3261600
+439,Ati Konda,18,Female,Madhya Pradesh,Urban,Higher Secondary,Shop Owner / Retailer,0,29400,352800
+440,Simon Lal,34,Male,Maharashtra,Urban,Primary,Domestic Help,8,9700,116400
+441,Dhruv Pall,27,Male,Delhi,Urban,Postgraduate,Accountant / CA,4,95000,1140000
+442,Darika Kohli,37,Female,Madhya Pradesh,Urban,Primary,Construction Worker,18,20000,240000
+443,Baljiwan Nagarajan,38,Male,Madhya Pradesh,Rural,Primary,Farmer (Landowner),19,25400,304800
+444,Vyanjana Chand,37,Female,Tamil Nadu,Urban,Graduate,Government Officer (IAS/IPS etc.),15,198200,2378400
+445,Ishaan Banik,36,Male,Tamil Nadu,Urban,Postgraduate,Government Officer (IAS/IPS etc.),10,295800,3549600
+446,Niharika Raval,27,Female,Delhi,Urban,Graduate,Lawyer,6,169000,2028000
+447,Sara Swamy,52,Female,Bihar,Urban,Secondary,Auto/Taxi Driver,31,34200,410400
+448,Riya Ramakrishnan,22,Female,Madhya Pradesh,Urban,Secondary,Construction Worker,0,13200,158400
+449,Anay Rajagopal,27,Male,West Bengal,Urban,Graduate,Accountant / CA,8,123200,1478400
+450,Jeremiah Chanda,40,Male,Tamil Nadu,Urban,Doctorate,Doctor,20,222500,2670000
+451,Ridhi Loyal,28,Female,Rajasthan,Urban,Secondary,Domestic Help,5,13500,162000
+452,Om Mallick,53,Male,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),30,294400,3532800
+453,Aarnav D’Alia,39,Male,Gujarat,Urban,Graduate,Lawyer,18,187000,2244000
+454,Radhika Goswami,24,Female,Rajasthan,Urban,Graduate,Government Clerk,0,36900,442800
+455,Kiaan Dhar,24,Male,Rajasthan,Urban,Primary,Domestic Help,2,10100,121200
+456,Ayush Bumb,28,Male,Kerala,Urban,Postgraduate,Lawyer,9,111000,1332000
+457,Yug Bhatti,28,Male,Haryana,Urban,Graduate,Data Analyst,8,103900,1246800
+458,Ekbal Jhaveri,25,Male,West Bengal,Urban,Postgraduate,Government Officer (IAS/IPS etc.),4,233200,2798400
+459,Sai Kota,39,Female,Karnataka,Urban,Doctorate,Doctor,16,311200,3734400
+460,Aradhana Jani,48,Female,Maharashtra,Urban,Graduate,Accountant / CA,25,92300,1107600
+461,Omkaar Sunder,46,Male,Uttar Pradesh,Urban,Graduate,Shop Owner / Retailer,25,29400,352800
+462,Udyati Wable,34,Female,Maharashtra,Urban,Doctorate,College Professor,13,194600,2335200
+463,Yashasvi Bakshi,38,Female,Tamil Nadu,Urban,Doctorate,Doctor,13,393700,4724400
+464,Rayaan Kadakia,43,Male,Maharashtra,Urban,Graduate,Small Business Owner,21,112600,1351200
+465,Aadhya Hora,42,Other,Delhi,Urban,Postgraduate,Accountant / CA,20,94700,1136400
+466,Oliver Borra,34,Male,Maharashtra,Urban,Primary,Construction Worker,13,11900,142800
+467,Nathan Mann,40,Male,Uttar Pradesh,Urban,Postgraduate,Software Engineer,16,317800,3813600
+468,Imaran Mann,18,Male,Maharashtra,Urban,Secondary,Auto/Taxi Driver,0,17700,212400
+469,Vasatika Hari,21,Female,Haryana,Urban,Postgraduate,Civil Engineer,1,88300,1059600
+470,Caleb Garde,31,Male,West Bengal,Urban,Postgraduate,Government Officer (IAS/IPS etc.),8,353300,4239600
+471,Isha Purohit,45,Female,Karnataka,Urban,Doctorate,College Professor,25,342200,4106400
+472,Reva Chaudhuri,31,Female,Assam,Urban,Postgraduate,Bank Employee,7,93300,1119600
+473,Tanay Sanghvi,33,Male,Maharashtra,Urban,Postgraduate,College Professor,7,226900,2722800
+474,Amruta Dhillon,44,Female,Bihar,Urban,Higher Secondary,Small Business Owner,23,97800,1173600
+475,Samar Kakar,18,Male,Gujarat,Urban,Higher Secondary,Factory Worker,0,12700,152400
+476,Ubika Nath,32,Female,Kerala,Urban,Postgraduate,School Teacher,11,79700,956400
+477,Bhavani Sangha,21,Female,Rajasthan,Urban,Graduate,Lawyer,0,164100,1969200
+478,Bahadurjit Thakur,45,Male,Bihar,Urban,Secondary,Construction Worker,22,15600,187200
+479,Oviya Murty,48,Female,Odisha,Urban,Postgraduate,Civil Engineer,25,77800,933600
+480,Bahadurjit Kapur,35,Male,Uttar Pradesh,Rural,Higher Secondary,Farmer (Landowner),12,12600,151200
+481,Janya Varma,52,Female,Uttar Pradesh,Urban,Postgraduate,School Teacher,29,48200,578400
+482,Darpan Mander,30,Male,Delhi,Urban,Graduate,Bank Employee,7,62800,753600
+483,Veer Bedi,32,Male,Bihar,Urban,Doctorate,College Professor,11,270200,3242400
+484,Keya Anand,18,Female,Bihar,Urban,Higher Secondary,Shop Owner / Retailer,0,29800,357600
+485,Chaitanya Chakraborty,42,Male,West Bengal,Urban,Graduate,Government Officer (IAS/IPS etc.),22,301200,3614400
+486,Viraj Varty,56,Male,Karnataka,Urban,Postgraduate,Doctor,37,333000,3996000
+487,Megha Bora,40,Female,Odisha,Urban,Postgraduate,College Professor,21,203200,2438400
+488,Nirja Nath,60,Female,Maharashtra,Urban,Postgraduate,Lawyer,41,149300,1791600
+489,Omkaar Padmanabhan,56,Male,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),34,236500,2838000
+490,Yutika Talwar,39,Female,Tamil Nadu,Urban,Graduate,Government Clerk,13,65700,788400
+491,Hemani Saha,29,Female,Uttar Pradesh,Urban,Secondary,Construction Worker,7,14700,176400
+492,Keya Majumdar,40,Female,Gujarat,Urban,Higher Secondary,Factory Worker,21,33900,406800
+493,Amruta Merchant,29,Female,Bihar,Urban,Higher Secondary,Shop Owner / Retailer,6,38700,464400
+494,Hemangini Kulkarni,29,Female,Delhi,Urban,No Formal Education,Domestic Help,7,12200,146400
+495,Vrishti Mahal,44,Female,Uttar Pradesh,Rural,No Formal Education,Agriculture Laborer,24,12200,146400
+496,Chameli Choudhry,26,Female,Odisha,Urban,Postgraduate,School Teacher,2,35700,428400
+497,Max Narang,37,Male,Punjab,Urban,Graduate,Lawyer,12,183400,2200800
+498,Wishi Nagy,60,Female,Tamil Nadu,Urban,Postgraduate,Civil Engineer,35,87800,1053600
+499,Xalak Chhabra,39,Female,Haryana,Urban,Postgraduate,Bank Employee,19,54000,648000
+500,Ganga Swamy,20,Female,Haryana,Urban,Graduate,Accountant / CA,0,32900,394800
+501,Ekavir Bala,19,Male,Kerala,Urban,Graduate,Civil Engineer,0,46400,556800
+502,Ekiya Srinivas,40,Female,Uttar Pradesh,Urban,Secondary,Auto/Taxi Driver,20,18800,225600
+503,Ekani Jain,29,Female,Gujarat,Urban,Higher Secondary,Factory Worker,4,18500,222000
+504,Viraj Sama,32,Male,Karnataka,Urban,Secondary,Auto/Taxi Driver,13,16700,200400
+505,Dalaja Das,39,Female,Delhi,Urban,Postgraduate,Government Officer (IAS/IPS etc.),15,155600,1867200
+506,Divya Goda,48,Female,West Bengal,Urban,Graduate,Government Officer (IAS/IPS etc.),25,296000,3552000
+507,Ethan Mahal,48,Other,Karnataka,Urban,Primary,Construction Worker,29,19700,236400
+508,Krishna Hans,38,Female,Haryana,Urban,Doctorate,College Professor,17,122700,1472400
+509,Omya Lall,24,Female,Tamil Nadu,Rural,Higher Secondary,Farmer (Landowner),0,10300,123600
+510,Brijesh Desai,22,Male,Karnataka,Urban,Primary,Construction Worker,0,9600,115200
+511,Jeremiah Tandon,26,Male,Madhya Pradesh,Urban,Graduate,Small Business Owner,3,57900,694800
+512,Lohit Bansal,24,Male,Uttar Pradesh,Urban,Secondary,Small Business Owner,1,26200,314400
+513,Advik Mital,40,Male,West Bengal,Urban,Postgraduate,Civil Engineer,20,120400,1444800
+514,Faris Kota,48,Male,Kerala,Urban,Secondary,Domestic Help,23,12200,146400
+515,Neelima Shanker,38,Female,Tamil Nadu,Urban,Graduate,Bank Employee,15,49400,592800
+516,Pratyush Badami,43,Male,Gujarat,Urban,Graduate,Shop Owner / Retailer,21,55300,663600
+517,Rachana Krish,41,Female,Telangana,Urban,Primary,Auto/Taxi Driver,17,21200,254400
+518,Radha Sastry,18,Female,Bihar,Urban,Graduate,Nurse,0,42900,514800
+519,Saksham Kapoor,31,Male,Maharashtra,Rural,Secondary,Agriculture Laborer,10,10600,127200
+520,Ekta Pillai,21,Female,Karnataka,Urban,Graduate,Accountant / CA,0,73600,883200
+521,Harita Vaidya,22,Female,Karnataka,Urban,Postgraduate,Doctor,1,181800,2181600
+522,Harsh Parsa,52,Male,Tamil Nadu,Urban,Postgraduate,Accountant / CA,30,115700,1388400
+523,Urmi Aurora,18,Female,Maharashtra,Urban,Graduate,Government Officer (IAS/IPS etc.),0,160700,1928400
+524,Arin Shukla,35,Male,Telangana,Urban,Doctorate,College Professor,12,217600,2611200
+525,Noah Yogi,33,Male,Maharashtra,Urban,Secondary,Auto/Taxi Driver,9,14300,171600
+526,Joshua Lad,50,Male,Telangana,Urban,Postgraduate,Lawyer,31,155400,1864800
+527,Anusha Kala,48,Female,Tamil Nadu,Urban,No Formal Education,Domestic Help,27,15500,186000
+528,Yug Butala,31,Male,Uttar Pradesh,Urban,Postgraduate,Lawyer,12,51400,616800
+529,Zilmil Menon,23,Female,Gujarat,Urban,Postgraduate,School Teacher,3,58600,703200
+530,Nidra Baria,40,Female,Tamil Nadu,Urban,Postgraduate,Bank Employee,15,58800,705600
+531,Nicholas Bajaj,32,Male,Madhya Pradesh,Urban,Higher Secondary,Shop Owner / Retailer,11,58500,702000
+532,Nandini Srinivasan,33,Female,West Bengal,Urban,Postgraduate,Bank Employee,13,82200,986400
+533,Mugdha Datta,18,Female,Karnataka,Urban,Primary,Construction Worker,0,14700,176400
+534,Hitesh Goda,25,Male,Uttar Pradesh,Urban,Secondary,Factory Worker,4,15400,184800
+535,Hredhaan Varughese,55,Male,Punjab,Urban,Postgraduate,Nurse,32,63300,759600
+536,Januja Bahl,29,Female,Uttar Pradesh,Urban,No Formal Education,Auto/Taxi Driver,9,17000,204000
+537,Kashish Salvi,48,Female,Uttar Pradesh,Urban,Graduate,Lawyer,22,206300,2475600
+538,Lakshit Chada,49,Male,Bihar,Urban,Graduate,Civil Engineer,26,95400,1144800
+539,Libni Pant,37,Female,Odisha,Urban,Higher Secondary,Government Clerk,11,36000,432000
+540,Simon Bhat,30,Male,Gujarat,Urban,Postgraduate,College Professor,8,191200,2294400
+541,Vyanjana Panchal,24,Female,Karnataka,Urban,Secondary,Domestic Help,3,11100,133200
+542,Ranveer Srinivasan,49,Male,Haryana,Urban,Graduate,Accountant / CA,28,65200,782400
+543,Kevin Kaur,35,Male,Delhi,Urban,Postgraduate,Government Officer (IAS/IPS etc.),12,272500,3270000
+544,Warhi Palla,18,Female,Maharashtra,Urban,Postgraduate,Lawyer,0,138500,1662000
+545,Vrinda Jani,42,Female,West Bengal,Urban,Postgraduate,Accountant / CA,19,72000,864000
+546,Omisha Peri,53,Female,Uttar Pradesh,Urban,Secondary,Small Business Owner,32,69300,831600
+547,Lucky Salvi,26,Male,Bihar,Urban,Postgraduate,Doctor,6,315100,3781200
+548,Parth Dada,22,Male,Uttar Pradesh,Urban,Secondary,Auto/Taxi Driver,1,13200,158400
+549,Sai Manne,49,Female,Bihar,Urban,Postgraduate,College Professor,26,247100,2965200
+550,Agastya Bhardwaj,27,Male,Assam,Urban,Doctorate,Doctor,1,147200,1766400
+551,Lipika D’Alia,45,Female,Madhya Pradesh,Urban,Secondary,Auto/Taxi Driver,23,33200,398400
+552,Neelima Sawhney,18,Female,Telangana,Urban,Postgraduate,Lawyer,0,31500,378000
+553,Zayyan Purohit,18,Male,Maharashtra,Urban,Graduate,Government Clerk,0,45500,546000
+554,Mason Chhabra,45,Male,Madhya Pradesh,Urban,Graduate,Data Analyst,20,90200,1082400
+555,Gautam Ranganathan,46,Male,Telangana,Urban,Graduate,Bank Employee,24,94900,1138800
+556,Vamakshi Magar,33,Female,Maharashtra,Urban,Postgraduate,Lawyer,14,143300,1719600
+557,Nitesh Majumdar,35,Male,Maharashtra,Rural,Higher Secondary,Farmer (Landowner),12,28000,336000
+558,Bachittar Parekh,52,Male,Rajasthan,Urban,Postgraduate,Civil Engineer,30,181700,2180400
+559,Abhimanyu Krishnan,23,Male,Karnataka,Urban,Postgraduate,Civil Engineer,1,93300,1119600
+560,Harish Babu,45,Male,Uttar Pradesh,Urban,No Formal Education,Domestic Help,22,14800,177600
+561,Anika Chhabra,18,Female,Rajasthan,Urban,Secondary,Factory Worker,0,12200,146400
+562,Damini Dhar,27,Female,Rajasthan,Urban,Graduate,Civil Engineer,7,40200,482400
+563,Ridhi Mitter,45,Female,Uttar Pradesh,Urban,Postgraduate,Civil Engineer,25,73900,886800
+564,Zayyan Varma,28,Male,Kerala,Urban,Graduate,Civil Engineer,4,38100,457200
+565,Aayush Goswami,27,Male,Maharashtra,Urban,Graduate,School Teacher,3,60400,724800
+566,Vasatika Barad,39,Female,Tamil Nadu,Rural,Primary,Farmer (Landowner),17,19400,232800
+567,Pranit Gour,34,Male,Maharashtra,Urban,Graduate,Software Engineer,14,255900,3070800
+568,Balhaar Sami,28,Male,Madhya Pradesh,Urban,No Formal Education,Construction Worker,8,12100,145200
+569,Rajata Tak,28,Female,Telangana,Urban,Graduate,Lawyer,2,108200,1298400
+570,Harita Kaul,40,Female,Kerala,Urban,Graduate,Nurse,17,40300,483600
+571,Priya Mittal,46,Female,Karnataka,Urban,Graduate,Accountant / CA,24,164300,1971600
+572,Isha Bhalla,34,Female,Maharashtra,Urban,Graduate,Software Engineer,11,205200,2462400
+573,Kashish Grover,50,Female,West Bengal,Urban,Graduate,Civil Engineer,25,85400,1024800
+574,Jason Gupta,38,Male,Tamil Nadu,Urban,Higher Secondary,Small Business Owner,12,88300,1059600
+575,Wahab Mukhopadhyay,57,Male,Telangana,Urban,No Formal Education,Domestic Help,34,17300,207600
+576,Warhi Din,18,Female,Maharashtra,Urban,Graduate,Lawyer,0,147900,1774800
+577,Dipta Dara,25,Female,Tamil Nadu,Urban,Graduate,Government Officer (IAS/IPS etc.),4,140500,1686000
+578,Vidhi Ganguly,47,Female,Karnataka,Urban,Graduate,Software Engineer,21,130400,1564800
+579,Om Bajwa,35,Male,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),16,110800,1329600
+580,Sarthak Soman,41,Male,Rajasthan,Urban,Higher Secondary,Small Business Owner,20,75000,900000
+581,Ethan Varghese,56,Male,Uttar Pradesh,Urban,Postgraduate,Bank Employee,30,111300,1335600
+582,Jeet Merchant,18,Male,Uttar Pradesh,Rural,Primary,Farmer (Landowner),0,12500,150000
+583,Edhitha Gopal,38,Female,Madhya Pradesh,Urban,No Formal Education,Construction Worker,19,18800,225600
+584,Januja Goswami,28,Female,Haryana,Urban,Doctorate,College Professor,5,244200,2930400
+585,Harsh Balasubramanian,50,Male,Rajasthan,Urban,Graduate,Government Clerk,29,73800,885600
+586,Fariq Chaudry,52,Male,West Bengal,Urban,Postgraduate,Data Analyst,31,145300,1743600
+587,Jagrati Virk,26,Female,Karnataka,Urban,Doctorate,Doctor,5,292300,3507600
+588,Logan Kunda,36,Male,Assam,Urban,Graduate,Bank Employee,11,97400,1168800
+589,Jeet Babu,30,Male,Tamil Nadu,Urban,Graduate,Small Business Owner,8,35500,426000
+590,Lohit Kalla,35,Male,Punjab,Rural,Secondary,Agriculture Laborer,15,16600,199200
+591,Anirudh Nair,41,Male,Bihar,Rural,Higher Secondary,Farmer (Landowner),20,26100,313200
+592,Hardik Singh,34,Male,Madhya Pradesh,Urban,Graduate,Government Clerk,15,43800,525600
+593,Lucky Mohan,51,Male,Maharashtra,Urban,Higher Secondary,Shop Owner / Retailer,29,56000,672000
+594,Hemang Koshy,46,Male,Tamil Nadu,Urban,Graduate,Accountant / CA,22,121400,1456800
+595,Zashil Dada,44,Male,Madhya Pradesh,Urban,Secondary,Auto/Taxi Driver,25,19600,235200
+596,Ryan Babu,36,Male,Maharashtra,Urban,Graduate,School Teacher,17,50600,607200
+597,Geetika Issac,39,Female,Maharashtra,Urban,Graduate,Accountant / CA,18,146700,1760400
+598,Samarth Sama,38,Male,Karnataka,Urban,Postgraduate,Lawyer,19,124200,1490400
+599,Ayushman Loyal,18,Male,Assam,Urban,Graduate,Accountant / CA,0,33100,397200
+600,Sathvik Soman,49,Male,Maharashtra,Urban,Graduate,Accountant / CA,30,123000,1476000
+601,Arunima Chauhan,33,Female,Maharashtra,Urban,Postgraduate,School Teacher,14,84900,1018800
+602,Ekansh Malhotra,37,Male,Maharashtra,Urban,Postgraduate,College Professor,12,181000,2172000
+603,Shivani Tailor,21,Female,Maharashtra,Urban,Postgraduate,College Professor,0,187700,2252400
+604,Amaira Garde,32,Female,Odisha,Urban,Doctorate,Doctor,13,293800,3525600
+605,Darpan Kota,41,Male,Bihar,Urban,Doctorate,College Professor,21,174700,2096400
+606,Ekta Shere,28,Female,Maharashtra,Urban,Graduate,Government Officer (IAS/IPS etc.),3,250200,3002400
+607,Sanaya Parmer,31,Female,Rajasthan,Urban,Postgraduate,Lawyer,12,236400,2836800
+608,Vincent Kibe,44,Male,Uttar Pradesh,Urban,Graduate,Nurse,23,51500,618000
+609,Chanakya Dave,35,Male,Karnataka,Urban,Postgraduate,Software Engineer,15,159400,1912800
+610,Atharv Chand,24,Male,Delhi,Urban,Secondary,Auto/Taxi Driver,5,16700,200400
+611,Riya Nagar,30,Female,Karnataka,Urban,Postgraduate,Doctor,10,157000,1884000
+612,Chakradev Grover,24,Male,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,115900,1390800
+613,Vedhika Dugar,28,Female,Delhi,Urban,Secondary,Factory Worker,4,17300,207600
+614,Pavani Yohannan,27,Female,Gujarat,Urban,Postgraduate,Doctor,6,273800,3285600
+615,Nakul Bhakta,37,Male,Gujarat,Urban,Postgraduate,Lawyer,15,189900,2278800
+616,Prisha Golla,56,Female,Gujarat,Urban,No Formal Education,Auto/Taxi Driver,31,17700,212400
+617,Tarak Sehgal,31,Male,Rajasthan,Urban,Higher Secondary,Factory Worker,5,15800,189600
+618,Isaac Gupta,20,Male,Tamil Nadu,Urban,Graduate,Nurse,0,32200,386400
+619,Shaurya Johal,33,Male,Delhi,Urban,Graduate,Accountant / CA,7,127400,1528800
+620,Vasana Jain,65,Female,Telangana,Urban,Doctorate,Doctor,40,451000,5412000
+621,Wishi Raja,33,Female,Karnataka,Urban,Postgraduate,Nurse,11,32100,385200
+622,Ekavir Shetty,33,Male,Haryana,Urban,Postgraduate,Nurse,13,39800,477600
+623,Leela Bahl,21,Female,Telangana,Urban,Postgraduate,Civil Engineer,0,108600,1303200
+624,Ikbal Shere,35,Male,Maharashtra,Urban,Doctorate,Doctor,9,369700,4436400
+625,Udant Vaidya,21,Male,Karnataka,Urban,Postgraduate,College Professor,0,112900,1354800
+626,Jairaj Chahal,23,Male,Gujarat,Urban,Postgraduate,Lawyer,4,211700,2540400
+627,Urvi Thaker,30,Female,Uttar Pradesh,Urban,Primary,Auto/Taxi Driver,7,17700,212400
+628,Sathvik Issac,32,Male,Maharashtra,Urban,Postgraduate,School Teacher,9,59600,715200
+629,Falguni Zacharia,70,Female,Madhya Pradesh,Urban,Postgraduate,Bank Employee,47,71800,861600
+630,Eshana Gour,41,Female,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),22,181600,2179200
+631,Daniel Halder,28,Male,Uttar Pradesh,Urban,Graduate,Civil Engineer,3,39100,469200
+632,Tanvi Dutta,24,Female,Madhya Pradesh,Urban,Postgraduate,Lawyer,3,200800,2409600
+633,Falak Rout,42,Female,Telangana,Urban,Secondary,Domestic Help,18,15200,182400
+634,Gautami Batra,47,Female,Uttar Pradesh,Urban,Graduate,Government Clerk,27,48500,582000
+635,Isaac Sood,40,Male,Kerala,Urban,Graduate,Nurse,20,52200,626400
+636,Daksha Pathak,28,Female,Haryana,Urban,Postgraduate,Government Officer (IAS/IPS etc.),9,102300,1227600
+637,Chandran Bakshi,19,Male,Maharashtra,Urban,Postgraduate,Accountant / CA,0,61500,738000
+638,Lakshmi Chokshi,49,Female,Uttar Pradesh,Urban,Postgraduate,School Teacher,27,56100,673200
+639,Ekani Kaul,38,Female,Karnataka,Urban,Postgraduate,Data Analyst,12,81300,975600
+640,Gagan Datta,36,Male,Uttar Pradesh,Urban,Higher Secondary,Factory Worker,17,20700,248400
+641,Tamanna Deshpande,18,Female,Gujarat,Urban,Secondary,Small Business Owner,0,69000,828000
+642,Abha Bali,44,Female,Tamil Nadu,Urban,Postgraduate,Government Officer (IAS/IPS etc.),19,119000,1428000
+643,Isha Ramakrishnan,40,Female,Karnataka,Urban,Secondary,Shop Owner / Retailer,17,20000,240000
+644,George Guha,51,Male,Madhya Pradesh,Rural,Primary,Farmer (Landowner),27,26200,314400
+645,Ayushman Bedi,43,Male,Uttar Pradesh,Urban,Graduate,Civil Engineer,18,121000,1452000
+646,Veer Tata,47,Male,Delhi,Urban,Graduate,Software Engineer,28,232800,2793600
+647,Nirja Sarma,47,Female,Maharashtra,Rural,Higher Secondary,Farmer (Landowner),22,17300,207600
+648,Aarna Krishnan,36,Female,Karnataka,Urban,Graduate,Shop Owner / Retailer,16,57700,692400
+649,Indali Kulkarni,41,Female,Maharashtra,Rural,Secondary,Farmer (Landowner),18,33200,398400
+650,Vasudha Som,41,Female,Delhi,Rural,Primary,Agriculture Laborer,15,15500,186000
+651,Manan Natarajan,41,Male,Maharashtra,Urban,Postgraduate,Data Analyst,17,78400,940800
+652,Omkaar Kapur,21,Male,Maharashtra,Urban,Primary,Construction Worker,0,12400,148800
+653,Dalaja Tiwari,41,Female,Karnataka,Urban,Postgraduate,College Professor,16,161500,1938000
+654,Harita Sangha,26,Female,Uttar Pradesh,Urban,No Formal Education,Auto/Taxi Driver,3,10000,120000
+655,Vanya Kapoor,36,Female,Uttar Pradesh,Urban,Postgraduate,School Teacher,17,38100,457200
+656,Jai Sheth,38,Male,Bihar,Urban,Graduate,Government Clerk,16,51300,615600
+657,Siddharth Dash,27,Male,Gujarat,Urban,Graduate,Government Clerk,3,42000,504000
+658,Oviya Jayaraman,35,Female,Telangana,Urban,Postgraduate,Nurse,9,32800,393600
+659,Sathvik Sharaf,27,Male,Tamil Nadu,Urban,Postgraduate,Doctor,7,374100,4489200
+660,Simon Babu,33,Male,Tamil Nadu,Urban,Secondary,Shop Owner / Retailer,8,41400,496800
+661,Abeer Pau,53,Male,Rajasthan,Rural,Primary,Farmer (Landowner),27,22500,270000
+662,Hemangini Bandi,46,Female,Haryana,Urban,Graduate,Nurse,24,46700,560400
+663,Parth Madan,21,Male,Rajasthan,Urban,No Formal Education,Domestic Help,0,8600,103200
+664,Tripti Choudhry,43,Female,Gujarat,Urban,Postgraduate,Data Analyst,24,187000,2244000
+665,Imaran Anand,51,Male,West Bengal,Urban,Doctorate,College Professor,26,205700,2468400
+666,Zayan Mukherjee,18,Male,Tamil Nadu,Rural,Secondary,Agriculture Laborer,0,12900,154800
+667,Naksh Dixit,29,Male,Gujarat,Urban,Postgraduate,Civil Engineer,3,49700,596400
+668,Charan Raman,25,Male,Haryana,Urban,Doctorate,College Professor,4,121500,1458000
+669,Deepa Dua,41,Female,Gujarat,Urban,Postgraduate,Doctor,16,400500,4806000
+670,Chanakya Taneja,47,Male,Madhya Pradesh,Urban,Primary,Domestic Help,23,14200,170400
+671,Aarnav Prakash,49,Male,Delhi,Urban,Postgraduate,Accountant / CA,27,191700,2300400
+672,Bhavika Bhatia,37,Female,Delhi,Urban,Postgraduate,Government Officer (IAS/IPS etc.),18,219400,2632800
+673,Ati Sarkar,46,Female,Punjab,Urban,Postgraduate,Government Officer (IAS/IPS etc.),26,324700,3896400
+674,Bhavya Keer,44,Female,Bihar,Urban,Graduate,Government Clerk,23,62400,748800
+675,Maanav Baria,33,Male,Tamil Nadu,Urban,Graduate,School Teacher,13,44300,531600
+676,Eiravati Sandal,24,Female,Gujarat,Urban,Graduate,Civil Engineer,0,89500,1074000
+677,Saanvi Hari,20,Female,Kerala,Urban,Postgraduate,Software Engineer,0,206000,2472000
+678,Dayamai Vasa,65,Female,Telangana,Urban,Postgraduate,Lawyer,46,68100,817200
+679,Wishi Hans,49,Female,Uttar Pradesh,Urban,Graduate,Civil Engineer,29,139200,1670400
+680,Widisha Taneja,18,Female,Maharashtra,Urban,Primary,Domestic Help,0,9400,112800
+681,Ishwar Shroff,42,Male,West Bengal,Urban,Graduate,Lawyer,21,91300,1095600
+682,Charan Mani,54,Male,Bihar,Urban,Graduate,Shop Owner / Retailer,32,52100,625200
+683,Sathvik Gour,23,Male,Maharashtra,Urban,Postgraduate,Software Engineer,4,258700,3104400
+684,Max Dani,27,Male,Telangana,Urban,Higher Secondary,Factory Worker,7,19000,228000
+685,Pooja Kannan,33,Female,Gujarat,Urban,Primary,Domestic Help,11,12700,152400
+686,Niharika Desai,44,Female,Uttar Pradesh,Urban,Graduate,Data Analyst,19,138600,1663200
+687,Yasti Garg,44,Female,Rajasthan,Urban,Postgraduate,Nurse,25,47500,570000
+688,Eshana Bumb,42,Female,Delhi,Urban,No Formal Education,Domestic Help,17,11200,134400
+689,Darsh Dhar,28,Male,Gujarat,Urban,Doctorate,College Professor,8,298600,3583200
+690,Xiti Kade,19,Female,Bihar,Urban,Postgraduate,Data Analyst,0,135700,1628400
+691,Qasim Kapoor,30,Male,Telangana,Urban,Secondary,Factory Worker,4,15700,188400
+692,Chandresh Mahal,18,Male,Maharashtra,Urban,Postgraduate,Data Analyst,0,66100,793200
+693,Tejas Nanda,56,Male,Gujarat,Urban,Graduate,Software Engineer,31,183200,2198400
+694,Daksha Jani,18,Female,Gujarat,Rural,No Formal Education,Agriculture Laborer,0,7100,85200
+695,Ekaraj Nadig,31,Male,Gujarat,Urban,Doctorate,College Professor,10,155500,1866000
+696,Wridesh Khare,34,Male,Punjab,Urban,Postgraduate,Software Engineer,9,180500,2166000
+697,Viraj Doctor,18,Male,Bihar,Urban,Postgraduate,College Professor,0,134100,1609200
+698,Tristan Bal,28,Male,Haryana,Urban,Postgraduate,School Teacher,2,55000,660000
+699,Nachiket Vala,25,Male,Maharashtra,Urban,Postgraduate,Data Analyst,1,127700,1532400
+700,Urmi Bora,51,Female,Maharashtra,Urban,Graduate,Government Clerk,26,64400,772800
+701,Sanya Srivastava,40,Female,Tamil Nadu,Urban,Secondary,Shop Owner / Retailer,18,24700,296400
+702,Yash Sur,26,Male,Bihar,Urban,Graduate,Government Clerk,3,50500,606000
+703,Jasmit Dhar,27,Female,West Bengal,Urban,Postgraduate,Software Engineer,2,231000,2772000
+704,Abdul Sani,37,Male,Tamil Nadu,Urban,Graduate,Government Clerk,15,41700,500400
+705,Yatan Padmanabhan,45,Male,Gujarat,Urban,Graduate,Bank Employee,22,74800,897600
+706,Avi Zachariah,38,Male,Gujarat,Urban,Higher Secondary,Small Business Owner,15,111700,1340400
+707,Sachi Narasimhan,24,Female,Delhi,Rural,Secondary,Agriculture Laborer,5,14400,172800
+708,Vivaan Kata,27,Male,Uttar Pradesh,Urban,Secondary,Domestic Help,2,7200,86400
+709,Umang Parikh,25,Male,Rajasthan,Urban,Graduate,Nurse,3,24800,297600
+710,Aryan Ganguly,51,Male,Rajasthan,Urban,Doctorate,Doctor,31,277100,3325200
+711,Meghana Chadha,27,Female,Maharashtra,Urban,Primary,Construction Worker,2,13100,157200
+712,Anmol Solanki,45,Male,Haryana,Urban,Graduate,School Teacher,24,31300,375600
+713,Zaid Narain,39,Male,West Bengal,Urban,Postgraduate,Government Officer (IAS/IPS etc.),14,243700,2924400
+714,Ethan Keer,42,Male,West Bengal,Urban,Postgraduate,Data Analyst,19,189700,2276400
+715,Waida Parmer,47,Other,Tamil Nadu,Urban,Graduate,Data Analyst,25,125500,1506000
+716,Yachana Sama,35,Female,Gujarat,Urban,Graduate,Accountant / CA,12,70700,848400
+717,Yauvani Contractor,38,Female,Telangana,Urban,Doctorate,Doctor,17,144300,1731600
+718,Upkaar Bora,49,Male,Delhi,Urban,Graduate,Data Analyst,26,110400,1324800
+719,Avi Prabhakar,18,Male,West Bengal,Urban,Postgraduate,Bank Employee,0,89900,1078800
+720,Tanay Halder,26,Male,Maharashtra,Urban,Graduate,Nurse,4,27300,327600
+721,Upadhriti Bahl,33,Female,West Bengal,Urban,Primary,Auto/Taxi Driver,7,11700,140400
+722,Ekiya Baral,52,Female,Assam,Urban,Postgraduate,Data Analyst,32,276200,3314400
+723,Vamakshi Andra,34,Female,Haryana,Urban,Graduate,Civil Engineer,11,84900,1018800
+724,Chandran Raja,40,Male,Delhi,Rural,No Formal Education,Agriculture Laborer,18,8300,99600
+725,Ranveer Gill,28,Male,Tamil Nadu,Urban,Secondary,Factory Worker,8,14500,174000
+726,Om Batra,59,Male,Delhi,Urban,Graduate,Government Officer (IAS/IPS etc.),33,109900,1318800
+727,Chanakya Upadhyay,38,Male,Delhi,Urban,Secondary,Domestic Help,12,11700,140400
+728,Chatresh Gandhi,43,Male,Maharashtra,Urban,Higher Secondary,Shop Owner / Retailer,20,55100,661200
+729,Qasim Shanker,37,Male,Karnataka,Urban,Graduate,Bank Employee,13,78000,936000
+730,Pranav Verma,53,Male,Tamil Nadu,Urban,Postgraduate,Accountant / CA,30,88300,1059600
+731,Michael Mohanty,37,Male,Bihar,Urban,Doctorate,Doctor,14,212500,2550000
+732,Chakradhar Wali,38,Male,Maharashtra,Urban,Graduate,Government Clerk,17,45800,549600
+733,Bhavini Raghavan,38,Female,Uttar Pradesh,Urban,Doctorate,College Professor,19,248200,2978400
+734,Pratyush Tiwari,27,Male,West Bengal,Urban,Graduate,Nurse,1,32500,390000
+735,Libni Dixit,28,Female,Odisha,Urban,Postgraduate,Data Analyst,4,65200,782400
+736,Agastya Balan,31,Male,Maharashtra,Urban,Postgraduate,Accountant / CA,5,74300,891600
+737,Gaurang Babu,36,Male,Uttar Pradesh,Urban,Higher Secondary,Factory Worker,13,19800,237600
+738,Krisha Varkey,39,Female,Punjab,Urban,Graduate,Government Clerk,13,63900,766800
+739,Varsha Biswas,28,Female,Maharashtra,Urban,Secondary,Factory Worker,3,16000,192000
+740,Wakeeta Parikh,57,Female,Tamil Nadu,Urban,Secondary,Construction Worker,36,23700,284400
+741,Harshil Sama,19,Male,Madhya Pradesh,Urban,Graduate,Bank Employee,0,45200,542400
+742,Veda Rai,32,Female,Uttar Pradesh,Urban,No Formal Education,Auto/Taxi Driver,13,20900,250800
+743,Shaurya Kant,35,Male,Karnataka,Urban,Postgraduate,Lawyer,11,104000,1248000
+744,Xalak Nath,56,Female,Bihar,Urban,Secondary,Factory Worker,33,24500,294000
+745,Atharv Comar,39,Male,Tamil Nadu,Urban,Graduate,Small Business Owner,15,116600,1399200
+746,Balveer Sathe,49,Male,Tamil Nadu,Urban,Graduate,Shop Owner / Retailer,29,28700,344400
+747,Ira Chandra,39,Female,West Bengal,Urban,Postgraduate,School Teacher,20,64900,778800
+748,Nicholas Nayar,59,Male,Gujarat,Urban,Higher Secondary,Small Business Owner,35,31300,375600
+749,Kalpit Batra,37,Male,Uttar Pradesh,Urban,Secondary,Small Business Owner,12,38000,456000
+750,Anya Konda,24,Female,Madhya Pradesh,Urban,Postgraduate,Civil Engineer,3,111300,1335600
+751,Gayathri Gill,33,Female,Bihar,Urban,Secondary,Shop Owner / Retailer,10,26800,321600
+752,Warhi Purohit,30,Female,Maharashtra,Urban,Higher Secondary,Shop Owner / Retailer,6,28200,338400
+753,Ekantika Bawa,24,Female,Bihar,Rural,Primary,Agriculture Laborer,3,8200,98400
+754,Ekansh Rajagopalan,38,Male,Maharashtra,Urban,Higher Secondary,Government Clerk,15,52900,634800
+755,Advik Konda,33,Male,Odisha,Rural,Primary,Farmer (Landowner),13,17100,205200
+756,Tamanna Nagi,70,Female,Madhya Pradesh,Urban,Secondary,Auto/Taxi Driver,47,28000,336000
+757,Vaishnavi Sachdev,43,Female,Assam,Urban,Graduate,Software Engineer,17,269000,3228000
+758,Viraj Hans,53,Male,Telangana,Urban,Higher Secondary,Government Clerk,27,68200,818400
+759,Logan Babu,21,Male,Maharashtra,Urban,Graduate,Bank Employee,0,56000,672000
+760,Vanya Gola,47,Female,Karnataka,Urban,Graduate,Government Officer (IAS/IPS etc.),26,327000,3924000
+761,Shivani Dube,44,Female,Karnataka,Urban,Graduate,School Teacher,23,71100,853200
+762,Unni Khosla,43,Female,Assam,Urban,Graduate,Software Engineer,18,199800,2397600
+763,Krish Sehgal,31,Male,Bihar,Urban,Postgraduate,Software Engineer,12,186000,2232000
+764,Aarnav Issac,23,Male,Rajasthan,Urban,Higher Secondary,Small Business Owner,2,59700,716400
+765,Champak Mallick,45,Male,Punjab,Urban,Postgraduate,Lawyer,22,79300,951600
+766,Parth Butala,44,Male,Uttar Pradesh,Urban,Higher Secondary,Factory Worker,25,28900,346800
+767,Anmol Bala,31,Male,Rajasthan,Urban,Doctorate,Doctor,9,407000,4884000
+768,Ishani Ganguly,52,Female,Telangana,Urban,Graduate,Government Clerk,29,64000,768000
+769,Anita Balakrishnan,24,Female,Rajasthan,Urban,Postgraduate,Bank Employee,1,65500,786000
+770,Rayaan Zacharia,49,Male,Punjab,Urban,Postgraduate,College Professor,24,96500,1158000
+771,Darpan Babu,45,Male,Telangana,Urban,Graduate,Government Officer (IAS/IPS etc.),19,106200,1274400
+772,Veer De,45,Male,Rajasthan,Urban,Doctorate,Doctor,23,247100,2965200
+773,Tanay Datta,43,Male,Haryana,Urban,Graduate,Lawyer,17,83300,999600
+774,Wahab Khalsa,40,Male,Bihar,Urban,Secondary,Auto/Taxi Driver,18,24000,288000
+775,Ojasvi Acharya,26,Female,Delhi,Urban,Secondary,Construction Worker,0,16100,193200
+776,Jagrati Sankaran,41,Female,Uttar Pradesh,Urban,Primary,Domestic Help,19,16100,193200
+777,Peter Narain,23,Male,Karnataka,Urban,No Formal Education,Domestic Help,3,8000,96000
+778,Anmol Oak,54,Male,Uttar Pradesh,Urban,Graduate,Software Engineer,31,283200,3398400
+779,Udarsh Barad,27,Male,Uttar Pradesh,Urban,Graduate,Lawyer,2,111000,1332000
+780,Urishilla Prakash,52,Female,Delhi,Urban,Postgraduate,Government Officer (IAS/IPS etc.),29,325300,3903600
+781,Damini Ganesan,44,Female,Assam,Urban,Primary,Construction Worker,24,13200,158400
+782,Harshil Ray,33,Male,Madhya Pradesh,Urban,Doctorate,College Professor,10,227100,2725200
+783,Harish Bora,18,Male,Punjab,Urban,Postgraduate,Bank Employee,0,77200,926400
+784,Meghana Balasubramanian,32,Female,Delhi,Urban,Doctorate,College Professor,6,160600,1927200
+785,Lucky Bala,55,Male,Bihar,Urban,Graduate,Lawyer,34,240400,2884800
+786,Manthan Krish,35,Male,Gujarat,Urban,Higher Secondary,Small Business Owner,16,133900,1606800
+787,Vasana Madan,29,Female,Odisha,Urban,Higher Secondary,Shop Owner / Retailer,6,35400,424800
+788,Damyanti Kadakia,38,Female,Uttar Pradesh,Urban,Primary,Construction Worker,12,13100,157200
+789,Chandran Sem,35,Male,West Bengal,Urban,No Formal Education,Auto/Taxi Driver,15,24100,289200
+790,Chatresh Luthra,31,Male,Maharashtra,Urban,Graduate,Data Analyst,6,76500,918000
+791,Simon Mahajan,35,Male,Rajasthan,Urban,Graduate,Software Engineer,9,168200,2018400
+792,Shravya Rajan,24,Female,Karnataka,Urban,Primary,Construction Worker,0,15400,184800
+793,Yashvi Bhatnagar,54,Female,Madhya Pradesh,Urban,Postgraduate,Government Officer (IAS/IPS etc.),29,197200,2366400
+794,Damini Chaudhry,34,Female,Delhi,Urban,Postgraduate,College Professor,14,117000,1404000
+795,Abha Wali,48,Female,Uttar Pradesh,Urban,Graduate,School Teacher,24,56100,673200
+796,Shivansh Mani,31,Male,Maharashtra,Urban,Primary,Auto/Taxi Driver,6,21400,256800
+797,Ikshita Halder,30,Female,Delhi,Urban,Graduate,Lawyer,10,140800,1689600
+798,Suhani Pillai,29,Female,Bihar,Urban,Higher Secondary,Shop Owner / Retailer,9,45600,547200
+799,Wahab Butala,30,Male,Uttar Pradesh,Urban,Graduate,Lawyer,10,141000,1692000
+800,Gavin Acharya,25,Male,Madhya Pradesh,Urban,Doctorate,College Professor,0,192400,2308800
+801,Vincent Krishnamurthy,35,Male,West Bengal,Urban,Higher Secondary,Factory Worker,14,27900,334800
+802,Gaurika Wali,46,Female,Madhya Pradesh,Urban,Graduate,Lawyer,27,66100,793200
+803,Nimrat Desai,27,Female,Delhi,Urban,Postgraduate,Accountant / CA,2,146000,1752000
+804,Lakshit Nagar,34,Male,Madhya Pradesh,Urban,Postgraduate,Lawyer,8,165700,1988400
+805,Meghana Gade,18,Female,Odisha,Urban,No Formal Education,Domestic Help,0,9600,115200
+806,Jatin Natarajan,48,Male,Karnataka,Urban,Doctorate,Doctor,29,262900,3154800
+807,Amara Babu,39,Female,Bihar,Urban,Postgraduate,Lawyer,19,142400,1708800
+808,Pranav Anand,22,Male,Telangana,Urban,Primary,Auto/Taxi Driver,0,10800,129600
+809,Nachiket Khare,44,Male,Rajasthan,Urban,Postgraduate,College Professor,23,275700,3308400
+810,Upasna Wagle,33,Female,Tamil Nadu,Urban,Postgraduate,Data Analyst,10,198200,2378400
+811,Wakeeta Verma,30,Female,Madhya Pradesh,Urban,Graduate,Nurse,6,31900,382800
+812,Priya Bobal,18,Female,Delhi,Urban,Graduate,Civil Engineer,0,109500,1314000
+813,Chaitaly Warrior,38,Female,Telangana,Urban,Secondary,Shop Owner / Retailer,16,35300,423600
+814,Nimrat Chahal,28,Female,West Bengal,Urban,Secondary,Factory Worker,2,22400,268800
+815,Wyatt Pradhan,51,Male,Rajasthan,Urban,Secondary,Auto/Taxi Driver,28,32800,393600
+816,Atharv Rai,19,Male,Maharashtra,Urban,Graduate,Small Business Owner,0,64500,774000
+817,Janaki Tripathi,31,Female,Gujarat,Urban,Doctorate,College Professor,8,152400,1828800
+818,Abhimanyu Kala,39,Male,Tamil Nadu,Urban,Postgraduate,School Teacher,19,43500,522000
+819,Osha Jayaraman,20,Female,Delhi,Urban,Higher Secondary,Shop Owner / Retailer,1,40900,490800
+820,Aditya Bajwa,41,Male,Tamil Nadu,Urban,Postgraduate,College Professor,21,280600,3367200
+821,Dev Tandon,28,Male,West Bengal,Urban,Graduate,Software Engineer,3,144700,1736400
+822,Baljiwan Saran,50,Male,West Bengal,Urban,Graduate,Civil Engineer,30,113300,1359600
+823,Nilima Soman,46,Female,Haryana,Urban,Secondary,Factory Worker,27,27100,325200
+824,Alexander Agrawal,29,Male,Odisha,Urban,Postgraduate,Lawyer,7,124000,1488000
+825,Diya Das,43,Female,Karnataka,Urban,Graduate,Government Officer (IAS/IPS etc.),18,140000,1680000
+826,Abhiram Yadav,28,Male,Delhi,Rural,Primary,Farmer (Landowner),5,17800,213600
+827,Arjun Bhardwaj,37,Male,Kerala,Urban,Higher Secondary,Shop Owner / Retailer,15,42200,506400
+828,Chanakya Dass,41,Male,Kerala,Urban,Postgraduate,Bank Employee,15,87300,1047600
+829,Girish Devan,32,Male,Gujarat,Urban,Higher Secondary,Small Business Owner,11,45100,541200
+830,Madhavi Muni,50,Female,Delhi,Urban,Postgraduate,Bank Employee,26,86200,1034400
+831,Nimrat Bora,34,Female,Madhya Pradesh,Urban,Graduate,Government Clerk,13,41800,501600
+832,Warjas Oza,32,Male,Punjab,Urban,Postgraduate,College Professor,7,117600,1411200
+833,Yashodhara Jani,56,Female,Maharashtra,Urban,Secondary,Auto/Taxi Driver,33,28100,337200
+834,Jackson Vala,31,Male,West Bengal,Urban,No Formal Education,Construction Worker,7,11100,133200
+835,Chameli Pai,26,Female,West Bengal,Urban,Graduate,Software Engineer,0,174000,2088000
+836,Hemani Soman,29,Female,Uttar Pradesh,Urban,Postgraduate,Data Analyst,4,146200,1754400
+837,Harini Puri,21,Female,Telangana,Urban,Postgraduate,College Professor,2,155000,1860000
+838,Lajita Atwal,70,Female,Uttar Pradesh,Urban,Doctorate,Doctor,45,560300,6723600
+839,Sai Ghosh,32,Male,Tamil Nadu,Urban,Postgraduate,Government Officer (IAS/IPS etc.),11,240800,2889600
+840,Harsh Batta,35,Male,Maharashtra,Urban,Higher Secondary,Factory Worker,16,31000,372000
+841,Ronith Nori,27,Male,Bihar,Urban,Postgraduate,Software Engineer,8,227500,2730000
+842,Osha Sastry,46,Female,Maharashtra,Urban,Postgraduate,Bank Employee,22,83400,1000800
+843,Joshua Venkataraman,31,Male,Uttar Pradesh,Urban,Postgraduate,School Teacher,7,73100,877200
+844,Bhavani Tailor,34,Female,Gujarat,Urban,Higher Secondary,Shop Owner / Retailer,14,44500,534000
+845,Samaksh Prakash,32,Male,Rajasthan,Urban,Doctorate,College Professor,9,97800,1173600
+846,Advik Gupta,38,Male,Maharashtra,Urban,Graduate,Data Analyst,18,86400,1036800
+847,Baghyawati Natt,43,Female,Madhya Pradesh,Urban,Higher Secondary,Government Clerk,21,45000,540000
+848,Orinder Ghosh,46,Male,Tamil Nadu,Urban,Postgraduate,Nurse,24,66800,801600
+849,Aarnav Dugal,32,Male,Uttar Pradesh,Urban,Graduate,Lawyer,13,58300,699600
+850,Bimala Borra,32,Female,Telangana,Urban,Graduate,Civil Engineer,13,53500,642000
+851,Urmi Lata,35,Female,Bihar,Rural,Secondary,Farmer (Landowner),14,14100,169200
+852,Aarnav Date,49,Male,Haryana,Rural,Primary,Farmer (Landowner),23,24800,297600
+853,Varenya Shenoy,54,Female,Gujarat,Urban,Postgraduate,Doctor,35,498900,5986800
+854,Mitali Singh,26,Female,Madhya Pradesh,Urban,Graduate,School Teacher,1,41500,498000
+855,Priya Lall,34,Female,Karnataka,Urban,Higher Secondary,Small Business Owner,8,42500,510000
+856,Shaurya Mohan,52,Male,Maharashtra,Urban,Postgraduate,Lawyer,32,200300,2403600
+857,Jacob Setty,31,Male,Tamil Nadu,Urban,Postgraduate,School Teacher,12,70300,843600
+858,Ekalinga Bal,59,Male,Karnataka,Urban,Graduate,Government Officer (IAS/IPS etc.),37,256500,3078000
+859,Rachita Sura,35,Female,West Bengal,Rural,No Formal Education,Agriculture Laborer,15,9000,108000
+860,Warinder Andra,27,Male,Maharashtra,Urban,Postgraduate,Software Engineer,6,99000,1188000
+861,Benjamin Nagar,27,Male,Tamil Nadu,Urban,No Formal Education,Domestic Help,6,11200,134400
+862,Aishani Kaul,41,Female,Bihar,Urban,Graduate,Small Business Owner,20,76200,914400
+863,Daniel Rajagopalan,25,Other,Uttar Pradesh,Urban,Graduate,Government Clerk,1,45800,549600
+864,Turvi Srivastava,18,Female,Telangana,Urban,No Formal Education,Domestic Help,0,13300,159600
+865,Luke Wagle,64,Male,Bihar,Urban,Graduate,Accountant / CA,45,122000,1464000
+866,William Kala,43,Male,Haryana,Urban,Postgraduate,Lawyer,19,182400,2188800
+867,Sanya De,45,Female,Maharashtra,Urban,Secondary,Shop Owner / Retailer,22,55200,662400
+868,Chaitaly Loke,47,Female,West Bengal,Urban,Postgraduate,Doctor,25,452500,5430000
+869,Vidhi Kamdar,60,Female,Rajasthan,Urban,Postgraduate,Government Officer (IAS/IPS etc.),37,197800,2373600
+870,Pratyush Rege,18,Male,Madhya Pradesh,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,231100,2773200
+871,Sanaya Bhalla,44,Female,Gujarat,Urban,Postgraduate,School Teacher,23,70200,842400
+872,Anthony Gola,49,Male,Uttar Pradesh,Urban,Postgraduate,Bank Employee,26,121300,1455600
+873,Jackson Dugal,47,Male,Madhya Pradesh,Urban,Graduate,Small Business Owner,22,65000,780000
+874,Urvashi Murty,23,Female,Punjab,Urban,Higher Secondary,Small Business Owner,3,98900,1186800
+875,Ridhi Shukla,38,Female,Gujarat,Urban,Graduate,Shop Owner / Retailer,12,67400,808800
+876,Yoshita Badal,42,Female,Delhi,Urban,Graduate,Small Business Owner,21,113000,1356000
+877,Anmol Bains,43,Male,Maharashtra,Urban,Postgraduate,Data Analyst,18,220600,2647200
+878,Warda Doshi,18,Female,Uttar Pradesh,Urban,Secondary,Construction Worker,0,15100,181200
+879,Anjali Bansal,60,Female,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),40,325300,3903600
+880,Ati Sanghvi,43,Female,Kerala,Rural,Primary,Farmer (Landowner),17,14500,174000
+881,Yashodhara Mukherjee,25,Female,West Bengal,Urban,Secondary,Auto/Taxi Driver,5,15300,183600
+882,Yatan Krish,45,Male,Tamil Nadu,Urban,Graduate,Government Officer (IAS/IPS etc.),22,114500,1374000
+883,Manbir Lalla,25,Male,Tamil Nadu,Urban,Graduate,Small Business Owner,0,33400,400800
+884,Eesha Apte,44,Female,Assam,Urban,Graduate,Software Engineer,21,219100,2629200
+885,Rudra Sen,43,Male,Karnataka,Urban,Graduate,Shop Owner / Retailer,24,56400,676800
+886,Mason Nigam,42,Male,Delhi,Urban,Postgraduate,Doctor,17,187100,2245200
+887,Anya Jhaveri,58,Female,West Bengal,Urban,Graduate,Lawyer,36,260200,3122400
+888,Theodore Murthy,49,Male,Karnataka,Urban,Higher Secondary,Shop Owner / Retailer,23,65800,789600
+889,Vyanjana Chaudhry,36,Female,Madhya Pradesh,Urban,Graduate,Government Clerk,12,52500,630000
+890,Jack Johal,38,Male,West Bengal,Urban,Graduate,Nurse,12,46100,553200
+891,Advay Sodhi,23,Male,Karnataka,Urban,Postgraduate,Doctor,0,156700,1880400
+892,Tanveer Dugar,43,Male,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),21,141300,1695600
+893,Maanav Edwin,24,Male,Telangana,Urban,Doctorate,Doctor,2,212000,2544000
+894,Teerth Merchant,41,Male,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),20,289100,3469200
+895,Yug Bains,35,Male,Gujarat,Urban,No Formal Education,Auto/Taxi Driver,10,21400,256800
+896,Faras Wagle,41,Male,West Bengal,Rural,No Formal Education,Agriculture Laborer,16,9800,117600
+897,Yashodhara Dubey,25,Female,Rajasthan,Urban,Postgraduate,Government Officer (IAS/IPS etc.),1,129900,1558800
+898,Arunima Halder,34,Female,Gujarat,Urban,Graduate,Government Officer (IAS/IPS etc.),8,246000,2952000
+899,Aarush Agrawal,39,Male,Delhi,Urban,Higher Secondary,Factory Worker,20,27400,328800
+900,Sneha Karnik,30,Female,Gujarat,Urban,Postgraduate,Nurse,4,40400,484800
+901,Chandran Sen,59,Male,Tamil Nadu,Urban,Primary,Construction Worker,33,24800,297600
+902,Hemangini Grover,43,Female,Gujarat,Urban,Higher Secondary,Government Clerk,19,54900,658800
+903,Eesha Purohit,47,Female,Maharashtra,Urban,Postgraduate,Nurse,27,66500,798000
+904,Upasna Chokshi,36,Female,Bihar,Urban,Secondary,Factory Worker,17,18400,220800
+905,Zilmil Saraf,48,Female,Telangana,Urban,Doctorate,College Professor,28,171500,2058000
+906,Dominic Chander,18,Male,Gujarat,Urban,Postgraduate,Software Engineer,0,106000,1272000
+907,Dayita Arora,33,Female,Tamil Nadu,Rural,Primary,Farmer (Landowner),10,21100,253200
+908,Indira Atwal,32,Female,Tamil Nadu,Rural,Primary,Agriculture Laborer,11,10600,127200
+909,Bachittar Mammen,30,Male,Uttar Pradesh,Urban,Doctorate,Doctor,11,329400,3952800
+910,Rachita Subramanian,44,Female,Maharashtra,Urban,Secondary,Shop Owner / Retailer,19,34400,412800
+911,Ikbal Sani,50,Male,Bihar,Urban,Postgraduate,Bank Employee,27,107600,1291200
+912,Madhavi Yohannan,41,Female,Telangana,Urban,Postgraduate,Bank Employee,15,102800,1233600
+913,Qabil Khanna,29,Male,West Bengal,Urban,Graduate,Government Officer (IAS/IPS etc.),3,132000,1584000
+914,Arjun Ravel,28,Male,West Bengal,Urban,Doctorate,College Professor,3,216600,2599200
+915,Hardik Oza,28,Male,Delhi,Urban,Secondary,Shop Owner / Retailer,4,17500,210000
+916,Osha Sarin,34,Female,Maharashtra,Urban,Graduate,School Teacher,12,76500,918000
+917,Bahadurjit Palla,35,Male,Haryana,Urban,No Formal Education,Domestic Help,12,14300,171600
+918,Vasana Chopra,24,Female,Punjab,Urban,No Formal Education,Construction Worker,4,12600,151200
+919,Tara Apte,18,Female,Karnataka,Urban,Graduate,Government Clerk,0,48100,577200
+920,Krishna Gade,32,Female,West Bengal,Urban,Graduate,Government Officer (IAS/IPS etc.),8,185900,2230800
+921,Unnati Randhawa,64,Female,Rajasthan,Urban,Postgraduate,School Teacher,41,57100,685200
+922,Champak Loke,42,Male,Tamil Nadu,Urban,Postgraduate,School Teacher,17,39700,476400
+923,Darpan Contractor,47,Male,Tamil Nadu,Rural,Secondary,Agriculture Laborer,24,12100,145200
+924,Ekani Deo,54,Female,Madhya Pradesh,Rural,Primary,Agriculture Laborer,34,18000,216000
+925,Onkar Dua,28,Male,West Bengal,Urban,Postgraduate,Government Officer (IAS/IPS etc.),8,272600,3271200
+926,Umang Kanda,33,Male,Gujarat,Urban,Postgraduate,Bank Employee,9,79800,957600
+927,Arya Dugar,44,Female,Bihar,Urban,Postgraduate,Doctor,19,401900,4822800
+928,Yug Puri,36,Male,Delhi,Urban,No Formal Education,Construction Worker,15,17200,206400
+929,Alka Goyal,43,Female,Uttar Pradesh,Rural,Secondary,Farmer (Landowner),18,23000,276000
+930,Wazir Munshi,47,Male,Karnataka,Urban,Postgraduate,Bank Employee,25,70800,849600
+931,Abhiram Gade,54,Male,Odisha,Urban,Postgraduate,College Professor,29,116500,1398000
+932,Om Sheth,33,Male,Rajasthan,Urban,Postgraduate,Civil Engineer,8,78500,942000
+933,Kamala Virk,56,Female,Maharashtra,Urban,Postgraduate,Software Engineer,35,357800,4293600
+934,Chakradev Krishna,20,Male,Madhya Pradesh,Urban,Graduate,Bank Employee,0,53900,646800
+935,Garima Morar,23,Female,Odisha,Urban,No Formal Education,Construction Worker,1,13700,164400
+936,Aadi Mander,23,Male,West Bengal,Urban,Higher Secondary,Factory Worker,2,20700,248400
+937,Girindra Agate,48,Male,Karnataka,Urban,Primary,Construction Worker,23,11700,140400
+938,Eta Patel,37,Female,West Bengal,Urban,Doctorate,College Professor,17,295700,3548400
+939,Kiaan Dhar,25,Male,Bihar,Urban,Doctorate,College Professor,0,116400,1396800
+940,Ekbal Bedi,22,Male,Delhi,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,162000,1944000
+941,Raksha Dubey,23,Female,Telangana,Urban,Postgraduate,Data Analyst,2,110300,1323600
+942,Yashawini Uppal,41,Female,Maharashtra,Urban,Postgraduate,Nurse,18,41800,501600
+943,Januja Narula,46,Female,West Bengal,Urban,Secondary,Auto/Taxi Driver,20,25000,300000
+944,Isaiah Bhavsar,51,Male,Karnataka,Urban,Graduate,Nurse,30,57900,694800
+945,Janya Randhawa,39,Female,Uttar Pradesh,Urban,Doctorate,Doctor,15,485500,5826000
+946,Bhavna Pillai,29,Female,Maharashtra,Urban,Postgraduate,Data Analyst,10,153800,1845600
+947,Aarav Desai,18,Male,West Bengal,Rural,Primary,Agriculture Laborer,0,11700,140400
+948,Vansha Nagy,35,Female,Haryana,Urban,Doctorate,Doctor,15,336500,4038000
+949,Aditya Ghose,43,Male,Tamil Nadu,Urban,Graduate,Data Analyst,21,144600,1735200
+950,Pranav Nazareth,44,Male,Uttar Pradesh,Urban,Secondary,Small Business Owner,25,67300,807600
+951,Zarna Sarraf,34,Female,Maharashtra,Urban,Postgraduate,School Teacher,13,29900,358800
+952,Sanya Mohanty,35,Female,Gujarat,Urban,Postgraduate,Nurse,11,55600,667200
+953,Unnati Bains,31,Female,Tamil Nadu,Urban,Graduate,Shop Owner / Retailer,7,35200,422400
+954,Manan Vora,45,Male,Delhi,Urban,Secondary,Small Business Owner,21,18000,216000
+955,Tanmayi Rai,42,Female,Maharashtra,Urban,Graduate,Lawyer,20,51000,612000
+956,Mugdha Khatri,53,Female,Bihar,Urban,No Formal Education,Auto/Taxi Driver,31,23900,286800
+957,Urishilla Mody,31,Female,Tamil Nadu,Urban,Secondary,Domestic Help,12,16100,193200
+958,Jagdish Goda,47,Male,Madhya Pradesh,Urban,Doctorate,College Professor,24,138200,1658400
+959,Janani Kala,33,Female,West Bengal,Urban,Postgraduate,Nurse,8,63600,763200
+960,Arjun Bala,55,Male,Uttar Pradesh,Urban,Graduate,School Teacher,33,50300,603600
+961,Peter Thaker,18,Male,Madhya Pradesh,Rural,Secondary,Farmer (Landowner),0,21900,262800
+962,Varsha Sachdeva,62,Female,Uttar Pradesh,Urban,Graduate,Accountant / CA,43,116800,1401600
+963,Elijah Hayer,33,Male,Tamil Nadu,Urban,Primary,Domestic Help,13,9900,118800
+964,Finn Dhaliwal,35,Male,Tamil Nadu,Urban,Doctorate,Doctor,10,352300,4227600
+965,Umang Boase,19,Male,Maharashtra,Urban,Secondary,Small Business Owner,0,19100,229200
+966,Hemani Lad,24,Female,Telangana,Urban,Higher Secondary,Government Clerk,3,24200,290400
+967,Ekalinga Pillai,20,Male,Maharashtra,Urban,Postgraduate,Bank Employee,1,99900,1198800
+968,Ekansh Master,27,Male,Telangana,Urban,Secondary,Small Business Owner,8,48200,578400
+969,Vanya Andra,30,Female,West Bengal,Urban,Primary,Auto/Taxi Driver,5,17500,210000
+970,Utkarsh Ganesh,35,Male,Odisha,Urban,Graduate,Government Clerk,10,48500,582000
+971,Gaurang Badal,57,Male,Haryana,Urban,Postgraduate,Doctor,37,409400,4912800
+972,Rohan Chadha,42,Male,Haryana,Urban,Secondary,Construction Worker,23,25200,302400
+973,Samar Tak,28,Male,Telangana,Rural,Higher Secondary,Farmer (Landowner),7,20100,241200
+974,Saksham Radhakrishnan,51,Male,Kerala,Urban,Higher Secondary,Factory Worker,26,28500,342000
+975,Arin Devi,50,Male,Madhya Pradesh,Urban,Higher Secondary,Factory Worker,27,25900,310800
+976,Lakshit Pingle,51,Male,Maharashtra,Urban,Doctorate,Doctor,30,505200,6062400
+977,Karan Hans,38,Male,Tamil Nadu,Urban,Primary,Domestic Help,12,13400,160800
+978,Gopal Doshi,18,Male,Rajasthan,Urban,Secondary,Construction Worker,0,18500,222000
+979,Sanaya Sahota,46,Female,Delhi,Urban,Graduate,Shop Owner / Retailer,26,78700,944400
+980,Brijesh Vyas,36,Male,West Bengal,Urban,Graduate,Civil Engineer,10,68400,820800
+981,Prisha Patil,18,Female,Tamil Nadu,Urban,Graduate,Government Clerk,0,31500,378000
+982,Sathvik Kota,38,Male,Rajasthan,Urban,Graduate,Software Engineer,12,72000,864000
+983,Niharika Agrawal,38,Female,Tamil Nadu,Urban,Doctorate,Doctor,17,227600,2731200
+984,Osha Mannan,39,Female,Karnataka,Urban,Postgraduate,Software Engineer,13,194200,2330400
+985,Ethan Balasubramanian,38,Male,West Bengal,Urban,Primary,Construction Worker,18,12800,153600
+986,Damini Balan,57,Female,Maharashtra,Urban,Higher Secondary,Government Clerk,37,48200,578400
+987,Rachita Bava,42,Female,Delhi,Urban,Postgraduate,Software Engineer,18,225100,2701200
+988,Maanas Prabhu,32,Male,Uttar Pradesh,Urban,Secondary,Factory Worker,11,29600,355200
+989,Nathaniel Tripathi,34,Male,Karnataka,Urban,Primary,Domestic Help,15,7300,87600
+990,Faris Chadha,50,Male,Maharashtra,Rural,No Formal Education,Agriculture Laborer,30,15900,190800
+991,Tanmayi Wason,38,Female,Madhya Pradesh,Urban,Postgraduate,Lawyer,12,260200,3122400
+992,Jackson Taneja,43,Male,Maharashtra,Rural,Primary,Agriculture Laborer,18,17500,210000
+993,Anika Virk,22,Female,Bihar,Urban,Postgraduate,Government Officer (IAS/IPS etc.),1,149800,1797600
+994,Neel Joshi,49,Male,Odisha,Urban,Graduate,Accountant / CA,30,78000,936000
+995,Rishi Pai,38,Male,Karnataka,Urban,Postgraduate,Nurse,15,55300,663600
+996,Kiaan Raman,60,Male,Uttar Pradesh,Urban,Graduate,Bank Employee,35,71600,859200
+997,Bimala Borah,39,Female,Uttar Pradesh,Urban,No Formal Education,Construction Worker,17,13500,162000
+998,Isha Shroff,48,Female,Odisha,Urban,Primary,Domestic Help,27,12300,147600
+999,Veer Gour,25,Male,Rajasthan,Urban,Postgraduate,Software Engineer,1,162700,1952400
+1000,Azaan Tara,40,Male,Kerala,Rural,Secondary,Agriculture Laborer,18,11600,139200
+1001,Varsha Johal,29,Female,West Bengal,Urban,Postgraduate,Lawyer,5,168500,2022000
+1002,Ganga Deo,28,Female,Uttar Pradesh,Urban,Graduate,Government Clerk,4,40900,490800
+1003,Chaitaly Amble,47,Female,West Bengal,Urban,Postgraduate,College Professor,27,204400,2452800
+1004,Dayita Anand,20,Female,Maharashtra,Urban,Graduate,Government Clerk,0,31200,374400
+1005,Om Shah,39,Male,Maharashtra,Urban,No Formal Education,Auto/Taxi Driver,15,14100,169200
+1006,Yachana Subramanian,24,Female,Uttar Pradesh,Urban,Graduate,Shop Owner / Retailer,1,38700,464400
+1007,Zayan Bhalla,18,Male,Maharashtra,Urban,Secondary,Domestic Help,0,9300,111600
+1008,Barkha Muni,37,Female,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),18,324500,3894000
+1009,Ekaraj Brar,45,Male,Tamil Nadu,Urban,No Formal Education,Auto/Taxi Driver,22,20000,240000
+1010,Samuel Purohit,42,Male,Uttar Pradesh,Urban,Graduate,Data Analyst,18,130300,1563600
+1011,Gauri Varughese,34,Female,Odisha,Urban,Graduate,Lawyer,14,156100,1873200
+1012,Abhiram Wagle,47,Male,Gujarat,Urban,Postgraduate,Nurse,23,59400,712800
+1013,Qabil Kara,27,Male,Assam,Urban,Secondary,Small Business Owner,6,39200,470400
+1014,Yashodhara Ray,18,Female,Karnataka,Urban,Graduate,Lawyer,0,149300,1791600
+1015,Leena Kari,42,Female,Karnataka,Urban,Higher Secondary,Shop Owner / Retailer,22,60800,729600
+1016,Girish Chada,18,Male,Telangana,Urban,Graduate,Bank Employee,0,35700,428400
+1017,Urishilla Chadha,33,Female,Delhi,Rural,Primary,Farmer (Landowner),14,27000,324000
+1018,Jatin Tak,53,Male,Tamil Nadu,Urban,Doctorate,College Professor,34,291700,3500400
+1019,Upadhriti Ghose,51,Female,Tamil Nadu,Urban,Primary,Domestic Help,29,11900,142800
+1020,Ishanvi Basak,39,Female,Tamil Nadu,Rural,No Formal Education,Agriculture Laborer,20,14200,170400
+1021,Rajata Jayaraman,41,Female,Karnataka,Urban,Graduate,Data Analyst,16,143200,1718400
+1022,Vanya Sood,52,Female,Odisha,Urban,Doctorate,College Professor,30,263400,3160800
+1023,Ira Din,52,Female,Delhi,Urban,No Formal Education,Auto/Taxi Driver,32,21000,252000
+1024,Michael Chaudhary,31,Male,Uttar Pradesh,Urban,Postgraduate,School Teacher,9,38300,459600
+1025,Hritik Hayer,39,Male,Maharashtra,Urban,Higher Secondary,Factory Worker,18,27000,324000
+1026,Saksham Chadha,40,Male,Madhya Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),18,178100,2137200
+1027,Rajeshri Aurora,38,Female,Bihar,Urban,Graduate,Civil Engineer,16,49700,596400
+1028,Ishanvi Nanda,38,Female,Haryana,Urban,Higher Secondary,Factory Worker,17,20300,243600
+1029,Rajata Arya,39,Female,Karnataka,Urban,Secondary,Domestic Help,16,17000,204000
+1030,Raksha Pathak,40,Female,Tamil Nadu,Urban,Graduate,Nurse,14,52200,626400
+1031,Ansh Chacko,18,Male,Bihar,Rural,No Formal Education,Agriculture Laborer,0,7300,87600
+1032,Yahvi Bahri,43,Female,Maharashtra,Urban,Primary,Auto/Taxi Driver,21,21600,259200
+1033,Peter Chahal,47,Male,Uttar Pradesh,Urban,Postgraduate,College Professor,27,271500,3258000
+1034,Gunbir Arora,51,Male,Rajasthan,Urban,Secondary,Factory Worker,31,27200,326400
+1035,Pooja Kapoor,45,Female,West Bengal,Urban,Postgraduate,Lawyer,23,124800,1497600
+1036,Ira Ratta,51,Female,Uttar Pradesh,Urban,No Formal Education,Construction Worker,25,19900,238800
+1037,Raghav Ram,25,Male,Maharashtra,Urban,No Formal Education,Domestic Help,0,9100,109200
+1038,Arunima Badami,49,Female,Maharashtra,Urban,Secondary,Shop Owner / Retailer,28,53400,640800
+1039,Chandran Johal,20,Male,Rajasthan,Urban,Postgraduate,College Professor,0,77800,933600
+1040,Madhavi Srivastava,45,Female,Kerala,Urban,Postgraduate,Doctor,23,187100,2245200
+1041,Ishita Sethi,43,Female,Karnataka,Urban,Postgraduate,Nurse,17,39500,474000
+1042,Noah Borde,47,Male,Punjab,Urban,Postgraduate,Doctor,26,523600,6283200
+1043,Sanaya De,38,Female,Gujarat,Urban,Secondary,Shop Owner / Retailer,12,20100,241200
+1044,Megha Balasubramanian,38,Female,West Bengal,Urban,Graduate,Government Clerk,14,44200,530400
+1045,Divya Tripathi,55,Female,Kerala,Urban,Secondary,Auto/Taxi Driver,32,31700,380400
+1046,Rajeshri Kari,36,Female,Madhya Pradesh,Rural,No Formal Education,Agriculture Laborer,10,7600,91200
+1047,Unni Dua,38,Female,Bihar,Urban,Secondary,Auto/Taxi Driver,17,26800,321600
+1048,Advaith Sarna,52,Male,Karnataka,Urban,Postgraduate,Civil Engineer,27,72200,866400
+1049,Yashoda Garg,36,Female,Gujarat,Urban,No Formal Education,Auto/Taxi Driver,17,15300,183600
+1050,Vivaan Loyal,46,Male,Tamil Nadu,Urban,Graduate,Government Officer (IAS/IPS etc.),22,227200,2726400
+1051,Ekalinga Mitter,24,Male,Bihar,Urban,Graduate,Lawyer,3,117200,1406400
+1052,Osha Anand,59,Female,Uttar Pradesh,Urban,Graduate,Data Analyst,40,181300,2175600
+1053,Yasti Andra,33,Female,Uttar Pradesh,Urban,Graduate,Data Analyst,8,128500,1542000
+1054,Darika Bali,36,Female,Madhya Pradesh,Urban,Secondary,Factory Worker,11,23000,276000
+1055,Yochana Rajagopalan,44,Female,Uttar Pradesh,Urban,Postgraduate,Accountant / CA,25,134500,1614000
+1056,Dipta Dube,38,Female,Bihar,Urban,Postgraduate,Doctor,18,294300,3531600
+1057,Henry Karpe,25,Male,Karnataka,Urban,Graduate,Bank Employee,3,80800,969600
+1058,Jai Radhakrishnan,38,Male,Maharashtra,Urban,Postgraduate,Data Analyst,18,227900,2734800
+1059,Jagvi Sama,18,Female,Maharashtra,Rural,Secondary,Agriculture Laborer,0,9200,110400
+1060,Kashvi Johal,39,Female,Uttar Pradesh,Urban,Higher Secondary,Factory Worker,19,30000,360000
+1061,Kavya Sekhon,30,Female,West Bengal,Urban,Graduate,Bank Employee,10,44700,536400
+1062,Panini Pillai,41,Female,Delhi,Urban,Primary,Construction Worker,15,14900,178800
+1063,Laban Ranganathan,33,Male,Karnataka,Rural,Primary,Farmer (Landowner),13,30100,361200
+1064,Vincent Hayer,18,Male,Tamil Nadu,Urban,Postgraduate,Bank Employee,0,92800,1113600
+1065,Qadim Dutt,18,Male,Uttar Pradesh,Urban,Primary,Domestic Help,0,9000,108000
+1066,Unni Mishra,24,Female,Bihar,Urban,Graduate,Civil Engineer,3,56500,678000
+1067,Ladli Venkataraman,30,Female,Bihar,Urban,Primary,Auto/Taxi Driver,11,13300,159600
+1068,Devika Palla,22,Female,West Bengal,Urban,Higher Secondary,Shop Owner / Retailer,0,28900,346800
+1069,Vedant Andra,31,Male,Maharashtra,Urban,Postgraduate,Lawyer,9,149600,1795200
+1070,Naksh Parikh,18,Male,Tamil Nadu,Urban,Secondary,Domestic Help,0,6800,81600
+1071,Niharika Parekh,65,Female,Tamil Nadu,Urban,No Formal Education,Domestic Help,42,16100,193200
+1072,Ranveer Krishnan,33,Male,Gujarat,Urban,Doctorate,Doctor,9,192200,2306400
+1073,Patrick Chaudhary,18,Male,Uttar Pradesh,Urban,Graduate,Nurse,0,22900,274800
+1074,Lila Sagar,36,Female,Assam,Urban,Graduate,Data Analyst,14,186400,2236800
+1075,Liam Raj,20,Male,Bihar,Urban,Graduate,Data Analyst,0,72700,872400
+1076,Rehaan Sharaf,48,Male,Bihar,Urban,Secondary,Factory Worker,24,23600,283200
+1077,Zilmil Parikh,49,Female,Tamil Nadu,Urban,Postgraduate,Doctor,27,323600,3883200
+1078,Theodore Chad,53,Male,Maharashtra,Urban,No Formal Education,Auto/Taxi Driver,30,27800,333600
+1079,Qadim Mall,41,Male,Maharashtra,Urban,No Formal Education,Domestic Help,21,12900,154800
+1080,Victor Bala,23,Male,West Bengal,Urban,Secondary,Factory Worker,4,12100,145200
+1081,Agastya Sidhu,61,Male,Uttar Pradesh,Urban,Graduate,Data Analyst,40,234300,2811600
+1082,Aarav Pandey,45,Male,Uttar Pradesh,Urban,Graduate,Accountant / CA,26,159600,1915200
+1083,Tanvi Raja,47,Female,Delhi,Urban,Graduate,Government Clerk,28,62200,746400
+1084,Vasudha Mane,37,Female,Assam,Urban,No Formal Education,Auto/Taxi Driver,16,12500,150000
+1085,Wridesh Bansal,25,Male,Delhi,Urban,Secondary,Shop Owner / Retailer,1,29700,356400
+1086,Triya Hayer,34,Female,Punjab,Urban,No Formal Education,Construction Worker,13,14800,177600
+1087,Turvi D’Alia,42,Female,Rajasthan,Urban,Postgraduate,College Professor,17,130900,1570800
+1088,Chaman Ganguly,35,Female,Maharashtra,Urban,Doctorate,College Professor,11,102900,1234800
+1089,Thomas Parekh,39,Male,Punjab,Urban,Doctorate,Doctor,20,447500,5370000
+1090,Zilmil Ramakrishnan,39,Female,Tamil Nadu,Urban,Postgraduate,Data Analyst,20,183900,2206800
+1091,Faras Mannan,65,Male,Madhya Pradesh,Urban,Graduate,Bank Employee,41,76600,919200
+1092,Waida Puri,24,Female,Uttar Pradesh,Urban,Secondary,Small Business Owner,2,69500,834000
+1093,Vasatika Agrawal,31,Female,Delhi,Urban,Graduate,Civil Engineer,6,64800,777600
+1094,Ranveer Ray,39,Male,West Bengal,Urban,Doctorate,College Professor,19,147400,1768800
+1095,Aadi Mani,47,Male,West Bengal,Urban,Graduate,Data Analyst,26,84100,1009200
+1096,Logan Grover,49,Male,Karnataka,Urban,No Formal Education,Domestic Help,23,12600,151200
+1097,Unni Goel,18,Female,Uttar Pradesh,Rural,Higher Secondary,Farmer (Landowner),0,13500,162000
+1098,Reyansh Warrior,63,Male,Tamil Nadu,Rural,Primary,Farmer (Landowner),43,26800,321600
+1099,Saumya Bandi,45,Female,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),19,269800,3237600
+1100,Dhriti Sharaf,36,Female,Tamil Nadu,Urban,Higher Secondary,Factory Worker,17,33900,406800
+1101,Nikita Dhillon,35,Female,Assam,Urban,Postgraduate,Software Engineer,13,311500,3738000
+1102,Hredhaan Zacharia,55,Male,Delhi,Urban,Postgraduate,Data Analyst,29,79600,955200
+1103,Reyansh Wadhwa,43,Male,West Bengal,Rural,Secondary,Farmer (Landowner),21,30100,361200
+1104,Chakradev Bahri,41,Male,West Bengal,Urban,Secondary,Domestic Help,16,15900,190800
+1105,Irya Raman,29,Female,Karnataka,Urban,Graduate,Software Engineer,3,57100,685200
+1106,Qadim Chaudhuri,29,Male,Bihar,Urban,Secondary,Domestic Help,4,13500,162000
+1107,Lohit Jayaraman,42,Male,Telangana,Urban,Graduate,Shop Owner / Retailer,19,53500,642000
+1108,Krishna Pai,28,Female,Tamil Nadu,Urban,Primary,Auto/Taxi Driver,7,21000,252000
+1109,Ayush Sarin,30,Male,Punjab,Urban,Graduate,Accountant / CA,6,86100,1033200
+1110,Ayushman Kar,44,Male,Tamil Nadu,Urban,Graduate,Lawyer,22,131100,1573200
+1111,Nidhi Bhat,59,Female,Maharashtra,Urban,Primary,Auto/Taxi Driver,35,33600,403200
+1112,Onkar Wali,56,Male,Delhi,Urban,Secondary,Factory Worker,37,24300,291600
+1113,Michael Loke,33,Male,Delhi,Urban,Postgraduate,Bank Employee,10,61600,739200
+1114,Ekantika Dasgupta,18,Female,Tamil Nadu,Urban,Higher Secondary,Shop Owner / Retailer,0,22500,270000
+1115,Brinda Gulati,52,Female,Telangana,Urban,Graduate,Lawyer,33,84800,1017600
+1116,Qadim Doctor,45,Male,Telangana,Urban,Graduate,Civil Engineer,26,150100,1801200
+1117,Unni Mani,50,Female,Assam,Urban,Graduate,Lawyer,28,168700,2024400
+1118,Vidhi Dhar,39,Female,Karnataka,Urban,Graduate,Data Analyst,14,135800,1629600
+1119,Jairaj Narasimhan,32,Male,Karnataka,Urban,No Formal Education,Construction Worker,7,18600,223200
+1120,Devansh Mangat,32,Male,Karnataka,Urban,Higher Secondary,Government Clerk,10,49500,594000
+1121,Mekhala Mani,39,Female,Bihar,Urban,Primary,Domestic Help,14,8100,97200
+1122,Vrishti Mani,52,Female,West Bengal,Urban,Graduate,Accountant / CA,28,66400,796800
+1123,Yahvi Pai,47,Female,Haryana,Urban,Doctorate,College Professor,24,179400,2152800
+1124,Rishi Buch,35,Male,Uttar Pradesh,Urban,Postgraduate,Data Analyst,15,180400,2164800
+1125,Kavya Kohli,53,Female,Karnataka,Urban,Graduate,Civil Engineer,33,61100,733200
+1126,Jason Pandey,41,Male,Maharashtra,Urban,Graduate,Government Officer (IAS/IPS etc.),19,107700,1292400
+1127,Anika Deol,33,Female,Bihar,Urban,Graduate,Data Analyst,8,130900,1570800
+1128,Yatin Char,36,Male,Punjab,Urban,Secondary,Shop Owner / Retailer,14,52400,628800
+1129,Patrick Nagy,26,Male,West Bengal,Urban,Graduate,Accountant / CA,3,88500,1062000
+1130,Aahana Khatri,46,Female,Assam,Urban,Doctorate,Doctor,21,573100,6877200
+1131,Wazir Bali,35,Male,Uttar Pradesh,Urban,Graduate,Small Business Owner,9,105900,1270800
+1132,Rayaan Mander,34,Male,Bihar,Urban,Postgraduate,Lawyer,11,138700,1664400
+1133,Robert Kale,34,Male,Gujarat,Urban,Secondary,Domestic Help,8,11100,133200
+1134,Nidhi Devi,44,Female,Uttar Pradesh,Rural,Secondary,Agriculture Laborer,25,20300,243600
+1135,Wakeeta Sarin,37,Female,Bihar,Urban,Postgraduate,Software Engineer,11,175500,2106000
+1136,Daksh Anand,45,Male,Madhya Pradesh,Urban,Secondary,Factory Worker,19,34100,409200
+1137,Rehaan Narain,33,Male,Rajasthan,Urban,Primary,Domestic Help,10,12300,147600
+1138,Aryan Venkatesh,44,Male,Uttar Pradesh,Urban,Graduate,Small Business Owner,23,123300,1479600
+1139,Gavin Dixit,18,Male,Delhi,Urban,Secondary,Construction Worker,0,15100,181200
+1140,Aarush Narain,48,Male,Bihar,Urban,Postgraduate,Data Analyst,29,109800,1317600
+1141,Indali Dugar,45,Female,Odisha,Urban,Secondary,Auto/Taxi Driver,19,16800,201600
+1142,Udant Narayanan,18,Male,Bihar,Urban,Secondary,Shop Owner / Retailer,0,44100,529200
+1143,Jacob Lalla,51,Male,Uttar Pradesh,Urban,Higher Secondary,Government Clerk,29,49500,594000
+1144,Jack Ray,38,Male,Assam,Urban,Secondary,Construction Worker,14,13700,164400
+1145,Ansh Mittal,56,Male,Gujarat,Urban,Postgraduate,Civil Engineer,37,188500,2262000
+1146,Kalpit Kibe,54,Male,Telangana,Urban,Doctorate,Doctor,35,210100,2521200
+1147,Vivaan Singhal,42,Male,Madhya Pradesh,Urban,Graduate,Civil Engineer,18,70000,840000
+1148,Harish Sundaram,48,Male,Kerala,Urban,Postgraduate,Doctor,25,308900,3706800
+1149,Nidhi Zachariah,44,Female,Madhya Pradesh,Urban,Graduate,Civil Engineer,25,74500,894000
+1150,Chanchal Khare,41,Female,Haryana,Urban,Graduate,Accountant / CA,16,86600,1039200
+1151,Vrishti Toor,36,Female,Haryana,Urban,Postgraduate,Government Officer (IAS/IPS etc.),16,272600,3271200
+1152,Warhi Sodhi,48,Female,Maharashtra,Urban,Postgraduate,Data Analyst,29,135700,1628400
+1153,Ucchal Ganguly,39,Female,Maharashtra,Rural,Primary,Agriculture Laborer,17,10300,123600
+1154,Charan Mistry,35,Male,Tamil Nadu,Urban,No Formal Education,Domestic Help,11,10500,126000
+1155,Balhaar Warrior,38,Male,Uttar Pradesh,Urban,Secondary,Small Business Owner,19,111200,1334400
+1156,Qarin Minhas,26,Male,Uttar Pradesh,Rural,No Formal Education,Agriculture Laborer,2,8200,98400
+1157,Yashodhara Golla,24,Female,Uttar Pradesh,Urban,Secondary,Factory Worker,0,17300,207600
+1158,Balhaar Jha,35,Male,Telangana,Urban,Graduate,Government Clerk,15,48700,584400
+1159,Eshana Dey,37,Female,West Bengal,Urban,Higher Secondary,Shop Owner / Retailer,17,44400,532800
+1160,Sanya Loke,37,Female,Telangana,Urban,Graduate,School Teacher,17,34100,409200
+1161,Oeshi Tailor,20,Female,Uttar Pradesh,Urban,Postgraduate,Civil Engineer,0,67900,814800
+1162,Nidra Grewal,40,Female,Bihar,Urban,Postgraduate,Software Engineer,20,184000,2208000
+1163,Hemani Bhavsar,44,Female,Maharashtra,Urban,Graduate,Lawyer,22,62800,753600
+1164,Girik Bhargava,25,Male,Telangana,Urban,Postgraduate,Accountant / CA,5,79100,949200
+1165,Udarsh Dubey,47,Male,Odisha,Urban,Graduate,Small Business Owner,23,92600,1111200
+1166,Omkaar Talwar,18,Male,Tamil Nadu,Urban,Secondary,Domestic Help,0,9200,110400
+1167,Gautam Buch,52,Male,Uttar Pradesh,Urban,Postgraduate,College Professor,28,261900,3142800
+1168,Anmol Bhardwaj,35,Male,Madhya Pradesh,Urban,Graduate,Nurse,13,39200,470400
+1169,Lakshmi Kade,28,Female,Rajasthan,Urban,Postgraduate,Doctor,6,238000,2856000
+1170,Deepa Nagy,18,Female,Telangana,Urban,Postgraduate,Bank Employee,0,69000,828000
+1171,Ikbal Seth,29,Male,Uttar Pradesh,Urban,Graduate,Nurse,9,52700,632400
+1172,Brijesh Gopal,52,Male,Rajasthan,Urban,Graduate,Government Clerk,28,61700,740400
+1173,Niharika Karan,42,Female,Assam,Urban,Secondary,Construction Worker,23,24400,292800
+1174,Veda Pandey,64,Female,Bihar,Urban,Doctorate,Doctor,42,389000,4668000
+1175,Ikbal Sagar,35,Male,Haryana,Rural,Primary,Agriculture Laborer,12,16400,196800
+1176,Praneel Zacharia,25,Male,West Bengal,Urban,Graduate,Small Business Owner,0,32500,390000
+1177,Girik Mannan,35,Male,Maharashtra,Urban,Graduate,Small Business Owner,16,158500,1902000
+1178,Naksh Sule,36,Male,Delhi,Urban,Postgraduate,Accountant / CA,16,73400,880800
+1179,Zashil Raja,35,Male,Kerala,Urban,No Formal Education,Auto/Taxi Driver,15,12200,146400
+1180,Oni More,32,Female,Karnataka,Urban,Primary,Auto/Taxi Driver,11,17200,206400
+1181,Qasim Sekhon,44,Male,Bihar,Rural,Higher Secondary,Farmer (Landowner),21,30100,361200
+1182,Vinaya Sridhar,43,Female,West Bengal,Urban,No Formal Education,Construction Worker,20,15200,182400
+1183,Kashvi Borah,53,Female,Kerala,Urban,Postgraduate,Doctor,34,351200,4214400
+1184,Osha Palla,39,Female,Karnataka,Urban,Graduate,Lawyer,15,198800,2385600
+1185,Zaitra Padmanabhan,39,Female,Madhya Pradesh,Urban,No Formal Education,Domestic Help,20,16300,195600
+1186,Triya Datta,31,Female,Kerala,Urban,Postgraduate,Government Officer (IAS/IPS etc.),12,164400,1972800
+1187,Upadhriti Bajwa,28,Female,Delhi,Urban,Secondary,Small Business Owner,8,58800,705600
+1188,Nachiket Bhavsar,25,Male,Karnataka,Urban,Secondary,Construction Worker,4,14500,174000
+1189,Gopal Natt,38,Male,Uttar Pradesh,Urban,No Formal Education,Construction Worker,14,18700,224400
+1190,Chandresh Nadig,50,Male,Punjab,Urban,Graduate,Bank Employee,27,85900,1030800
+1191,Janaki Mishra,31,Female,Maharashtra,Urban,Higher Secondary,Small Business Owner,7,106900,1282800
+1192,Caleb Ratta,33,Male,Uttar Pradesh,Urban,Higher Secondary,Government Clerk,12,32700,392400
+1193,Atharv Mahal,60,Male,Maharashtra,Urban,Postgraduate,Civil Engineer,39,111500,1338000
+1194,Devika Bawa,50,Female,West Bengal,Urban,Graduate,Bank Employee,30,55300,663600
+1195,Nitesh Narang,46,Male,Uttar Pradesh,Urban,Higher Secondary,Small Business Owner,23,86800,1041600
+1196,Oviya Rajagopalan,37,Female,Delhi,Urban,Graduate,Data Analyst,12,106800,1281600
+1197,Owen Sood,28,Male,Gujarat,Rural,Primary,Farmer (Landowner),8,17000,204000
+1198,Harita Dhar,32,Female,Kerala,Urban,Postgraduate,Accountant / CA,12,123100,1477200
+1199,Pushti Sengupta,30,Other,Uttar Pradesh,Urban,Graduate,School Teacher,9,32100,385200
+1200,Yahvi Dasgupta,18,Female,Bihar,Urban,Secondary,Auto/Taxi Driver,0,15800,189600
+1201,Yoshita Sundaram,70,Female,Maharashtra,Urban,Secondary,Small Business Owner,45,95900,1150800
+1202,Gautam Walla,35,Male,Assam,Urban,Graduate,Bank Employee,9,65000,780000
+1203,Vincent Sanghvi,25,Male,Maharashtra,Urban,Graduate,Civil Engineer,4,74600,895200
+1204,Mohini Pradhan,41,Female,Maharashtra,Urban,Graduate,Civil Engineer,21,70100,841200
+1205,Avni Kumer,60,Female,Kerala,Urban,Graduate,Data Analyst,35,62600,751200
+1206,Wazir Ganesan,34,Male,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),9,245700,2948400
+1207,Karan Soni,39,Male,Maharashtra,Urban,Higher Secondary,Factory Worker,13,21600,259200
+1208,Yashasvi Bains,34,Female,Assam,Urban,Graduate,Data Analyst,11,63200,758400
+1209,Fitan Walla,47,Male,Odisha,Rural,Primary,Farmer (Landowner),26,24100,289200
+1210,Rajata Gulati,45,Female,Rajasthan,Urban,Postgraduate,School Teacher,19,50700,608400
+1211,Yash Chadha,21,Male,Bihar,Urban,Postgraduate,School Teacher,1,32600,391200
+1212,Inaya Pingle,38,Female,Maharashtra,Urban,Secondary,Shop Owner / Retailer,19,40500,486000
+1213,Caleb Soni,51,Male,Maharashtra,Urban,Doctorate,Doctor,31,242500,2910000
+1214,Ekanta Kara,50,Female,Maharashtra,Urban,Postgraduate,School Teacher,24,66300,795600
+1215,Aishani Sunder,18,Female,Haryana,Urban,Graduate,School Teacher,0,28500,342000
+1216,Andrew Narain,18,Male,Uttar Pradesh,Rural,Higher Secondary,Farmer (Landowner),0,15600,187200
+1217,Warhi Krishnamurthy,51,Female,Rajasthan,Urban,Graduate,Accountant / CA,27,92700,1112400
+1218,Omaja Goel,38,Female,Rajasthan,Urban,Postgraduate,Lawyer,17,59100,709200
+1219,Qarin Badal,40,Male,Maharashtra,Urban,Secondary,Small Business Owner,14,83200,998400
+1220,Anthony Thakur,54,Male,Delhi,Urban,Graduate,Nurse,35,65400,784800
+1221,Aarna Bedi,34,Female,Tamil Nadu,Urban,Postgraduate,Data Analyst,9,125400,1504800
+1222,Lipika Vyas,63,Female,Gujarat,Urban,Graduate,Lawyer,40,251900,3022800
+1223,Vedika Rege,31,Female,Maharashtra,Urban,Postgraduate,College Professor,8,210800,2529600
+1224,Neel Keer,61,Male,Karnataka,Urban,Secondary,Small Business Owner,37,35100,421200
+1225,Aahana Wali,62,Female,Maharashtra,Urban,Secondary,Factory Worker,41,32800,393600
+1226,Shaurya Nagi,39,Male,Madhya Pradesh,Urban,Secondary,Domestic Help,14,16700,200400
+1227,Kiaan Aggarwal,54,Male,Uttar Pradesh,Urban,Graduate,Government Clerk,31,72300,867600
+1228,Noah Puri,50,Male,Kerala,Urban,Postgraduate,Lawyer,24,217600,2611200
+1229,Jatin Kar,35,Male,Tamil Nadu,Urban,Graduate,Nurse,14,37600,451200
+1230,Rohan Chadha,44,Male,Bihar,Urban,Postgraduate,Software Engineer,23,173800,2085600
+1231,Hema Dubey,45,Female,Delhi,Urban,Graduate,Civil Engineer,21,140500,1686000
+1232,Lucky Sahota,42,Male,West Bengal,Urban,Graduate,Government Clerk,17,49000,588000
+1233,Jyoti Korpal,35,Female,Delhi,Urban,Graduate,Shop Owner / Retailer,14,53700,644400
+1234,Warhi Oak,44,Female,Maharashtra,Rural,No Formal Education,Agriculture Laborer,22,12700,152400
+1235,Daksha Sachdev,18,Female,Karnataka,Urban,Secondary,Shop Owner / Retailer,0,37500,450000
+1236,Anirudh Ganesh,33,Male,Rajasthan,Urban,Graduate,School Teacher,11,64300,771600
+1237,Nisha Baral,32,Female,Tamil Nadu,Urban,Higher Secondary,Factory Worker,12,19700,236400
+1238,Ekavir Warrior,29,Male,Uttar Pradesh,Rural,Primary,Agriculture Laborer,7,11500,138000
+1239,Aradhana Vala,48,Female,Delhi,Urban,Graduate,Lawyer,24,131800,1581600
+1240,Mekhala Kumar,39,Female,Madhya Pradesh,Rural,Primary,Farmer (Landowner),18,19000,228000
+1241,Kritika Munshi,41,Female,Telangana,Urban,Secondary,Small Business Owner,15,78100,937200
+1242,Manthan Pandit,51,Male,Gujarat,Urban,Postgraduate,Software Engineer,31,209300,2511600
+1243,Nihal Jayaraman,66,Male,Uttar Pradesh,Urban,Higher Secondary,Shop Owner / Retailer,41,31200,374400
+1244,Parth Mohan,24,Male,Maharashtra,Rural,Secondary,Farmer (Landowner),4,21400,256800
+1245,Oliver Parsa,24,Male,Uttar Pradesh,Urban,Graduate,Software Engineer,0,84400,1012800
+1246,Vrinda Wason,24,Female,Maharashtra,Urban,Graduate,Civil Engineer,3,59600,715200
+1247,Hritik Chacko,34,Male,Karnataka,Urban,Graduate,Government Clerk,12,37300,447600
+1248,Ati Dhillon,45,Female,Gujarat,Urban,Graduate,Accountant / CA,26,129900,1558800
+1249,Siddharth Sekhon,37,Male,Maharashtra,Urban,Postgraduate,Government Officer (IAS/IPS etc.),12,206900,2482800
+1250,Nilima Oak,36,Female,Bihar,Urban,Secondary,Factory Worker,17,30300,363600
+1251,Harinakshi Khanna,39,Female,Odisha,Urban,Graduate,Government Clerk,18,67600,811200
+1252,Kabir Bera,18,Male,Kerala,Urban,Secondary,Auto/Taxi Driver,0,14800,177600
+1253,Mohammed Sangha,54,Male,Rajasthan,Urban,Postgraduate,Software Engineer,33,259000,3108000
+1254,George Contractor,48,Male,Madhya Pradesh,Urban,Secondary,Auto/Taxi Driver,25,31900,382800
+1255,Frado Mital,18,Male,Maharashtra,Urban,Graduate,Small Business Owner,0,22100,265200
+1256,Anamika Chaudhary,32,Female,Karnataka,Urban,Postgraduate,Data Analyst,7,149400,1792800
+1257,William Kapoor,50,Male,Haryana,Urban,Graduate,Civil Engineer,28,120700,1448400
+1258,Wishi Magar,33,Female,Madhya Pradesh,Urban,Postgraduate,Accountant / CA,9,142400,1708800
+1259,Wakeeta Khare,27,Female,Tamil Nadu,Urban,Graduate,Bank Employee,8,77600,931200
+1260,Hritik Ben,37,Male,Uttar Pradesh,Urban,Postgraduate,Civil Engineer,12,117400,1408800
+1261,Ekalinga Lal,28,Male,Bihar,Urban,No Formal Education,Domestic Help,8,14700,176400
+1262,Diya Dasgupta,38,Female,Bihar,Urban,Postgraduate,Lawyer,12,210400,2524800
+1263,Zehaan Kumar,52,Male,Delhi,Urban,Postgraduate,Doctor,31,331900,3982800
+1264,Damini Muni,19,Female,Rajasthan,Urban,Higher Secondary,Factory Worker,0,28300,339600
+1265,Zayyan Dar,34,Male,Bihar,Urban,Postgraduate,School Teacher,12,40900,490800
+1266,Indali Nigam,37,Female,Tamil Nadu,Urban,No Formal Education,Domestic Help,16,15500,186000
+1267,Tripti Mukhopadhyay,48,Female,West Bengal,Urban,Postgraduate,Government Officer (IAS/IPS etc.),24,221600,2659200
+1268,Shaurya Madan,45,Male,Assam,Urban,Secondary,Construction Worker,24,24300,291600
+1269,Peter Reddy,28,Male,Bihar,Urban,Graduate,Accountant / CA,9,132900,1594800
+1270,Darpan Tak,24,Male,Kerala,Urban,Higher Secondary,Factory Worker,3,19200,230400
+1271,Tripti Walia,43,Female,Punjab,Urban,Graduate,Lawyer,19,218700,2624400
+1272,Sudiksha Ramaswamy,42,Female,Maharashtra,Urban,Graduate,School Teacher,22,46200,554400
+1273,Harita Bobal,34,Female,Telangana,Urban,Higher Secondary,Government Clerk,8,39700,476400
+1274,Samaksh Nagi,30,Male,Gujarat,Urban,Graduate,Civil Engineer,11,87300,1047600
+1275,Barkha Apte,62,Female,Maharashtra,Urban,Postgraduate,Data Analyst,42,112400,1348800
+1276,Aradhana Sinha,28,Female,Karnataka,Urban,Graduate,Government Officer (IAS/IPS etc.),4,278800,3345600
+1277,Rishi Chaudhry,47,Male,Madhya Pradesh,Urban,Graduate,Lawyer,25,159900,1918800
+1278,Meera Mittal,45,Other,Delhi,Urban,Higher Secondary,Government Clerk,24,37500,450000
+1279,Rayaan Subramanian,27,Male,Telangana,Urban,Secondary,Construction Worker,1,9600,115200
+1280,Gayathri Pillay,34,Female,Maharashtra,Urban,Secondary,Small Business Owner,8,26600,319200
+1281,Rachita Murthy,28,Female,Delhi,Urban,Higher Secondary,Factory Worker,6,13500,162000
+1282,Pranav Dora,44,Male,Assam,Urban,Postgraduate,Lawyer,21,221200,2654400
+1283,Harita Bhattacharyya,32,Female,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),10,236500,2838000
+1284,Siddharth Behl,27,Male,West Bengal,Urban,Higher Secondary,Factory Worker,7,17900,214800
+1285,Chaitanya Kannan,32,Male,Assam,Urban,Postgraduate,College Professor,11,109800,1317600
+1286,Ryan Acharya,63,Male,Uttar Pradesh,Urban,Graduate,Bank Employee,43,111100,1333200
+1287,Hemal Rana,23,Female,Maharashtra,Rural,Primary,Agriculture Laborer,0,9200,110400
+1288,George Devi,49,Male,Bihar,Urban,Postgraduate,Lawyer,27,249200,2990400
+1289,Zansi Raju,35,Female,Bihar,Urban,Graduate,Lawyer,11,49900,598800
+1290,Siya Manda,55,Female,Uttar Pradesh,Urban,Graduate,Nurse,36,64400,772800
+1291,Anay Ravi,38,Male,Karnataka,Urban,Higher Secondary,Factory Worker,14,20300,243600
+1292,Kabir Sarna,21,Male,West Bengal,Urban,Graduate,School Teacher,0,49900,598800
+1293,Victor Kadakia,47,Male,West Bengal,Urban,Graduate,Government Clerk,22,43000,516000
+1294,Maya Raghavan,30,Female,Uttar Pradesh,Urban,Postgraduate,College Professor,4,165600,1987200
+1295,Vrinda Bose,36,Female,Gujarat,Urban,Higher Secondary,Small Business Owner,14,76300,915600
+1296,Logan Wason,40,Male,West Bengal,Urban,Postgraduate,Data Analyst,17,93100,1117200
+1297,Sneha Dave,53,Female,Uttar Pradesh,Urban,Secondary,Construction Worker,34,14500,174000
+1298,Gaurangi Rau,57,Female,Maharashtra,Urban,Secondary,Auto/Taxi Driver,37,36500,438000
+1299,Avi Vala,20,Male,Bihar,Urban,Secondary,Auto/Taxi Driver,0,19800,237600
+1300,Ishanvi Salvi,47,Female,Bihar,Urban,Postgraduate,Bank Employee,26,114300,1371600
+1301,Bishakha Batra,42,Female,Gujarat,Urban,Graduate,Data Analyst,21,112100,1345200
+1302,Yashvi Deshpande,51,Female,West Bengal,Urban,Postgraduate,Accountant / CA,25,58100,697200
+1303,Varenya Chakrabarti,19,Female,Kerala,Urban,Graduate,Bank Employee,0,71300,855600
+1304,Zashil Lad,18,Male,Uttar Pradesh,Urban,Primary,Domestic Help,0,10600,127200
+1305,Veda Joshi,24,Female,Tamil Nadu,Urban,Postgraduate,Doctor,3,335400,4024800
+1306,Manan Viswanathan,55,Male,West Bengal,Urban,Graduate,Nurse,35,67300,807600
+1307,Baghyawati Som,20,Female,Telangana,Urban,Graduate,Software Engineer,0,183300,2199600
+1308,Girindra Wagle,25,Male,Haryana,Urban,Graduate,Accountant / CA,6,130800,1569600
+1309,Anusha Lalla,51,Female,Tamil Nadu,Urban,Graduate,Government Officer (IAS/IPS etc.),28,171200,2054400
+1310,Reyansh Pall,43,Male,Telangana,Urban,Graduate,Bank Employee,21,102700,1232400
+1311,Teerth Patel,37,Male,West Bengal,Urban,Postgraduate,Government Officer (IAS/IPS etc.),12,119000,1428000
+1312,Kabir Palla,22,Male,Bihar,Urban,Higher Secondary,Government Clerk,0,35700,428400
+1313,Dominic Tripathi,45,Male,Telangana,Urban,Postgraduate,Accountant / CA,23,78300,939600
+1314,Avni Dalal,51,Female,Delhi,Urban,No Formal Education,Construction Worker,32,17400,208800
+1315,Jyoti Tella,46,Female,West Bengal,Urban,Postgraduate,Doctor,24,338000,4056000
+1316,Manthan Patel,18,Male,West Bengal,Urban,Graduate,Government Clerk,0,31100,373200
+1317,Aachal Gill,33,Female,Maharashtra,Urban,Primary,Construction Worker,8,12900,154800
+1318,Vyanjana Ratti,27,Female,Odisha,Urban,Graduate,Civil Engineer,5,54700,656400
+1319,Vedika Seshadri,29,Female,Gujarat,Urban,Secondary,Auto/Taxi Driver,3,23900,286800
+1320,Lavanya Koshy,29,Female,Bihar,Urban,Postgraduate,Civil Engineer,10,51400,616800
+1321,Yashica Bhagat,18,Female,Uttar Pradesh,Urban,Graduate,Nurse,0,30900,370800
+1322,Dalbir Tiwari,37,Male,Kerala,Urban,Graduate,Government Clerk,11,50000,600000
+1323,Amrita Mani,35,Female,Kerala,Urban,Graduate,Civil Engineer,10,77800,933600
+1324,Tanish Muni,63,Male,West Bengal,Urban,Graduate,Software Engineer,43,223800,2685600
+1325,Yashodhara Ramachandran,46,Female,Telangana,Urban,Secondary,Shop Owner / Retailer,26,41300,495600
+1326,Mohammed Chahal,33,Male,West Bengal,Urban,Graduate,Lawyer,8,102400,1228800
+1327,Jagvi Wali,51,Female,Bihar,Urban,Doctorate,College Professor,26,267900,3214800
+1328,Chatura Nayak,29,Male,Delhi,Rural,No Formal Education,Agriculture Laborer,10,12700,152400
+1329,Amruta Mody,48,Female,Karnataka,Urban,Graduate,School Teacher,29,85700,1028400
+1330,Shivansh Venkatesh,29,Male,Tamil Nadu,Urban,Secondary,Auto/Taxi Driver,9,22900,274800
+1331,Dhriti Khurana,27,Female,Maharashtra,Urban,Secondary,Small Business Owner,1,58200,698400
+1332,Timothy Ravi,35,Male,West Bengal,Urban,Graduate,Government Officer (IAS/IPS etc.),9,229100,2749200
+1333,Gopal Balakrishnan,32,Male,Kerala,Rural,No Formal Education,Agriculture Laborer,10,10500,126000
+1334,Warhi Chauhan,33,Female,Gujarat,Urban,Graduate,Bank Employee,13,57000,684000
+1335,Ranveer Sama,35,Male,Telangana,Urban,Doctorate,College Professor,16,270700,3248400
+1336,Dalaja Gole,38,Female,West Bengal,Urban,Primary,Domestic Help,15,14000,168000
+1337,Balhaar Halder,46,Male,Assam,Urban,Graduate,Small Business Owner,21,107800,1293600
+1338,Karan Palla,18,Male,Delhi,Rural,No Formal Education,Agriculture Laborer,0,10400,124800
+1339,Nihal Lad,31,Male,Assam,Urban,Postgraduate,Accountant / CA,10,83500,1002000
+1340,Anay Dyal,30,Male,Bihar,Urban,No Formal Education,Auto/Taxi Driver,5,11400,136800
+1341,Baghyawati Nanda,38,Female,Bihar,Urban,Postgraduate,Accountant / CA,16,59100,709200
+1342,Naveen Mody,18,Male,Bihar,Rural,No Formal Education,Agriculture Laborer,0,11500,138000
+1343,Radhika Dash,21,Female,Uttar Pradesh,Urban,Postgraduate,College Professor,0,142000,1704000
+1344,Tanish Garg,31,Male,Tamil Nadu,Urban,Graduate,Software Engineer,12,160900,1930800
+1345,Fariq Konda,57,Male,Haryana,Urban,Graduate,School Teacher,38,48400,580800
+1346,Yoshita Dara,28,Female,Uttar Pradesh,Urban,Postgraduate,Data Analyst,9,158100,1897200
+1347,Daksh Tak,49,Male,Kerala,Urban,Postgraduate,Nurse,26,82100,985200
+1348,Jonathan Bail,31,Male,Tamil Nadu,Urban,Secondary,Factory Worker,6,28500,342000
+1349,Ikbal Bail,51,Male,Maharashtra,Urban,Postgraduate,Lawyer,32,250100,3001200
+1350,Ekansh Dyal,46,Male,Uttar Pradesh,Urban,Postgraduate,Accountant / CA,27,94700,1136400
+1351,Oni D’Alia,41,Female,Gujarat,Urban,Primary,Construction Worker,21,22000,264000
+1352,Indira Jaggi,29,Female,Assam,Urban,Postgraduate,College Professor,6,131700,1580400
+1353,Devika Ramanathan,37,Female,Madhya Pradesh,Urban,Doctorate,Doctor,11,175900,2110800
+1354,Anya Thakkar,25,Female,West Bengal,Urban,Postgraduate,Accountant / CA,0,86000,1032000
+1355,Oscar Chana,51,Male,Karnataka,Urban,Graduate,Bank Employee,31,99600,1195200
+1356,Falguni Sastry,43,Female,West Bengal,Rural,Secondary,Farmer (Landowner),20,21700,260400
+1357,Gaurangi Rama,30,Female,Uttar Pradesh,Urban,Postgraduate,Software Engineer,6,244000,2928000
+1358,Amrita Kakar,38,Female,West Bengal,Rural,Primary,Farmer (Landowner),17,27700,332400
+1359,Omaja Virk,21,Female,Karnataka,Urban,Higher Secondary,Government Clerk,0,41000,492000
+1360,Forum Pai,36,Female,Karnataka,Urban,Higher Secondary,Government Clerk,12,34300,411600
+1361,Naksh Kumar,53,Male,Madhya Pradesh,Urban,Postgraduate,College Professor,31,160500,1926000
+1362,Harshil Palan,51,Male,Haryana,Urban,Secondary,Auto/Taxi Driver,30,20200,242400
+1363,Triveni Vig,53,Female,Madhya Pradesh,Urban,No Formal Education,Domestic Help,34,15400,184800
+1364,Veer Kumar,39,Male,Gujarat,Urban,Postgraduate,Civil Engineer,14,68200,818400
+1365,Vritti Raj,41,Female,Maharashtra,Urban,Graduate,Government Officer (IAS/IPS etc.),22,257100,3085200
+1366,Anjali Chandra,30,Female,Madhya Pradesh,Urban,Secondary,Factory Worker,4,13000,156000
+1367,Nirja Sur,41,Female,Rajasthan,Urban,Graduate,School Teacher,17,28200,338400
+1368,Eshana Setty,47,Female,Telangana,Urban,Higher Secondary,Shop Owner / Retailer,22,41900,502800
+1369,Hritik Nagar,39,Male,Delhi,Urban,Doctorate,College Professor,15,151300,1815600
+1370,Mitali Hayre,53,Female,West Bengal,Urban,Graduate,Accountant / CA,29,196500,2358000
+1371,Nirja Pai,27,Female,Rajasthan,Urban,Higher Secondary,Government Clerk,7,49300,591600
+1372,Libni Nadkarni,54,Female,West Bengal,Urban,Postgraduate,Civil Engineer,33,78200,938400
+1373,Gaurang Suri,30,Male,Telangana,Urban,Graduate,Government Clerk,11,46100,553200
+1374,Shivansh Yohannan,41,Male,Gujarat,Urban,Graduate,Government Officer (IAS/IPS etc.),15,149600,1795200
+1375,Fitan Tandon,66,Male,Tamil Nadu,Urban,Higher Secondary,Small Business Owner,46,62900,754800
+1376,Chatura Bala,18,Male,Delhi,Urban,Primary,Auto/Taxi Driver,0,10600,127200
+1377,Yashica Thakur,21,Female,Kerala,Urban,Postgraduate,School Teacher,0,70800,849600
+1378,Qasim Sabharwal,50,Male,Madhya Pradesh,Rural,Secondary,Farmer (Landowner),31,32100,385200
+1379,Imaran Suri,45,Male,Maharashtra,Urban,No Formal Education,Domestic Help,24,14600,175200
+1380,Hemang Tella,32,Male,Karnataka,Urban,Graduate,School Teacher,10,44700,536400
+1381,Yochana Hegde,53,Female,West Bengal,Urban,Secondary,Small Business Owner,28,46600,559200
+1382,Shivansh Lad,28,Male,Gujarat,Urban,Postgraduate,Lawyer,7,60400,724800
+1383,Theodore Purohit,63,Male,Tamil Nadu,Urban,Postgraduate,Government Officer (IAS/IPS etc.),43,252100,3025200
+1384,Hardik Joshi,18,Male,Uttar Pradesh,Urban,Graduate,Nurse,0,32400,388800
+1385,Eshana Sarna,39,Female,West Bengal,Urban,Higher Secondary,Factory Worker,14,29100,349200
+1386,Darsh Sami,18,Male,Telangana,Urban,Secondary,Domestic Help,0,7800,93600
+1387,Shaurya Panchal,37,Male,Maharashtra,Rural,Primary,Agriculture Laborer,18,9800,117600
+1388,Oeshi Contractor,57,Female,Telangana,Urban,Primary,Auto/Taxi Driver,33,26300,315600
+1389,Udarsh Bedi,43,Male,Odisha,Urban,Graduate,School Teacher,24,41200,494400
+1390,Ganga Khurana,38,Female,Karnataka,Urban,Graduate,School Teacher,13,66100,793200
+1391,Jagvi Saha,22,Female,Karnataka,Urban,Graduate,Bank Employee,0,78900,946800
+1392,Kala Manda,59,Female,Uttar Pradesh,Urban,Postgraduate,Data Analyst,36,150500,1806000
+1393,Bachittar Tandon,59,Male,Odisha,Urban,Graduate,Data Analyst,37,126400,1516800
+1394,Hemangini Buch,31,Female,Uttar Pradesh,Urban,Graduate,Data Analyst,8,137100,1645200
+1395,Chaman Samra,24,Female,Maharashtra,Urban,Postgraduate,Nurse,0,46000,552000
+1396,Nakul Wali,45,Male,Gujarat,Urban,Graduate,Civil Engineer,25,59700,716400
+1397,Wishi Parsa,51,Female,Odisha,Urban,Higher Secondary,Factory Worker,27,41100,493200
+1398,Ekta Khalsa,51,Female,Punjab,Urban,Secondary,Shop Owner / Retailer,27,22800,273600
+1399,Vansha Chaudhary,31,Female,Bihar,Urban,Postgraduate,Lawyer,6,109600,1315200
+1400,Bina Sabharwal,27,Female,Uttar Pradesh,Urban,Graduate,Software Engineer,6,208800,2505600
+1401,Manya Parikh,18,Female,Punjab,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,96600,1159200
+1402,Yatan Ghosh,35,Other,Delhi,Urban,Graduate,Civil Engineer,10,45900,550800
+1403,Idika Rai,18,Female,Uttar Pradesh,Urban,Graduate,School Teacher,0,37300,447600
+1404,Samesh Nagar,46,Male,Gujarat,Urban,Postgraduate,Government Officer (IAS/IPS etc.),25,222400,2668800
+1405,Jairaj Atwal,43,Male,Rajasthan,Urban,Doctorate,Doctor,22,377400,4528800
+1406,Ikbal Halder,43,Male,Tamil Nadu,Urban,Graduate,Small Business Owner,22,77900,934800
+1407,Jhalak Walla,53,Female,Madhya Pradesh,Urban,Postgraduate,Civil Engineer,34,130500,1566000
+1408,Omaja Sridhar,70,Female,Maharashtra,Urban,Graduate,School Teacher,47,52500,630000
+1409,Alka Arya,56,Female,Uttar Pradesh,Urban,Graduate,Government Clerk,35,86300,1035600
+1410,Vamakshi Chada,32,Female,Rajasthan,Rural,Primary,Agriculture Laborer,6,9600,115200
+1411,Vrinda Dasgupta,41,Female,Maharashtra,Urban,Primary,Domestic Help,17,14100,169200
+1412,Gautam Rout,46,Male,Madhya Pradesh,Urban,Graduate,Accountant / CA,27,66300,795600
+1413,Unni Pal,63,Female,Maharashtra,Urban,Graduate,Bank Employee,37,88700,1064400
+1414,Ansh Khatri,60,Male,Odisha,Urban,Secondary,Auto/Taxi Driver,34,34000,408000
+1415,Urishilla Dash,32,Female,Rajasthan,Urban,Graduate,Accountant / CA,12,90400,1084800
+1416,Hema Bumb,26,Female,Tamil Nadu,Urban,Postgraduate,Accountant / CA,2,87100,1045200
+1417,Yadavi Tailor,36,Female,Uttar Pradesh,Urban,Secondary,Factory Worker,13,22300,267600
+1418,Faqid Prashad,33,Male,Madhya Pradesh,Urban,Graduate,Lawyer,12,129800,1557600
+1419,David Tak,35,Male,West Bengal,Urban,Postgraduate,Software Engineer,15,290000,3480000
+1420,Thomas Mittal,40,Male,Uttar Pradesh,Urban,Higher Secondary,Government Clerk,14,51800,621600
+1421,Neelima Doctor,40,Female,Odisha,Urban,Postgraduate,Doctor,14,210900,2530800
+1422,Azad Char,25,Male,Gujarat,Urban,Postgraduate,Doctor,5,214500,2574000
+1423,Vaishnavi Warrior,43,Female,Uttar Pradesh,Urban,Postgraduate,Accountant / CA,17,59300,711600
+1424,Krisha Parmer,36,Female,Bihar,Urban,Primary,Auto/Taxi Driver,12,18000,216000
+1425,Henry Loke,34,Male,Odisha,Urban,No Formal Education,Auto/Taxi Driver,10,15400,184800
+1426,Harita Ahluwalia,28,Female,Maharashtra,Urban,Postgraduate,School Teacher,5,56900,682800
+1427,Fiyaz Soman,24,Male,Delhi,Urban,Graduate,Shop Owner / Retailer,3,27500,330000
+1428,Aayush Yogi,58,Male,Rajasthan,Urban,Postgraduate,Government Officer (IAS/IPS etc.),34,150300,1803600
+1429,Vamakshi Chawla,29,Female,Kerala,Urban,Graduate,Civil Engineer,7,95800,1149600
+1430,Dalaja Shah,30,Female,Karnataka,Urban,Graduate,Nurse,10,35600,427200
+1431,Anya Om,45,Female,Delhi,Urban,Graduate,School Teacher,24,71900,862800
+1432,Tristan Hari,40,Male,Kerala,Urban,Secondary,Factory Worker,17,28300,339600
+1433,Banjeet Apte,20,Male,Maharashtra,Urban,Higher Secondary,Shop Owner / Retailer,0,38500,462000
+1434,Vidhi Sami,48,Female,Tamil Nadu,Urban,Postgraduate,Nurse,24,49200,590400
+1435,Isha Mohan,18,Female,Gujarat,Urban,Graduate,Government Clerk,0,33500,402000
+1436,Ekansh Deshpande,18,Male,Uttar Pradesh,Urban,Higher Secondary,Factory Worker,0,26500,318000
+1437,Yash Varkey,69,Male,Karnataka,Rural,Secondary,Farmer (Landowner),48,28700,344400
+1438,Faraj Srinivas,31,Male,Tamil Nadu,Urban,Postgraduate,Civil Engineer,12,74900,898800
+1439,Aradhana Bhattacharyya,32,Female,Maharashtra,Urban,Secondary,Small Business Owner,10,43800,525600
+1440,Osha Narula,33,Female,Rajasthan,Urban,Primary,Construction Worker,7,14900,178800
+1441,Agastya Peri,44,Male,Gujarat,Urban,Postgraduate,Bank Employee,18,95500,1146000
+1442,Azaan Tandon,35,Male,Telangana,Urban,Postgraduate,Civil Engineer,15,90300,1083600
+1443,Jonathan Ranganathan,46,Male,Haryana,Urban,Graduate,Shop Owner / Retailer,23,52200,626400
+1444,Zaid Bains,35,Male,Karnataka,Urban,Postgraduate,School Teacher,16,36300,435600
+1445,Ikshita Sanghvi,18,Female,Maharashtra,Urban,Postgraduate,Data Analyst,0,103500,1242000
+1446,Henry Arya,28,Male,Karnataka,Urban,Postgraduate,Nurse,4,52900,634800
+1447,Victor Bath,30,Male,West Bengal,Urban,Postgraduate,Lawyer,7,98200,1178400
+1448,Azad Varghese,34,Male,Assam,Rural,Higher Secondary,Farmer (Landowner),10,20500,246000
+1449,Meera Palla,37,Female,Uttar Pradesh,Urban,Postgraduate,Accountant / CA,18,115700,1388400
+1450,Bakhshi Mitra,24,Male,Madhya Pradesh,Rural,Primary,Farmer (Landowner),0,12400,148800
+1451,Krishna Oza,31,Female,Uttar Pradesh,Urban,Postgraduate,Government Officer (IAS/IPS etc.),11,104500,1254000
+1452,Omaja Nagy,43,Female,Uttar Pradesh,Urban,Graduate,Government Clerk,17,40000,480000
+1453,Yachana Kaul,26,Female,Maharashtra,Rural,Secondary,Farmer (Landowner),7,11600,139200
+1454,Rajata Das,30,Female,Maharashtra,Rural,Higher Secondary,Farmer (Landowner),9,27700,332400
+1455,Madhav Mani,35,Male,Bihar,Urban,Postgraduate,Civil Engineer,11,114000,1368000
+1456,Utkarsh Chad,39,Male,Odisha,Urban,Postgraduate,College Professor,14,118100,1417200
+1457,Isha Sule,43,Female,Karnataka,Urban,Doctorate,College Professor,18,157200,1886400
+1458,Turvi Date,50,Female,Tamil Nadu,Urban,Graduate,School Teacher,30,91100,1093200
+1459,Neha Pall,32,Female,Uttar Pradesh,Urban,Postgraduate,College Professor,6,107700,1292400
+1460,Max Modi,37,Male,Uttar Pradesh,Urban,Secondary,Small Business Owner,12,104400,1252800
+1461,Hardik Rajan,40,Male,Bihar,Urban,Graduate,Lawyer,18,40000,480000
+1462,Omisha Karnik,60,Female,Telangana,Rural,No Formal Education,Agriculture Laborer,39,9400,112800
+1463,Sarthak Edwin,37,Male,Uttar Pradesh,Urban,Postgraduate,Nurse,18,38500,462000
+1464,Eshana Chandra,44,Female,Karnataka,Rural,Higher Secondary,Farmer (Landowner),25,28100,337200
+1465,Lakshit Master,30,Male,Uttar Pradesh,Urban,Secondary,Factory Worker,10,29300,351600
+1466,Bakhshi Narasimhan,35,Male,Karnataka,Urban,No Formal Education,Construction Worker,11,12000,144000
+1467,Dakshesh Kari,51,Male,Madhya Pradesh,Urban,Postgraduate,Bank Employee,29,146300,1755600
+1468,Timothy Buch,50,Male,Uttar Pradesh,Rural,Primary,Agriculture Laborer,29,12600,151200
+1469,Qushi Suri,24,Female,Odisha,Urban,Graduate,Accountant / CA,4,44900,538800
+1470,Hemangini Varghese,27,Female,Rajasthan,Urban,Graduate,Shop Owner / Retailer,2,27200,326400
+1471,Triveni Pillay,27,Female,Rajasthan,Urban,Postgraduate,Doctor,8,287700,3452400
+1472,Shivansh Atwal,27,Male,Maharashtra,Urban,Postgraduate,Nurse,2,43600,523200
+1473,Rushil Dewan,38,Male,Uttar Pradesh,Urban,No Formal Education,Construction Worker,16,17900,214800
+1474,Omya Panchal,18,Female,Maharashtra,Urban,Graduate,School Teacher,0,58500,702000
+1475,Ishanvi Raj,29,Female,Gujarat,Urban,Doctorate,College Professor,4,247600,2971200
+1476,Jyoti Bhattacharyya,37,Female,Maharashtra,Urban,Secondary,Shop Owner / Retailer,13,24900,298800
+1477,Riya Mammen,38,Female,Tamil Nadu,Urban,Postgraduate,Government Officer (IAS/IPS etc.),12,291200,3494400
+1478,Caleb Uppal,53,Male,Uttar Pradesh,Urban,Postgraduate,Civil Engineer,34,123200,1478400
+1479,Reva Char,27,Female,Tamil Nadu,Urban,Postgraduate,Civil Engineer,5,83100,997200
+1480,Prisha Pingle,35,Female,West Bengal,Urban,Graduate,Data Analyst,11,118700,1424400
+1481,Fitan Anand,47,Male,Uttar Pradesh,Rural,Secondary,Farmer (Landowner),23,19900,238800
+1482,Vihaan Samra,25,Male,Uttar Pradesh,Urban,Secondary,Auto/Taxi Driver,0,21900,262800
+1483,Vaishnavi Thaman,43,Female,West Bengal,Urban,No Formal Education,Domestic Help,17,14100,169200
+1484,Alexander Sarkar,51,Male,Maharashtra,Urban,Postgraduate,Civil Engineer,32,100500,1206000
+1485,Jeevika Buch,46,Female,Maharashtra,Urban,Doctorate,College Professor,25,205800,2469600
+1486,Elijah Bahl,37,Male,Maharashtra,Urban,Graduate,Bank Employee,16,58200,698400
+1487,Gavin Bath,46,Male,Odisha,Rural,Primary,Farmer (Landowner),25,14300,171600
+1488,Nathaniel Chaudhuri,56,Male,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),32,414100,4969200
+1489,Vanya Sahota,46,Female,Karnataka,Urban,Secondary,Small Business Owner,22,127800,1533600
+1490,Hemal Mital,52,Female,Tamil Nadu,Urban,Higher Secondary,Shop Owner / Retailer,32,66700,800400
+1491,Yashawini Sastry,24,Female,Maharashtra,Urban,Postgraduate,Bank Employee,4,64200,770400
+1492,Ridhi Mangal,24,Female,Maharashtra,Urban,Graduate,Civil Engineer,1,56100,673200
+1493,Aachal Kant,25,Female,Gujarat,Urban,Graduate,Data Analyst,0,74300,891600
+1494,Omisha Mukherjee,51,Female,Bihar,Urban,No Formal Education,Domestic Help,25,18300,219600
+1495,Hemang Soman,47,Male,Madhya Pradesh,Urban,No Formal Education,Auto/Taxi Driver,24,24100,289200
+1496,Pallavi Doshi,19,Female,Uttar Pradesh,Urban,Primary,Construction Worker,0,17000,204000
+1497,Abha Radhakrishnan,35,Female,Tamil Nadu,Urban,Graduate,Government Clerk,13,61400,736800
+1498,Zashil D’Alia,44,Male,Odisha,Urban,Postgraduate,College Professor,24,236700,2840400
+1499,Jeremiah Maharaj,40,Male,Bihar,Urban,Graduate,Accountant / CA,14,124400,1492800
+1500,Kritika Batta,48,Female,Rajasthan,Urban,Postgraduate,Data Analyst,25,214900,2578800
+1501,Yashodhara Mukherjee,58,Female,Kerala,Rural,Higher Secondary,Farmer (Landowner),32,24700,296400
+1502,Om Bajwa,56,Male,Punjab,Urban,Postgraduate,Doctor,37,396500,4758000
+1503,Vamakshi Vala,51,Female,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),31,115400,1384800
+1504,Faras Kade,41,Male,Maharashtra,Urban,Higher Secondary,Factory Worker,17,26400,316800
+1505,Suhani Thakur,41,Female,Tamil Nadu,Urban,Postgraduate,Accountant / CA,16,98400,1180800
+1506,Janani Narain,30,Female,Assam,Urban,Postgraduate,Doctor,9,240900,2890800
+1507,Girik Sathe,25,Male,Punjab,Urban,Secondary,Auto/Taxi Driver,6,18600,223200
+1508,Ronith Sem,48,Male,Uttar Pradesh,Urban,Graduate,Accountant / CA,29,151000,1812000
+1509,Amara Dara,44,Female,Delhi,Urban,Higher Secondary,Small Business Owner,24,71900,862800
+1510,Aashi Mittal,32,Female,Gujarat,Urban,Postgraduate,Bank Employee,6,78600,943200
+1511,Chakrika Badal,51,Female,Tamil Nadu,Urban,Graduate,Data Analyst,32,207800,2493600
+1512,Raghav Dar,57,Male,Kerala,Urban,Postgraduate,Accountant / CA,33,161000,1932000
+1513,Kashvi Bahri,54,Female,West Bengal,Rural,Primary,Agriculture Laborer,29,14900,178800
+1514,Wishi Sahni,52,Female,Uttar Pradesh,Rural,Secondary,Farmer (Landowner),32,27400,328800
+1515,Dakshesh Bedi,52,Male,Maharashtra,Urban,Graduate,Civil Engineer,32,123300,1479600
+1516,Neha Acharya,18,Female,Madhya Pradesh,Urban,Postgraduate,Lawyer,0,92600,1111200
+1517,Bachittar Chaudry,52,Male,Odisha,Urban,Postgraduate,College Professor,29,244000,2928000
+1518,Yashasvi Koshy,28,Female,Punjab,Urban,Postgraduate,School Teacher,7,52300,627600
+1519,Eshana Natt,23,Female,Uttar Pradesh,Urban,Postgraduate,Data Analyst,2,184900,2218800
+1520,Oeshi Gour,63,Female,Telangana,Urban,Postgraduate,Accountant / CA,39,94300,1131600
+1521,Caleb Kala,50,Male,Karnataka,Urban,Secondary,Auto/Taxi Driver,31,36300,435600
+1522,Falguni Pillay,48,Female,Uttar Pradesh,Urban,Postgraduate,Lawyer,26,187900,2254800
+1523,Lopa Kade,41,Female,Punjab,Urban,Postgraduate,Accountant / CA,18,117600,1411200
+1524,Yashodhara Arya,44,Female,Maharashtra,Urban,Secondary,Factory Worker,25,22500,270000
+1525,Charan Bath,37,Male,Kerala,Rural,Higher Secondary,Farmer (Landowner),15,28600,343200
+1526,Wazir Char,34,Male,Tamil Nadu,Urban,No Formal Education,Construction Worker,12,13800,165600
+1527,Gopal Srinivas,40,Male,Tamil Nadu,Urban,Doctorate,Doctor,16,132300,1587600
+1528,Saksham Mistry,22,Male,Telangana,Urban,Postgraduate,Doctor,0,239400,2872800
+1529,Abhimanyu Tella,50,Male,Delhi,Urban,Primary,Construction Worker,28,21200,254400
+1530,Christopher Srivastava,53,Male,Karnataka,Urban,Postgraduate,Civil Engineer,32,123500,1482000
+1531,Mugdha Nagy,44,Female,Karnataka,Rural,No Formal Education,Agriculture Laborer,25,17000,204000
+1532,Lakshmi Mangat,32,Female,Gujarat,Urban,Postgraduate,Accountant / CA,12,67500,810000
+1533,Hiral Sethi,51,Female,Gujarat,Urban,Doctorate,Doctor,32,379000,4548000
+1534,Yachana Sharaf,25,Female,Bihar,Urban,Doctorate,College Professor,0,109900,1318800
+1535,Krishna Palan,35,Female,Karnataka,Urban,Postgraduate,Accountant / CA,14,74100,889200
+1536,Shivansh Oza,37,Male,Madhya Pradesh,Urban,Doctorate,Doctor,17,338300,4059600
+1537,Raghav Merchant,42,Male,Tamil Nadu,Urban,Primary,Domestic Help,23,10200,122400
+1538,Elijah Deep,33,Male,West Bengal,Urban,Postgraduate,Lawyer,8,68000,816000
+1539,Kala Vig,44,Female,Uttar Pradesh,Urban,Postgraduate,Government Officer (IAS/IPS etc.),19,356100,4273200
+1540,Adweta Taneja,26,Female,Maharashtra,Urban,Secondary,Factory Worker,0,13500,162000
+1541,Hritik Deshpande,41,Male,Gujarat,Urban,Postgraduate,School Teacher,17,71300,855600
+1542,Radha Ganesan,41,Female,West Bengal,Urban,Postgraduate,Lawyer,17,129300,1551600
+1543,Megha Sahota,34,Female,Tamil Nadu,Urban,Postgraduate,Government Officer (IAS/IPS etc.),15,199700,2396400
+1544,Osha Ramaswamy,41,Female,Karnataka,Urban,Postgraduate,Bank Employee,18,107100,1285200
+1545,Eta Sem,21,Female,Tamil Nadu,Urban,Graduate,Lawyer,0,46100,553200
+1546,Vihaan Sant,42,Male,Tamil Nadu,Urban,Postgraduate,Data Analyst,16,80900,970800
+1547,Forum Balan,42,Female,Tamil Nadu,Urban,Postgraduate,Government Officer (IAS/IPS etc.),17,119100,1429200
+1548,Oscar Aggarwal,27,Male,Rajasthan,Rural,Higher Secondary,Farmer (Landowner),5,15200,182400
+1549,Yashvi Kant,52,Female,Delhi,Urban,Postgraduate,Accountant / CA,28,107300,1287600
+1550,Jeevika Saran,50,Female,Tamil Nadu,Urban,Postgraduate,Nurse,26,74700,896400
+1551,Charvi Dash,22,Female,West Bengal,Urban,Higher Secondary,Small Business Owner,1,86400,1036800
+1552,Yochana Prabhu,30,Female,Gujarat,Urban,Primary,Construction Worker,7,15100,181200
+1553,Udyati Jhaveri,25,Female,Gujarat,Rural,Primary,Farmer (Landowner),5,18900,226800
+1554,Fitan Bassi,58,Male,Tamil Nadu,Urban,Secondary,Small Business Owner,38,42300,507600
+1555,Harita Wali,39,Female,Tamil Nadu,Urban,Postgraduate,Lawyer,18,232900,2794800
+1556,Farhan Kalita,42,Male,Tamil Nadu,Urban,No Formal Education,Construction Worker,22,13900,166800
+1557,Aarav Mittal,43,Male,Tamil Nadu,Urban,Postgraduate,School Teacher,20,53200,638400
+1558,Damini Deep,35,Female,Uttar Pradesh,Urban,Graduate,Government Clerk,16,49900,598800
+1559,Manan Chaudhary,53,Male,Uttar Pradesh,Urban,Postgraduate,Bank Employee,32,125700,1508400
+1560,Hiral Kashyap,27,Female,Kerala,Urban,Secondary,Factory Worker,4,14500,174000
+1561,Logan Gopal,19,Male,Gujarat,Urban,Secondary,Domestic Help,0,9500,114000
+1562,Imaran Sant,55,Male,Odisha,Urban,Postgraduate,College Professor,36,131600,1579200
+1563,Faqid Setty,41,Male,Maharashtra,Rural,No Formal Education,Agriculture Laborer,17,10900,130800
+1564,Ishaan Dugal,50,Male,Maharashtra,Rural,Primary,Agriculture Laborer,24,14500,174000
+1565,Dev Loyal,35,Male,Uttar Pradesh,Urban,Secondary,Construction Worker,15,14800,177600
+1566,Varsha Golla,47,Female,Maharashtra,Urban,Graduate,Lawyer,22,195700,2348400
+1567,Theodore Tak,20,Male,Gujarat,Urban,Graduate,Lawyer,0,152600,1831200
+1568,Vritti Basak,34,Female,Haryana,Urban,Postgraduate,College Professor,11,189000,2268000
+1569,Yuvraj Guha,30,Male,Maharashtra,Urban,Graduate,Data Analyst,7,78200,938400
+1570,Bhavani Koshy,46,Female,Odisha,Urban,Higher Secondary,Government Clerk,24,50800,609600
+1571,Maanas Wali,39,Male,Karnataka,Urban,Graduate,Small Business Owner,17,87300,1047600
+1572,Nachiket Divan,44,Male,Bihar,Urban,Graduate,Bank Employee,18,75500,906000
+1573,Ayush Upadhyay,40,Male,Tamil Nadu,Urban,Secondary,Auto/Taxi Driver,17,27300,327600
+1574,Pushti Shanker,42,Female,Telangana,Urban,Graduate,Civil Engineer,19,87900,1054800
+1575,Oeshi Behl,37,Female,West Bengal,Urban,Higher Secondary,Small Business Owner,17,117300,1407600
+1576,Shivani Yadav,66,Female,Karnataka,Urban,Graduate,Accountant / CA,44,195000,2340000
+1577,Nitesh Nagarajan,38,Male,Uttar Pradesh,Urban,Graduate,Lawyer,19,114700,1376400
+1578,Sneha Swaminathan,39,Female,Rajasthan,Urban,Primary,Auto/Taxi Driver,19,14300,171600
+1579,Ekaraj Khatri,47,Male,Uttar Pradesh,Urban,Primary,Construction Worker,28,25100,301200
+1580,Bhavna Oza,27,Female,Karnataka,Rural,Secondary,Agriculture Laborer,1,7100,85200
+1581,Isaac Dar,18,Male,Haryana,Urban,Postgraduate,Bank Employee,0,47600,571200
+1582,Eta Mahajan,43,Female,Bihar,Rural,Primary,Agriculture Laborer,24,14800,177600
+1583,Robert Kade,26,Male,Karnataka,Urban,No Formal Education,Domestic Help,3,9100,109200
+1584,Ayaan Magar,29,Male,Odisha,Urban,No Formal Education,Domestic Help,4,6400,76800
+1585,Rajeshri Chopra,35,Female,Tamil Nadu,Urban,Postgraduate,Nurse,13,31900,382800
+1586,Xalak Bali,51,Female,Maharashtra,Urban,Graduate,Civil Engineer,29,64200,770400
+1587,Ekbal Nagy,41,Male,Uttar Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),16,166000,1992000
+1588,Michael Saini,45,Male,Bihar,Urban,Higher Secondary,Factory Worker,22,29000,348000
+1589,Mitesh Bawa,52,Male,Gujarat,Urban,Postgraduate,Data Analyst,27,205100,2461200
+1590,Bhavika Kapoor,37,Female,Gujarat,Urban,No Formal Education,Construction Worker,17,11800,141600
+1591,Tamanna Palla,26,Female,Odisha,Urban,Doctorate,College Professor,6,131000,1572000
+1592,Daksh Panchal,66,Male,Delhi,Rural,Secondary,Farmer (Landowner),44,23400,280800
+1593,Bishakha Mody,29,Female,West Bengal,Urban,Postgraduate,Bank Employee,4,97600,1171200
+1594,Idika Pingle,43,Female,Delhi,Urban,Postgraduate,Software Engineer,23,138800,1665600
+1595,Kiaan Sarin,35,Male,Kerala,Urban,Doctorate,College Professor,13,227400,2728800
+1596,Edhitha Solanki,37,Female,Rajasthan,Urban,Secondary,Factory Worker,14,29100,349200
+1597,Wakeeta Gulati,39,Female,Kerala,Rural,No Formal Education,Agriculture Laborer,19,14800,177600
+1598,Gaurang Ghose,33,Male,Odisha,Urban,No Formal Education,Domestic Help,13,9400,112800
+1599,Shivansh Dhillon,19,Male,Rajasthan,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,257900,3094800
+1600,Sai Amble,38,Female,Odisha,Rural,Higher Secondary,Farmer (Landowner),19,33300,399600
+1601,Faraj Grewal,33,Male,Karnataka,Urban,Postgraduate,Government Officer (IAS/IPS etc.),14,255400,3064800
+1602,Vedhika Bhatt,47,Female,Gujarat,Urban,Graduate,Data Analyst,25,190000,2280000
+1603,Devika Nadkarni,52,Female,Tamil Nadu,Urban,Graduate,Accountant / CA,27,143100,1717200
+1604,Bhanumati Muni,25,Female,Madhya Pradesh,Urban,Secondary,Factory Worker,3,19900,238800
+1605,Ojas Dar,32,Male,Gujarat,Urban,Secondary,Small Business Owner,13,58600,703200
+1606,Abeer Sachdev,47,Male,Bihar,Urban,Postgraduate,Accountant / CA,28,203300,2439600
+1607,Abha Yogi,54,Female,Haryana,Urban,Graduate,Government Clerk,29,75800,909600
+1608,Peter Ganesan,50,Male,Maharashtra,Urban,Postgraduate,Bank Employee,24,135000,1620000
+1609,Lekha Dhingra,31,Female,Karnataka,Urban,Graduate,Lawyer,12,221600,2659200
+1610,Pratyush Balakrishnan,39,Male,Gujarat,Urban,Postgraduate,Software Engineer,18,273600,3283200
+1611,Balveer Solanki,33,Male,Maharashtra,Rural,Primary,Farmer (Landowner),12,22400,268800
+1612,Chakradev Morar,20,Male,Maharashtra,Urban,Graduate,Data Analyst,0,100400,1204800
+1613,Faqid Sura,29,Male,Telangana,Urban,No Formal Education,Domestic Help,6,6900,82800
+1614,Qarin Dubey,30,Male,Karnataka,Urban,Postgraduate,Bank Employee,6,88400,1060800
+1615,Henry Pillay,18,Male,Maharashtra,Urban,Secondary,Domestic Help,0,13000,156000
+1616,Yauvani Chatterjee,50,Female,Maharashtra,Urban,Graduate,Bank Employee,26,116000,1392000
+1617,Yash Batra,36,Male,Maharashtra,Urban,Graduate,Data Analyst,14,159000,1908000
+1618,Ryan Som,41,Male,Maharashtra,Urban,Graduate,Shop Owner / Retailer,18,37400,448800
+1619,Bakhshi Palan,48,Male,Uttar Pradesh,Urban,Doctorate,Doctor,28,165300,1983600
+1620,Samar Patil,37,Male,Telangana,Urban,Postgraduate,Government Officer (IAS/IPS etc.),18,277300,3327600
+1621,Advika Bumb,18,Female,West Bengal,Urban,Postgraduate,Doctor,0,188500,2262000
+1622,Yashvi Ram,44,Female,Bihar,Urban,Graduate,School Teacher,22,47800,573600
+1623,Parth Balan,32,Male,Kerala,Rural,Higher Secondary,Farmer (Landowner),10,29200,350400
+1624,Dipta Memon,26,Female,West Bengal,Urban,Postgraduate,Data Analyst,7,83300,999600
+1625,Nathaniel Edwin,33,Male,Tamil Nadu,Urban,Secondary,Domestic Help,9,12600,151200
+1626,Aarini Ben,33,Female,Bihar,Urban,Graduate,School Teacher,10,51000,612000
+1627,Yamini Chacko,21,Female,Kerala,Urban,Graduate,Nurse,0,37900,454800
+1628,Mekhala Suri,33,Female,Karnataka,Urban,Graduate,Small Business Owner,9,51200,614400
+1629,Pallavi Ahuja,39,Female,Tamil Nadu,Rural,Primary,Farmer (Landowner),19,32500,390000
+1630,Kavya Som,36,Female,Bihar,Urban,Graduate,Nurse,12,35100,421200
+1631,Bina Bath,42,Female,Karnataka,Urban,Doctorate,College Professor,22,295400,3544800
+1632,Vritti Nagar,39,Female,Maharashtra,Urban,Postgraduate,Software Engineer,15,117800,1413600
+1633,Advika Lal,37,Female,Punjab,Rural,Higher Secondary,Farmer (Landowner),12,24100,289200
+1634,Pranit Lanka,55,Male,Rajasthan,Urban,Postgraduate,Software Engineer,29,372900,4474800
+1635,Viraj Goyal,32,Male,Karnataka,Urban,Graduate,Government Clerk,7,53500,642000
+1636,Daksh Tandon,18,Male,Delhi,Urban,Higher Secondary,Factory Worker,0,15100,181200
+1637,David Shanker,33,Male,Maharashtra,Urban,Postgraduate,Software Engineer,9,275500,3306000
+1638,Manthan Patil,33,Male,Tamil Nadu,Urban,Secondary,Auto/Taxi Driver,9,21800,261600
+1639,Chakrika Goda,40,Female,Tamil Nadu,Urban,Doctorate,Doctor,19,387900,4654800
+1640,Ekaraj Dyal,31,Male,Maharashtra,Urban,No Formal Education,Auto/Taxi Driver,9,16900,202800
+1641,Kritika Kadakia,48,Female,Punjab,Urban,Graduate,Bank Employee,24,86700,1040400
+1642,Tara Ghosh,32,Female,Kerala,Urban,Doctorate,College Professor,7,260100,3121200
+1643,Mahika Menon,30,Female,Punjab,Rural,Secondary,Agriculture Laborer,8,17500,210000
+1644,Vamakshi Bhandari,40,Female,Delhi,Urban,Postgraduate,Bank Employee,21,122500,1470000
+1645,Ethan Bassi,46,Male,West Bengal,Rural,Secondary,Agriculture Laborer,26,15700,188400
+1646,Megha Palla,35,Female,Telangana,Rural,Secondary,Farmer (Landowner),12,17900,214800
+1647,Zaitra Swaminathan,43,Female,Delhi,Urban,Graduate,Bank Employee,17,82000,984000
+1648,Praneel Kaur,40,Male,Punjab,Rural,Secondary,Agriculture Laborer,18,10900,130800
+1649,Wazir Balasubramanian,48,Male,Haryana,Urban,Graduate,Accountant / CA,27,134300,1611600
+1650,Aryan Aurora,35,Male,Tamil Nadu,Rural,Secondary,Agriculture Laborer,11,10600,127200
+1651,Fariq Sarna,43,Male,Maharashtra,Urban,Secondary,Small Business Owner,22,68900,826800
+1652,Theodore Parsa,48,Male,Assam,Urban,Doctorate,Doctor,24,310500,3726000
+1653,Bhavya Narain,54,Female,Bihar,Urban,No Formal Education,Auto/Taxi Driver,29,22500,270000
+1654,Jacob Bhattacharyya,51,Male,Haryana,Urban,Secondary,Factory Worker,30,31000,372000
+1655,Aashi Ray,32,Female,Uttar Pradesh,Urban,Doctorate,Doctor,8,189300,2271600
+1656,Nidhi Khatri,33,Female,Maharashtra,Urban,Postgraduate,Doctor,8,368600,4423200
+1657,Noah Raghavan,46,Male,Rajasthan,Urban,Secondary,Auto/Taxi Driver,27,31800,381600
+1658,Omaja Borde,32,Female,Maharashtra,Urban,Higher Secondary,Factory Worker,12,12300,147600
+1659,Ishanvi Nazareth,37,Female,West Bengal,Urban,Postgraduate,School Teacher,11,40500,486000
+1660,Christopher Hayer,33,Male,Uttar Pradesh,Urban,Postgraduate,Software Engineer,10,260500,3126000
+1661,Faras Ratti,34,Other,Maharashtra,Urban,Primary,Domestic Help,15,16900,202800
+1662,Yamini Balasubramanian,51,Female,Gujarat,Rural,Primary,Agriculture Laborer,30,17200,206400
+1663,Kala Atwal,37,Other,Rajasthan,Urban,Postgraduate,Accountant / CA,13,55600,667200
+1664,Umang Modi,30,Male,Karnataka,Rural,Primary,Farmer (Landowner),11,21200,254400
+1665,Dayamai Dhillon,41,Female,Maharashtra,Urban,Higher Secondary,Factory Worker,20,29500,354000
+1666,Gagan Bhatti,57,Male,West Bengal,Urban,Graduate,Accountant / CA,34,145700,1748400
+1667,Jagat Bedi,54,Male,Tamil Nadu,Urban,Graduate,Government Officer (IAS/IPS etc.),29,221500,2658000
+1668,Theodore Nadkarni,37,Male,Madhya Pradesh,Urban,Graduate,Government Officer (IAS/IPS etc.),12,175600,2107200
+1669,Girish Sachdeva,24,Male,West Bengal,Urban,Postgraduate,Data Analyst,0,95900,1150800
+1670,Anita Bains,47,Female,Karnataka,Urban,Graduate,Shop Owner / Retailer,25,53300,639600
+1671,Suhani Chander,37,Female,Uttar Pradesh,Urban,Graduate,School Teacher,18,35700,428400
+1672,Lekha Chana,44,Female,Telangana,Rural,Secondary,Agriculture Laborer,19,9900,118800
+1673,Yashica Gupta,44,Female,Tamil Nadu,Rural,Higher Secondary,Farmer (Landowner),20,15900,190800
+1674,Charles Lalla,22,Male,Telangana,Urban,Doctorate,College Professor,0,114700,1376400
+1675,Devika Karpe,44,Female,Delhi,Urban,Postgraduate,Bank Employee,24,90900,1090800
+1676,Leela Master,33,Female,West Bengal,Urban,Graduate,Software Engineer,10,144800,1737600
+1677,Devansh Vora,39,Male,Bihar,Urban,Graduate,Nurse,17,52000,624000
+1678,Aarush Tak,39,Male,Haryana,Urban,Graduate,Small Business Owner,18,98000,1176000
+1679,Ishanvi Talwar,34,Female,West Bengal,Urban,Higher Secondary,Factory Worker,15,24400,292800
+1680,Radhika Kata,42,Female,Odisha,Urban,Graduate,Government Officer (IAS/IPS etc.),17,297300,3567600
+1681,Rachana Magar,32,Female,Uttar Pradesh,Urban,Postgraduate,Civil Engineer,13,137800,1653600
+1682,Wyatt Karnik,18,Male,Assam,Urban,Secondary,Auto/Taxi Driver,0,15000,180000
+1683,Faqid Chanda,47,Male,Assam,Urban,Postgraduate,College Professor,23,101500,1218000
+1684,Libni Puri,43,Female,Gujarat,Urban,Postgraduate,Doctor,17,357400,4288800
+1685,Darpan Dayal,43,Male,Gujarat,Urban,Postgraduate,Software Engineer,24,122600,1471200
+1686,Caleb Prabhakar,36,Male,Karnataka,Urban,Graduate,Accountant / CA,13,68300,819600
+1687,Odika Dhawan,31,Female,Rajasthan,Urban,Postgraduate,Doctor,11,129000,1548000
+1688,Henry Hayer,38,Other,Telangana,Urban,Doctorate,College Professor,13,255700,3068400
+1689,Yochana Choudhary,67,Female,Gujarat,Urban,Primary,Domestic Help,41,13900,166800
+1690,Faris Som,18,Male,Punjab,Urban,Primary,Construction Worker,0,10100,121200
+1691,Bhavya Chopra,32,Female,Rajasthan,Urban,Postgraduate,College Professor,8,159200,1910400
+1692,Harshil Goda,21,Male,West Bengal,Urban,Postgraduate,Accountant / CA,1,103400,1240800
+1693,Samaksh Morar,28,Male,Maharashtra,Urban,Higher Secondary,Shop Owner / Retailer,4,34700,416400
+1694,Waida Joshi,31,Female,Haryana,Urban,Secondary,Small Business Owner,9,97200,1166400
+1695,Jairaj More,59,Male,Karnataka,Urban,Graduate,Shop Owner / Retailer,34,48700,584400
+1696,Xiti Handa,33,Female,Uttar Pradesh,Urban,Higher Secondary,Government Clerk,12,53700,644400
+1697,Quincy Chandra,47,Male,West Bengal,Urban,Graduate,Shop Owner / Retailer,25,57800,693600
+1698,Yash Rout,23,Male,Telangana,Urban,Graduate,Bank Employee,4,59400,712800
+1699,Bimala Oza,23,Female,Bihar,Urban,Secondary,Small Business Owner,3,69600,835200
+1700,Arin Tank,56,Male,Tamil Nadu,Urban,Postgraduate,Doctor,34,454600,5455200
+1701,Jonathan Dasgupta,49,Male,Uttar Pradesh,Urban,Secondary,Auto/Taxi Driver,27,37500,450000
+1702,Vasana Nori,49,Female,Punjab,Urban,Primary,Auto/Taxi Driver,28,17900,214800
+1703,Azad Gulati,45,Male,Punjab,Urban,Secondary,Shop Owner / Retailer,25,27600,331200
+1704,Tejas Dhawan,45,Male,Karnataka,Urban,Graduate,Nurse,23,42800,513600
+1705,Nitesh Wason,27,Male,Maharashtra,Urban,Higher Secondary,Small Business Owner,3,22700,272400
+1706,Dayita Doctor,55,Female,Telangana,Urban,Graduate,School Teacher,30,63300,759600
+1707,Kabir Ravel,40,Male,Delhi,Urban,Higher Secondary,Factory Worker,21,25600,307200
+1708,Udant Varma,18,Male,West Bengal,Urban,Primary,Domestic Help,0,9800,117600
+1709,Dalaja Dave,48,Female,Madhya Pradesh,Urban,Graduate,Software Engineer,29,108400,1300800
+1710,Mohini Kohli,48,Female,Gujarat,Rural,No Formal Education,Agriculture Laborer,28,19100,229200
+1711,Ishita Sura,48,Female,Kerala,Urban,Primary,Domestic Help,25,13700,164400
+1712,Tanmayi Halder,46,Female,Kerala,Urban,Postgraduate,School Teacher,22,70400,844800
+1713,Advaith Bose,32,Male,Uttar Pradesh,Urban,Higher Secondary,Government Clerk,6,39800,477600
+1714,Sathvik Bhagat,47,Male,Delhi,Urban,Postgraduate,School Teacher,28,42400,508800
+1715,Elijah Dixit,18,Male,Kerala,Urban,Graduate,Government Clerk,0,43900,526800
+1716,Chasmum Barman,18,Female,Punjab,Urban,Postgraduate,Bank Employee,0,49300,591600
+1717,Jagdish Naik,52,Male,Madhya Pradesh,Rural,Higher Secondary,Farmer (Landowner),31,22900,274800
+1718,Chandresh Roy,32,Male,Madhya Pradesh,Urban,Secondary,Factory Worker,6,24800,297600
+1719,Ati Singh,25,Female,Tamil Nadu,Urban,Primary,Auto/Taxi Driver,2,22800,273600
+1720,Dev Gokhale,59,Male,Delhi,Urban,Doctorate,Doctor,40,635800,7629600
+1721,Jack Buch,37,Male,Punjab,Urban,Postgraduate,Bank Employee,12,93900,1126800
+1722,Ekalinga Ghosh,36,Male,Rajasthan,Urban,Secondary,Factory Worker,15,28500,342000
+1723,Yasti Chawla,27,Female,Punjab,Urban,Postgraduate,Government Officer (IAS/IPS etc.),7,109100,1309200
+1724,Udant Oza,42,Male,Maharashtra,Urban,Graduate,Nurse,22,69400,832800
+1725,Irya Peri,43,Female,Karnataka,Urban,Postgraduate,Software Engineer,19,232400,2788800
+1726,Sudiksha Kade,38,Female,Gujarat,Urban,Postgraduate,Accountant / CA,16,168300,2019600
+1727,Shravya Apte,47,Female,West Bengal,Urban,Graduate,Government Officer (IAS/IPS etc.),26,181500,2178000
+1728,Devansh Sankar,40,Male,Tamil Nadu,Urban,Graduate,Accountant / CA,17,127500,1530000
+1729,Eta Sachdev,48,Female,Telangana,Urban,Postgraduate,School Teacher,29,69400,832800
+1730,Yauvani Gade,26,Female,Tamil Nadu,Urban,Graduate,Small Business Owner,3,48900,586800
+1731,Aradhana Sahota,27,Female,Gujarat,Urban,No Formal Education,Construction Worker,6,11800,141600
+1732,Liam Batra,18,Male,Haryana,Urban,Graduate,Accountant / CA,0,26500,318000
+1733,Gauri Virk,37,Female,Telangana,Urban,Primary,Auto/Taxi Driver,14,20100,241200
+1734,Victor Banik,35,Male,Kerala,Urban,Postgraduate,Doctor,11,372200,4466400
+1735,Anirudh Narang,59,Male,Telangana,Urban,Higher Secondary,Shop Owner / Retailer,40,26700,320400
+1736,Chakradhar Subramaniam,48,Male,West Bengal,Urban,Graduate,School Teacher,23,39300,471600
+1737,Nilima Deshmukh,40,Other,Uttar Pradesh,Urban,Graduate,Civil Engineer,17,68500,822000
+1738,Anjali Gulati,23,Female,Uttar Pradesh,Urban,Secondary,Small Business Owner,3,32000,384000
+1739,Harish Venkataraman,27,Male,Uttar Pradesh,Urban,Postgraduate,Doctor,8,179400,2152800
+1740,Girik Apte,45,Male,Uttar Pradesh,Urban,Graduate,Bank Employee,25,115400,1384800
+1741,Samar Raghavan,45,Male,West Bengal,Urban,Postgraduate,Data Analyst,24,108600,1303200
+1742,Kamala Setty,49,Female,Karnataka,Urban,Secondary,Factory Worker,29,29600,355200
+1743,Laksh Garg,20,Male,Odisha,Urban,Secondary,Auto/Taxi Driver,1,22100,265200
+1744,Aadhya Mohan,56,Female,Bihar,Urban,Graduate,Civil Engineer,30,110500,1326000
+1745,Eiravati Barman,69,Female,Rajasthan,Rural,Secondary,Farmer (Landowner),50,35800,429600
+1746,Karan Lad,40,Male,Maharashtra,Urban,Graduate,Bank Employee,20,107300,1287600
+1747,Tripti Khanna,18,Female,West Bengal,Urban,Doctorate,College Professor,0,244400,2932800
+1748,Ekansh Parmer,18,Male,Uttar Pradesh,Urban,Graduate,Civil Engineer,0,85300,1023600
+1749,Yamini Nagy,41,Female,Bihar,Urban,Postgraduate,School Teacher,18,72700,872400
+1750,Gautami Sandhu,18,Female,Maharashtra,Urban,Graduate,Accountant / CA,0,84400,1012800
+1751,Gagan Bali,43,Male,Rajasthan,Urban,Graduate,Civil Engineer,24,106000,1272000
+1752,Shivansh Dhawan,52,Male,Bihar,Urban,Postgraduate,College Professor,33,176800,2121600
+1753,Girik Saraf,54,Male,Gujarat,Urban,Higher Secondary,Factory Worker,28,28500,342000
+1754,Pavani Pal,27,Female,Uttar Pradesh,Urban,Doctorate,Doctor,3,270000,3240000
+1755,Tanay Gupta,31,Male,Maharashtra,Urban,Postgraduate,Government Officer (IAS/IPS etc.),11,151400,1816800
+1756,Sneha Sankar,32,Female,Rajasthan,Urban,Graduate,Accountant / CA,6,38000,456000
+1757,Samesh Maharaj,54,Male,Rajasthan,Urban,Secondary,Domestic Help,28,20700,248400
+1758,Ansh Shukla,38,Male,Haryana,Urban,Postgraduate,Accountant / CA,18,157000,1884000
+1759,Jagdish Bains,37,Male,Haryana,Urban,Graduate,Civil Engineer,11,73200,878400
+1760,Yutika Prabhakar,39,Female,Karnataka,Urban,Graduate,Nurse,20,33700,404400
+1761,Patrick Bhasin,36,Male,Telangana,Urban,Graduate,Lawyer,12,151600,1819200
+1762,Siddharth Gopal,44,Male,Maharashtra,Urban,Graduate,Nurse,23,59900,718800
+1763,Daksha Chandran,18,Female,Gujarat,Urban,Postgraduate,Bank Employee,0,76900,922800
+1764,Yug Luthra,22,Male,Delhi,Rural,Higher Secondary,Farmer (Landowner),0,21300,255600
+1765,Maanav Morar,35,Male,Karnataka,Urban,Higher Secondary,Government Clerk,11,37700,452400
+1766,Ladli Pant,62,Female,Tamil Nadu,Urban,Secondary,Small Business Owner,43,65400,784800
+1767,Raghav Randhawa,42,Male,Telangana,Urban,Graduate,School Teacher,18,56700,680400
+1768,Ojas Sankar,39,Male,Maharashtra,Urban,No Formal Education,Domestic Help,13,10600,127200
+1769,Manya Dutt,34,Female,Assam,Urban,Postgraduate,College Professor,14,99300,1191600
+1770,George Nagarajan,39,Male,Gujarat,Urban,Postgraduate,Government Officer (IAS/IPS etc.),14,190200,2282400
+1771,Urishilla Thaker,39,Female,Telangana,Urban,Postgraduate,School Teacher,19,54600,655200
+1772,Vansha Gupta,37,Female,Delhi,Urban,Graduate,Civil Engineer,12,112800,1353600
+1773,Bahadurjit Pillay,28,Male,Karnataka,Urban,Postgraduate,Doctor,5,358800,4305600
+1774,Mohammed Sachdev,42,Male,Assam,Urban,No Formal Education,Construction Worker,19,15100,181200
+1775,Laksh Swaminathan,44,Male,Gujarat,Rural,Secondary,Agriculture Laborer,23,21000,252000
+1776,Jagdish Ganesh,39,Male,Tamil Nadu,Urban,Postgraduate,Lawyer,17,152300,1827600
+1777,Ijaya Tak,44,Female,Haryana,Urban,Graduate,Government Clerk,20,38600,463200
+1778,Om Pandey,26,Male,Uttar Pradesh,Urban,Doctorate,College Professor,6,257900,3094800
+1779,Tanvi Deol,33,Female,Maharashtra,Urban,Graduate,Shop Owner / Retailer,7,63700,764400
+1780,Henry Mangat,28,Male,Kerala,Urban,Graduate,Lawyer,9,77100,925200
+1781,Chandran Mannan,23,Male,Uttar Pradesh,Urban,Higher Secondary,Factory Worker,3,13800,165600
+1782,Harinakshi Kohli,66,Female,Maharashtra,Urban,Postgraduate,Doctor,41,540400,6484800
+1783,Janani Sachar,39,Female,Telangana,Urban,Postgraduate,Doctor,17,377600,4531200
+1784,Tripti Oak,46,Female,Tamil Nadu,Urban,Postgraduate,Doctor,23,175300,2103600
+1785,Anusha Rajagopalan,49,Female,Haryana,Urban,Secondary,Shop Owner / Retailer,28,27800,333600
+1786,Januja Chauhan,30,Female,Gujarat,Urban,Postgraduate,Lawyer,10,141100,1693200
+1787,Samaksh Kara,25,Male,West Bengal,Urban,Secondary,Factory Worker,0,16800,201600
+1788,Chatresh Ghosh,40,Male,Telangana,Urban,Graduate,Civil Engineer,17,95200,1142400
+1789,Tara Thakur,32,Female,Maharashtra,Rural,Higher Secondary,Farmer (Landowner),9,14800,177600
+1790,Yatan Sanghvi,25,Male,Madhya Pradesh,Urban,Postgraduate,Nurse,6,39700,476400
+1791,Vincent Ganguly,57,Male,Delhi,Urban,Secondary,Factory Worker,32,20000,240000
+1792,Hitesh Dyal,27,Male,Telangana,Urban,Graduate,Government Officer (IAS/IPS etc.),4,257200,3086400
+1793,Darika Pingle,50,Female,Karnataka,Urban,Postgraduate,Lawyer,24,127000,1524000
+1794,Samar Arora,18,Other,Tamil Nadu,Urban,Doctorate,College Professor,0,123300,1479600
+1795,Advaith Bhat,34,Male,Uttar Pradesh,Urban,Postgraduate,School Teacher,10,39500,474000
+1796,Nathan Jain,31,Male,Telangana,Urban,Graduate,Software Engineer,6,209100,2509200
+1797,Hitesh Sawhney,35,Male,Uttar Pradesh,Urban,Secondary,Construction Worker,11,18100,217200
+1798,Rajata Mann,29,Female,Punjab,Urban,Postgraduate,Doctor,4,240800,2889600
+1799,Vyanjana Dyal,45,Female,Maharashtra,Urban,Graduate,Accountant / CA,19,70700,848400
+1800,Vansha Pal,25,Female,Maharashtra,Urban,Graduate,Nurse,6,51100,613200
+1801,Raghav Chahal,27,Male,West Bengal,Urban,Higher Secondary,Factory Worker,1,25700,308400
+1802,Neelima Bajwa,56,Female,Haryana,Urban,Postgraduate,Software Engineer,33,153100,1837200
+1803,Ekavir Bhandari,51,Male,Delhi,Urban,Primary,Auto/Taxi Driver,25,24800,297600
+1804,Meghana Bora,39,Female,Karnataka,Urban,Primary,Domestic Help,15,14300,171600
+1805,Eiravati Atwal,46,Female,West Bengal,Urban,Postgraduate,Doctor,22,274600,3295200
+1806,Vaishnavi Mander,35,Female,Madhya Pradesh,Urban,Postgraduate,Nurse,14,50800,609600
+1807,Unni Pau,51,Female,Tamil Nadu,Urban,Primary,Auto/Taxi Driver,32,18000,216000
+1808,Shivansh Saran,55,Male,Haryana,Urban,Secondary,Small Business Owner,35,36100,433200
+1809,Prisha Nigam,24,Female,Rajasthan,Urban,Postgraduate,College Professor,0,125900,1510800
+1810,Zashil Virk,22,Male,Rajasthan,Urban,Postgraduate,Lawyer,0,150900,1810800
+1811,David Goyal,52,Male,Maharashtra,Urban,Postgraduate,College Professor,33,157300,1887600
+1812,Nimrat Parmer,31,Female,Odisha,Urban,Postgraduate,Government Officer (IAS/IPS etc.),6,129500,1554000
+1813,Banjeet Kadakia,32,Male,Karnataka,Urban,Higher Secondary,Small Business Owner,8,92700,1112400
+1814,Quincy Gandhi,28,Male,Gujarat,Urban,Graduate,Data Analyst,5,70200,842400
+1815,Champak Nath,24,Male,Maharashtra,Urban,Graduate,Accountant / CA,4,107500,1290000
+1816,Gautami Banerjee,32,Female,Telangana,Urban,Graduate,Government Officer (IAS/IPS etc.),11,138800,1665600
+1817,Ladli Kade,28,Female,Madhya Pradesh,Urban,No Formal Education,Auto/Taxi Driver,8,14500,174000
+1818,Warda Goswami,26,Female,Tamil Nadu,Urban,Graduate,Bank Employee,3,80000,960000
+1819,Peter Mital,27,Male,Haryana,Urban,Doctorate,Doctor,5,223000,2676000
+1820,Rehaan Shanker,32,Male,Karnataka,Urban,Graduate,Nurse,8,41500,498000
+1821,Om Narasimhan,31,Male,Punjab,Urban,Higher Secondary,Government Clerk,6,36800,441600
+1822,Adweta Saraf,32,Female,Rajasthan,Urban,Higher Secondary,Government Clerk,13,48800,585600
+1823,Damini Hans,40,Female,Gujarat,Rural,Secondary,Agriculture Laborer,16,11300,135600
+1824,Anvi Raval,53,Female,Gujarat,Rural,Primary,Farmer (Landowner),28,20800,249600
+1825,Azad Ratti,41,Male,Karnataka,Rural,No Formal Education,Agriculture Laborer,19,8700,104400
+1826,Aishani Dayal,29,Female,Telangana,Urban,Graduate,Lawyer,4,189100,2269200
+1827,Chaitanya Atwal,26,Male,Delhi,Urban,Primary,Auto/Taxi Driver,7,17400,208800
+1828,Frederick Sarin,35,Male,Tamil Nadu,Urban,Postgraduate,Nurse,9,45600,547200
+1829,Chaaya Ram,45,Female,Kerala,Urban,Postgraduate,Nurse,21,42200,506400
+1830,Ayush Sen,54,Male,Rajasthan,Urban,Doctorate,College Professor,30,181200,2174400
+1831,Gaurang Din,32,Male,Uttar Pradesh,Urban,Graduate,School Teacher,6,34300,411600
+1832,Rehaan Bhagat,30,Male,Uttar Pradesh,Urban,Graduate,Bank Employee,4,63000,756000
+1833,Keya Bhakta,35,Other,Tamil Nadu,Urban,Graduate,Bank Employee,15,54200,650400
+1834,Caleb Chopra,34,Male,Delhi,Urban,Higher Secondary,Factory Worker,15,17800,213600
+1835,Yadavi Mahal,35,Female,Gujarat,Rural,Secondary,Agriculture Laborer,14,10900,130800
+1836,Ekta Bhatnagar,44,Female,Uttar Pradesh,Urban,Graduate,Nurse,24,32400,388800
+1837,Rishi Mahajan,58,Male,Tamil Nadu,Urban,Postgraduate,Civil Engineer,36,152000,1824000
+1838,Praneel Rege,20,Male,West Bengal,Urban,Higher Secondary,Small Business Owner,0,41200,494400
+1839,Ekalinga D’Alia,47,Male,Telangana,Urban,Graduate,Data Analyst,28,152600,1831200
+1840,Rushil Singh,38,Male,Uttar Pradesh,Rural,Secondary,Farmer (Landowner),17,18500,222000
+1841,Umang Shere,28,Male,Haryana,Rural,No Formal Education,Agriculture Laborer,5,9000,108000
+1842,Darpan Narain,19,Male,Haryana,Urban,Secondary,Factory Worker,0,13100,157200
+1843,Lavanya Ratti,44,Female,Delhi,Urban,No Formal Education,Construction Worker,20,17900,214800
+1844,Balvan Chadha,34,Male,West Bengal,Urban,Graduate,Data Analyst,11,177000,2124000
+1845,Laksh Lala,21,Male,Uttar Pradesh,Urban,Postgraduate,Bank Employee,0,69000,828000
+1846,Gabriel Bath,18,Male,Maharashtra,Urban,Postgraduate,Lawyer,0,94900,1138800
+1847,Keya Guha,33,Female,Haryana,Urban,No Formal Education,Domestic Help,13,13100,157200
+1848,Yadavi Panchal,27,Female,Maharashtra,Urban,Higher Secondary,Factory Worker,7,20700,248400
+1849,Neelima Bajaj,52,Female,Telangana,Rural,Primary,Farmer (Landowner),31,37600,451200
+1850,Urvi Suresh,46,Female,Gujarat,Urban,Graduate,Lawyer,22,190000,2280000
+1851,Karan Mukherjee,30,Male,Uttar Pradesh,Urban,Graduate,Bank Employee,7,59900,718800
+1852,Janani Jayaraman,44,Female,Uttar Pradesh,Urban,Higher Secondary,Government Clerk,20,59400,712800
+1853,Aryan Sarna,43,Male,Rajasthan,Urban,Graduate,Civil Engineer,19,85400,1024800
+1854,Mahika Bhakta,38,Female,Uttar Pradesh,Urban,Graduate,Lawyer,19,216600,2599200
+1855,Chakrika Panchal,31,Female,Uttar Pradesh,Urban,Postgraduate,Bank Employee,7,76600,919200
+1856,Arin Dayal,31,Male,Punjab,Urban,Graduate,Software Engineer,8,210200,2522400
+1857,Jacob Sankaran,18,Male,Gujarat,Urban,Graduate,Nurse,0,44300,531600
+1858,Aayush Vyas,24,Male,Karnataka,Urban,Higher Secondary,Small Business Owner,0,20200,242400
+1859,Udarsh Arora,57,Male,Uttar Pradesh,Urban,No Formal Education,Domestic Help,36,13700,164400
+1860,Bhanumati Arora,46,Female,Maharashtra,Urban,Graduate,Civil Engineer,25,123700,1484400
+1861,Sneha Uppal,28,Female,Bihar,Rural,Higher Secondary,Farmer (Landowner),3,24200,290400
+1862,Hamsini Kale,60,Female,Rajasthan,Urban,Higher Secondary,Factory Worker,37,34700,416400
+1863,Qasim Sen,27,Male,Delhi,Urban,Primary,Auto/Taxi Driver,1,14800,177600
+1864,Shravya Doctor,54,Female,Haryana,Rural,Primary,Farmer (Landowner),28,28900,346800
+1865,Tamanna Bir,27,Female,Punjab,Urban,Higher Secondary,Government Clerk,5,39100,469200
+1866,Dhruv Morar,34,Male,Delhi,Urban,Postgraduate,Doctor,15,306100,3673200
+1867,Jalsa Brahmbhatt,46,Other,Maharashtra,Urban,Doctorate,College Professor,25,197400,2368800
+1868,Shivansh Krish,46,Male,Kerala,Urban,Postgraduate,Government Officer (IAS/IPS etc.),26,180700,2168400
+1869,Forum Garg,53,Female,Madhya Pradesh,Urban,Doctorate,College Professor,30,335400,4024800
+1870,Ganga Shankar,38,Female,Maharashtra,Urban,Postgraduate,Accountant / CA,17,100500,1206000
+1871,Balveer De,34,Male,Gujarat,Urban,Postgraduate,School Teacher,10,57800,693600
+1872,Azaan Zacharia,51,Male,Bihar,Urban,Primary,Domestic Help,27,16100,193200
+1873,Harish Varghese,37,Male,Assam,Urban,Postgraduate,Accountant / CA,12,102800,1233600
+1874,Reyansh Tella,18,Male,Telangana,Urban,Postgraduate,Government Officer (IAS/IPS etc.),0,153000,1836000
+1875,Abdul Lalla,28,Male,Assam,Urban,Graduate,Accountant / CA,3,47800,573600
+1876,Garima Pradhan,25,Female,West Bengal,Urban,Graduate,Lawyer,0,158600,1903200
+1877,Bakhshi Sem,30,Male,Rajasthan,Urban,Graduate,Nurse,7,29400,352800
+1878,Naksh Divan,38,Male,Karnataka,Urban,Postgraduate,Bank Employee,14,110500,1326000
+1879,Nachiket Bhatia,50,Male,Rajasthan,Urban,Doctorate,Doctor,31,318700,3824400
+1880,Xavier Venkataraman,48,Male,Maharashtra,Rural,Secondary,Agriculture Laborer,23,14000,168000
+1881,Oliver Ravi,30,Male,West Bengal,Urban,Graduate,School Teacher,5,52400,628800
+1882,Dipta Prashad,45,Female,Bihar,Urban,Postgraduate,Lawyer,20,208300,2499600
+1883,Dominic Garde,36,Male,Tamil Nadu,Urban,Postgraduate,Nurse,14,60300,723600
+1884,Ekaraj Minhas,51,Male,Tamil Nadu,Rural,Primary,Farmer (Landowner),32,28600,343200
+1885,Kavya Gera,38,Female,Uttar Pradesh,Urban,Secondary,Small Business Owner,14,71900,862800
+1886,Lohit Ramanathan,28,Male,Haryana,Urban,Postgraduate,Lawyer,4,108400,1300800
+1887,Balendra Bawa,46,Male,Odisha,Urban,Graduate,Shop Owner / Retailer,25,30100,361200
+1888,Nidhi Cherian,24,Female,Karnataka,Rural,Higher Secondary,Farmer (Landowner),5,23300,279600
+1889,Dipta Sura,33,Female,Uttar Pradesh,Rural,Higher Secondary,Farmer (Landowner),7,16800,201600
+1890,Jagat Saha,40,Male,Tamil Nadu,Urban,Graduate,Government Clerk,14,61200,734400
+1891,Krishna Mittal,31,Male,Kerala,Urban,Graduate,School Teacher,10,31500,378000
+1892,Udarsh Sengupta,58,Male,Delhi,Rural,No Formal Education,Agriculture Laborer,33,9600,115200
+1893,Yahvi Sibal,47,Female,Haryana,Urban,Secondary,Shop Owner / Retailer,22,31000,372000
+1894,Mohini Rajagopalan,56,Female,Punjab,Urban,Postgraduate,Bank Employee,36,95500,1146000
+1895,Hemani Buch,27,Female,Tamil Nadu,Urban,Secondary,Auto/Taxi Driver,7,13700,164400
+1896,Xavier Ben,48,Male,Uttar Pradesh,Urban,Postgraduate,Accountant / CA,26,211100,2533200
+1897,Wridesh Sehgal,47,Male,Tamil Nadu,Urban,Postgraduate,Data Analyst,26,157600,1891200
+1898,Mohammed Sant,45,Male,Maharashtra,Urban,Postgraduate,Doctor,22,420700,5048400
+1899,Quincy Tiwari,47,Male,Uttar Pradesh,Urban,Graduate,Civil Engineer,27,145100,1741200
+1900,Netra Nori,60,Female,Uttar Pradesh,Urban,Secondary,Auto/Taxi Driver,39,28500,342000
+1901,Patrick Ram,53,Male,Maharashtra,Rural,Primary,Agriculture Laborer,29,13800,165600
+1902,Ganga Iyengar,28,Female,Madhya Pradesh,Urban,Postgraduate,Civil Engineer,3,46800,561600
+1903,Hardik Bhakta,30,Male,Karnataka,Urban,Doctorate,Doctor,7,334500,4014000
+1904,Ishwar Thaker,52,Male,Karnataka,Rural,No Formal Education,Agriculture Laborer,32,13400,160800
+1905,Prisha Choudhry,37,Female,Tamil Nadu,Urban,Postgraduate,College Professor,16,126300,1515600
+1906,Triveni Atwal,36,Female,Madhya Pradesh,Urban,Doctorate,College Professor,12,176200,2114400
+1907,Bhavika Ratta,30,Female,Uttar Pradesh,Rural,Higher Secondary,Farmer (Landowner),8,12200,146400
+1908,Fiyaz Vaidya,31,Male,Tamil Nadu,Urban,Doctorate,College Professor,10,143000,1716000
+1909,Atharv Murthy,30,Male,Kerala,Urban,No Formal Education,Domestic Help,4,7600,91200
+1910,Falan Rattan,18,Male,West Bengal,Urban,Postgraduate,Software Engineer,0,248500,2982000
+1911,Eshana Savant,45,Female,Kerala,Urban,Primary,Domestic Help,21,16200,194400
+1912,Girish Buch,24,Male,West Bengal,Urban,Primary,Domestic Help,3,9400,112800
+1913,Tejas Lal,24,Male,Assam,Rural,Primary,Farmer (Landowner),0,9000,108000
+1914,Zehaan Gole,49,Male,Assam,Urban,Graduate,Government Clerk,23,35200,422400
+1915,Sathvik Kamdar,22,Male,Tamil Nadu,Urban,Graduate,Civil Engineer,3,98800,1185600
+1916,Christopher Kothari,34,Male,Delhi,Urban,Secondary,Domestic Help,13,14600,175200
+1917,Nathan Bajwa,20,Male,Gujarat,Urban,Graduate,Lawyer,0,72100,865200
+1918,Kamala Doctor,36,Female,Madhya Pradesh,Urban,Graduate,Nurse,13,37900,454800
+1919,Baghyawati Natarajan,41,Female,Telangana,Urban,Graduate,Government Officer (IAS/IPS etc.),18,117000,1404000
+1920,Jason Chopra,33,Male,West Bengal,Urban,Graduate,Software Engineer,8,124700,1496400
+1921,Ekani Balan,32,Female,Bihar,Urban,Higher Secondary,Government Clerk,12,32400,388800
+1922,Faraj Mohanty,47,Male,Gujarat,Urban,Graduate,Government Clerk,23,48300,579600
+1923,Krisha Oak,18,Female,Maharashtra,Urban,Graduate,Data Analyst,0,112100,1345200
+1924,Jagat Ravi,43,Male,Madhya Pradesh,Urban,Postgraduate,Civil Engineer,18,119700,1436400
+1925,Max Gaba,34,Male,Maharashtra,Urban,No Formal Education,Auto/Taxi Driver,10,19000,228000
+1926,Mahika Dutt,48,Female,Gujarat,Urban,Primary,Construction Worker,23,16300,195600
+1927,Jhalak Dave,25,Female,Rajasthan,Urban,Higher Secondary,Shop Owner / Retailer,4,50600,607200
+1928,Abdul Kohli,38,Male,Bihar,Urban,Postgraduate,Accountant / CA,19,145800,1749600
+1929,Andrew Anand,33,Male,Telangana,Urban,Graduate,Government Clerk,7,43100,517200
+1930,Lipika Das,35,Female,Odisha,Urban,Postgraduate,Accountant / CA,12,85200,1022400
+1931,Anika Patil,36,Female,West Bengal,Urban,No Formal Education,Domestic Help,17,9600,115200
+1932,Chakradev Manda,42,Male,West Bengal,Urban,Postgraduate,Doctor,19,232200,2786400
+1933,Luke Parikh,31,Male,West Bengal,Urban,Graduate,Nurse,8,49600,595200
+1934,Jalsa Ahuja,57,Female,Karnataka,Urban,Postgraduate,Doctor,31,239000,2868000
+1935,Kashish Bava,46,Female,Maharashtra,Urban,Postgraduate,Government Officer (IAS/IPS etc.),21,134400,1612800
+1936,Neel Nagy,25,Male,Tamil Nadu,Urban,Postgraduate,Doctor,6,130600,1567200
+1937,Ekansh Chakrabarti,31,Male,Delhi,Urban,Secondary,Shop Owner / Retailer,12,34600,415200
+1938,Lila Pai,43,Female,Maharashtra,Urban,Postgraduate,Doctor,20,123100,1477200
+1939,Vedika Palan,52,Female,Madhya Pradesh,Urban,Graduate,Lawyer,33,138300,1659600
+1940,Manya Rai,49,Female,Kerala,Rural,Secondary,Agriculture Laborer,25,24900,298800
+1941,Isaac Kade,40,Male,West Bengal,Urban,Postgraduate,Civil Engineer,17,161400,1936800
+1942,Anamika Chokshi,45,Female,Gujarat,Urban,Doctorate,College Professor,22,169500,2034000
+1943,Guneet Agate,27,Male,Delhi,Urban,Graduate,Software Engineer,8,198800,2385600
+1944,Parth Bahl,44,Male,Maharashtra,Urban,Secondary,Auto/Taxi Driver,18,25200,302400
+1945,Balendra Ray,48,Male,West Bengal,Urban,Secondary,Construction Worker,25,20700,248400
+1946,Gabriel D’Alia,31,Male,Punjab,Urban,Secondary,Small Business Owner,5,34900,418800
+1947,Bahadurjit Deshmukh,45,Male,Karnataka,Urban,Graduate,Lawyer,25,253500,3042000
+1948,Atharv Doshi,22,Male,Maharashtra,Urban,Graduate,Lawyer,0,133000,1596000
+1949,Lajita Gandhi,70,Female,Maharashtra,Urban,Graduate,Lawyer,47,202600,2431200
+1950,Leena Sengupta,45,Female,Uttar Pradesh,Urban,Graduate,Software Engineer,21,80400,964800
+1951,Ekavir Behl,52,Male,Gujarat,Urban,Graduate,Data Analyst,29,163500,1962000
+1952,Wishi Mukherjee,29,Female,Maharashtra,Urban,Higher Secondary,Shop Owner / Retailer,5,22900,274800
+1953,Anusha Ganesan,38,Female,Maharashtra,Urban,Postgraduate,Data Analyst,16,71900,862800
+1954,Siddharth Soman,27,Other,Madhya Pradesh,Urban,Graduate,Data Analyst,3,108600,1303200
+1955,Thomas Vig,18,Male,Bihar,Urban,No Formal Education,Auto/Taxi Driver,0,10300,123600
+1956,Balveer Bhatia,32,Male,Madhya Pradesh,Urban,Postgraduate,School Teacher,12,45400,544800
+1957,Yamini Radhakrishnan,38,Female,Uttar Pradesh,Urban,Graduate,Accountant / CA,15,71700,860400
+1958,Rachana Devan,35,Female,Punjab,Urban,Postgraduate,School Teacher,9,42900,514800
+1959,Idika Biswas,22,Female,Gujarat,Urban,Graduate,Civil Engineer,0,94100,1129200
+1960,Gauri Peri,44,Female,Assam,Urban,Postgraduate,Accountant / CA,25,149200,1790400
+1961,Agastya Aggarwal,18,Male,Telangana,Urban,Graduate,Shop Owner / Retailer,0,20200,242400
+1962,Jeet Chauhan,32,Male,Madhya Pradesh,Urban,Postgraduate,Lawyer,13,98500,1182000
+1963,Krisha Handa,19,Female,Odisha,Urban,Secondary,Domestic Help,0,14700,176400
+1964,Abeer Barman,38,Male,West Bengal,Urban,Higher Secondary,Government Clerk,19,57100,685200
+1965,Barkha Divan,45,Female,Maharashtra,Urban,Doctorate,College Professor,20,308800,3705600
+1966,Omya Sule,31,Female,Haryana,Urban,Graduate,Shop Owner / Retailer,8,27400,328800
+1967,Qabil Kara,18,Male,Karnataka,Urban,Graduate,Software Engineer,0,132400,1588800
+1968,Bahadurjit Narayan,56,Male,Rajasthan,Urban,Doctorate,Doctor,34,314800,3777600
+1969,Rishi Kalla,40,Male,West Bengal,Urban,Higher Secondary,Factory Worker,21,28100,337200
+1970,Ronith Balakrishnan,51,Male,Gujarat,Rural,Primary,Agriculture Laborer,29,18000,216000
+1971,Finn Shanker,38,Male,Gujarat,Urban,Higher Secondary,Factory Worker,12,22800,273600
+1972,Sara Pant,43,Female,Karnataka,Rural,Secondary,Farmer (Landowner),20,28200,338400
+1973,Anirudh Wali,32,Male,Punjab,Urban,Postgraduate,Lawyer,10,185800,2229600
+1974,Dayamai Seth,22,Female,Gujarat,Urban,Postgraduate,Doctor,0,114600,1375200
+1975,Vansha Naidu,35,Female,Assam,Urban,No Formal Education,Domestic Help,11,14300,171600
+1976,Mason Bajwa,42,Male,Kerala,Urban,Doctorate,Doctor,17,437700,5252400
+1977,Gavin Luthra,51,Male,Maharashtra,Rural,No Formal Education,Agriculture Laborer,32,21100,253200
+1978,David Kibe,32,Male,Delhi,Urban,Graduate,Lawyer,11,193300,2319600
+1979,Gunbir Kala,46,Male,West Bengal,Urban,Postgraduate,Data Analyst,23,191700,2300400
+1980,Ayaan D’Alia,34,Male,Punjab,Urban,No Formal Education,Construction Worker,14,12100,145200
+1981,Abhiram Mishra,18,Male,Bihar,Urban,Graduate,School Teacher,0,32200,386400
+1982,Yashawini Prabhu,44,Female,Karnataka,Urban,Postgraduate,Data Analyst,22,103700,1244400
+1983,Eta Badal,57,Female,Gujarat,Rural,Higher Secondary,Farmer (Landowner),38,34900,418800
+1984,Yug Som,38,Male,Telangana,Urban,Graduate,Shop Owner / Retailer,12,37400,448800
+1985,Janaki Sundaram,35,Female,Telangana,Urban,Graduate,Small Business Owner,12,92300,1107600
+1986,Ikshita Kalita,18,Female,Delhi,Urban,Higher Secondary,Factory Worker,0,13600,163200
+1987,Sachi Kala,34,Female,Uttar Pradesh,Rural,Secondary,Agriculture Laborer,9,16400,196800
+1988,Unnati Hora,38,Female,Maharashtra,Urban,Postgraduate,Software Engineer,13,228900,2746800
+1989,Ronith Menon,40,Male,Karnataka,Urban,Secondary,Domestic Help,21,14000,168000
+1990,Ekanta Divan,32,Female,Telangana,Urban,Graduate,Accountant / CA,13,67900,814800
+1991,Ganga Goyal,30,Female,Uttar Pradesh,Urban,Postgraduate,Data Analyst,10,127200,1526400
+1992,Advay Seth,47,Male,Gujarat,Urban,Graduate,Government Officer (IAS/IPS etc.),22,289900,3478800
+1993,Zinal Konda,39,Female,Gujarat,Urban,Postgraduate,Bank Employee,20,68600,823200
+1994,Bimala Pau,31,Female,Maharashtra,Rural,Primary,Farmer (Landowner),9,12900,154800
+1995,Bachittar Pandit,28,Male,Gujarat,Urban,Postgraduate,College Professor,3,92900,1114800
+1996,Ucchal Dayal,43,Female,Maharashtra,Urban,Postgraduate,School Teacher,23,46800,561600
+1997,Ishaan Kala,36,Male,Telangana,Urban,Postgraduate,Bank Employee,13,54400,652800
+1998,Chakrika Mohan,20,Female,Maharashtra,Urban,Postgraduate,School Teacher,0,35600,427200
+1999,Amol Kulkarni,51,Male,Uttar Pradesh,Urban,Postgraduate,Lawyer,25,176200,2114400
+2000,Nathan Pillay,49,Male,Gujarat,Urban,Graduate,Shop Owner / Retailer,29,49800,597600
